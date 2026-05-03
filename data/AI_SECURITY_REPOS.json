@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T19:45:35.737686+00:00",
+  "generated_at": "2026-05-03T19:58:26.816996+00:00",
   "repo_count": 247,
   "repos": [
     {
@@ -547,7 +547,7 @@
       "url": "https://github.com/agamm/claude-code-owasp",
       "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks.",
       "stars": 168,
-      "forks": 16,
+      "forks": 17,
       "language": null,
       "topics": [
         "ai-security",
@@ -814,7 +814,7 @@
         "ssrf",
         "ssrf-protection"
       ],
-      "updated_at": "2026-05-03T14:16:27Z",
+      "updated_at": "2026-05-03T19:41:01Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -5804,7 +5804,7 @@
       "full_name": "asamassekou10/ship-safe",
       "url": "https://github.com/asamassekou10/ship-safe",
       "description": "CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.",
-      "stars": 658,
+      "stars": 659,
       "forks": 76,
       "language": "JavaScript",
       "topics": [
@@ -5817,7 +5817,7 @@
         "security-tools",
         "static-analysis"
       ],
-      "updated_at": "2026-05-03T07:53:17Z",
+      "updated_at": "2026-05-03T19:43:53Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
