@@ -1,14 +1,18 @@
 # AI Security Repository Radar
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=00D4FF&width=900&lines=AI+Security+Radar;LLM+Security+%7C+MCP+Security+%7C+RAG+Security;Updated+Daily)](https://git.io/typing-svg)
+
+![Repos](https://img.shields.io/badge/repos-247-blue) ![Stars](https://img.shields.io/badge/stars-70155-yellow) ![Forks](https://img.shields.io/badge/forks-10626-orange) ![Updated](https://img.shields.io/badge/updated-daily-brightgreen) ![Maintained](https://img.shields.io/badge/maintained-yes-success)
+
 > Automatically discovered and categorized GitHub repositories focused on AI security, LLM security, MCP security, RAG security, agent security, AI red teaming, model security, and AI supply chain security.
 
-**Last updated:** `2026-05-03T17:26:19.127843+00:00`
+**Last updated:** `2026-05-03T19:45:35.737686+00:00`
 
 ---
 
 ## 🚀 Executive Summary
 
-- 🏆 **Most starred repo:** [aliasrobotics/cai](https://github.com/aliasrobotics/cai) with **8,368** stars
+- 🏆 **Most starred repo:** [aliasrobotics/cai](https://github.com/aliasrobotics/cai) with **8,369** stars
 - 🔥 **Top 24h mover:** [devmonixtechnologies/prix](https://github.com/devmonixtechnologies/prix) with **+0** stars today
 - 🆕 **New repos discovered:** **247**
 - 📦 **Largest category:** **Labs**
@@ -21,8 +25,8 @@
 | Metric | Value |
 |---|---:|
 | Total repositories | 247 |
-| Total stars tracked | 70,148 |
-| Total forks tracked | 10,623 |
+| Total stars tracked | 70,155 |
+| Total forks tracked | 10,626 |
 | Trending repositories | 0 |
 | New repositories | 247 |
 | Categories | 10 |
@@ -64,7 +68,7 @@ No trending repositories yet. This is normal during the first few daily runs.
 
 Prix AI Security System is an extremely sophisticated, multi-layered security platform designed to detect, catch, and block the most dangerous cyber threats including Pegasus spyware, ransomware, APT attacks, and zero...
 
-- **Category:** AI Governance / Risk
+- **Category:** ⚖️ AI Governance / Risk
 - **Subcategory:** Dashboard / Platform
 - **Stars:** 19
 - **Forks:** 3
@@ -77,7 +81,7 @@ Prix AI Security System is an extremely sophisticated, multi-layered security pl
 
 AI Red Team Operations Console
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Dashboard / Platform
 - **Stars:** 14
 - **Forks:** 7
@@ -90,7 +94,7 @@ AI Red Team Operations Console
 
 AI Red Team & Blue Team Tips & Tricks!
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** RAG Poisoning
 - **Stars:** 10
 - **Forks:** 1
@@ -103,7 +107,7 @@ AI Red Team & Blue Team Tips & Tricks!
 
 An awesome and comprehensive list of LLM Securtiy Startups.
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Prompt Injection Defense
 - **Stars:** 15
 - **Forks:** 0
@@ -116,7 +120,7 @@ An awesome and comprehensive list of LLM Securtiy Startups.
 
 The GitHub Action for Promptfoo. Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative co...
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Benchmarks / Eval
 - **Stars:** 63
 - **Forks:** 31
@@ -129,7 +133,7 @@ The GitHub Action for Promptfoo. Test your prompts, agents, and RAGs. AI Red tea
 
 All things specific to LLM Red Teaming Generative AI
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Benchmarks / Eval
 - **Stars:** 30
 - **Forks:** 3
@@ -142,7 +146,7 @@ All things specific to LLM Red Teaming Generative AI
 
 A comprehensive GenAI protection system designed to protect against malicious prompts, injection attacks, and harmful content. System incorporates multiple engines that operate in sequence to analyze and classify user...
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** RAG Poisoning
 - **Stars:** 101
 - **Forks:** 6
@@ -155,7 +159,7 @@ A comprehensive GenAI protection system designed to protect against malicious pr
 
 Official implementation of paper: DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Jailbreak Testing
 - **Stars:** 66
 - **Forks:** 13
@@ -168,7 +172,7 @@ Official implementation of paper: DrAttack: Prompt Decomposition and Reconstruct
 
 Open-source AI agent red-team engine, SDK, and CLI. Run offline or against the Humanbound Platform.
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Guardrails
 - **Stars:** 18
 - **Forks:** 0
@@ -181,7 +185,7 @@ Open-source AI agent red-team engine, SDK, and CLI. Run offline or against the H
 
 CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and LLM-as-a-Judge Evaluation
 
-- **Category:** AI Red Teaming
+- **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Dashboard / Platform
 - **Stars:** 15
 - **Forks:** 3
@@ -196,13 +200,13 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 | Repo | Category | Stars | Forks | Language | Score |
 |---|---|---:|---:|---|---:|
-| [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | Labs | 8,368 | 1,221 | `Python` | 22 |
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | Labs | 7,714 | 918 | `Python` | 24 |
+| [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | Labs | 8,369 | 1,221 | `Python` | 22 |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | Labs | 7,715 | 919 | `Python` | 24 |
 | [superagent-ai/superagent](https://github.com/superagent-ai/superagent) | LLM Application Security | 6,576 | 962 | `TypeScript` | 18 |
 | [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Labs | 4,159 | 726 | `Python` | 29 |
 | [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | LLM Application Security | 3,886 | 477 | `HTML` | 22 |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | Labs | 3,615 | 358 | `Python` | 26 |
-| [greshake/llm-security](https://github.com/greshake/llm-security) | Labs | 2,082 | 150 | `Jupyter Notebook` | 18 |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | Labs | 3,616 | 358 | `Python` | 26 |
+| [greshake/llm-security](https://github.com/greshake/llm-security) | Labs | 2,083 | 150 | `Jupyter Notebook` | 18 |
 | [CryptoAILab/Awesome-LM-SSP](https://github.com/CryptoAILab/Awesome-LM-SSP) | LLM Application Security | 1,949 | 137 | `None` | 23 |
 | [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Labs | 1,622 | 219 | `None` | 29 |
 | [openappsec/openappsec](https://github.com/openappsec/openappsec) | Labs | 1,604 | 120 | `C++` | 13 |
@@ -216,10 +220,10 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 | [AI Governance / Risk](#ai-governance-risk) | 1 | 19 | +0 | [devmonixtechnologies/prix](https://github.com/devmonixtechnologies/prix) |
 | [AI Red Teaming](#ai-red-teaming) | 11 | 665 | +0 | [joey-melo/payloads](https://github.com/joey-melo/payloads) |
 | [AI Supply Chain Security](#ai-supply-chain-security) | 1 | 82 | +0 | [Sydsec/syd](https://github.com/Sydsec/syd) |
-| [Agent Security](#agent-security) | 13 | 1,381 | +0 | [BakeLens/crust](https://github.com/BakeLens/crust) |
+| [Agent Security](#agent-security) | 13 | 1,382 | +0 | [BakeLens/crust](https://github.com/BakeLens/crust) |
 | [Detection / Monitoring](#detection-monitoring) | 1 | 15 | +0 | [jagreehal/pydantic-ai-guardrails](https://github.com/jagreehal/pydantic-ai-guardrails) |
 | [LLM Application Security](#llm-application-security) | 50 | 18,817 | +0 | [superagent-ai/superagent](https://github.com/superagent-ai/superagent) |
-| [Labs](#labs) | 138 | 43,655 | +0 | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) |
+| [Labs](#labs) | 138 | 43,661 | +0 | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) |
 | [MCP Security](#mcp-security) | 25 | 4,235 | +0 | [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) |
 | [Model Security](#model-security) | 3 | 197 | +0 | [AiGptCode/Ai-Security-URL](https://github.com/AiGptCode/Ai-Security-URL) |
 | [Other AI Security](#other-ai-security) | 4 | 1,082 | +0 | [OWASP/www-project-ai-security-and-privacy-guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) |
@@ -230,7 +234,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="ai-governance-risk"></a>
 
-## AI Governance / Risk
+## ⚖️ AI Governance / Risk
 
 **Repositories:** 1  
 **Stars:** 19  
@@ -248,7 +252,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="ai-red-teaming"></a>
 
-## AI Red Teaming
+## ⚔️ AI Red Teaming
 
 **Repositories:** 11  
 **Stars:** 665  
@@ -306,7 +310,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="ai-supply-chain-security"></a>
 
-## AI Supply Chain Security
+## 📦 AI Supply Chain Security
 
 **Repositories:** 1  
 **Stars:** 82  
@@ -324,10 +328,10 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="agent-security"></a>
 
-## Agent Security
+## 🤖 Agent Security
 
 **Repositories:** 13  
-**Stars:** 1,381  
+**Stars:** 1,382  
 **7-day growth:** +0
 
 ### Benchmarks / Eval
@@ -375,7 +379,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 |---|---|---:|---:|---|---:|
 | 🆕 🧠 [QWED-AI/qwed-verification](https://github.com/QWED-AI/qwed-verification) | AISecOps (AI Security Operations) framework for deterministic verification of AI systems. QWED verifies LLM outputs u... | 56 | +0 / +0 | `Python` | 28 |
 | 🆕 [Aembit/agentic-ai-security-starter-kit](https://github.com/Aembit/agentic-ai-security-starter-kit) | Working code examples to defend against Agentic AI threats: prompt injection detection, Claude Code hooks, OPA polici... | 13 | +0 / +0 | `Python` | 24 |
-| 🆕 [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) | Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security,... | 167 | +0 / +0 | `None` | 18 |
+| 🆕 [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) | Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security,... | 168 | +0 / +0 | `None` | 18 |
 | 🆕 [mdhaarishussain/chaos-kitten](https://github.com/mdhaarishussain/chaos-kitten) | An agentic AI security testing tool that intelligently finds vulnerabilities in APIs. Built for the CNCF ecosystem. | 17 | +0 / +0 | `Python` | 15 |
 
 [Back to top](#ai-security-repository-radar)
@@ -384,7 +388,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="detection-monitoring"></a>
 
-## Detection / Monitoring
+## 📡 Detection / Monitoring
 
 **Repositories:** 1  
 **Stars:** 15  
@@ -402,7 +406,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="llm-application-security"></a>
 
-## LLM Application Security
+## 🛡️ LLM Application Security
 
 **Repositories:** 50  
 **Stars:** 18,817  
@@ -509,10 +513,10 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="labs"></a>
 
-## Labs
+## 🧪 Labs
 
 **Repositories:** 138  
-**Stars:** 43,655  
+**Stars:** 43,661  
 **7-day growth:** +0
 
 ### AI Labs
@@ -533,7 +537,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 | 🆕 🧠 [ethanolivertroy/unpromptedcon-2026-slides](https://github.com/ethanolivertroy/unpromptedcon-2026-slides) | Community collection of all available slide decks from [un]prompted 2026, the AI Security Practitioner Conference (Ma... | 41 | +0 / +0 | `None` | 34 |
 | 🆕 🧠 [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) | A curation of awesome tools, documents and projects about LLM Security. | 1,577 | +0 / +0 | `None` | 32 |
 | 🆕 🧠 [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Set of tools to assess and improve LLM security. | 4,159 | +0 / +0 | `Python` | 29 |
-| 🆕 🧠 [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP ... | 3,615 | +0 / +0 | `Python` | 26 |
+| 🆕 🧠 [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP ... | 3,616 | +0 / +0 | `Python` | 26 |
 | 🆕 🧠 [lakeraai/pint-benchmark](https://github.com/lakeraai/pint-benchmark) | A benchmark for prompt injection detection systems. | 182 | +0 / +0 | `Jupyter Notebook` | 26 |
 | 🆕 🧠 [kagnlp/Awesome-Agentic-Security](https://github.com/kagnlp/Awesome-Agentic-Security) | A curated list of 150+ papers and resources on Agentic Security. Based on the survey covering the transition from pas... | 42 | +0 / +0 | `None` | 26 |
 | 🆕 🧠 [TrustAI-laboratory/LMAP](https://github.com/TrustAI-laboratory/LMAP) | LMAP (large language model mapper) is like NMAP for LLM, is an LLM Vulnerability Scanner and Zero-day Vulnerability F... | 29 | +0 / +0 | `None` | 26 |
@@ -560,7 +564,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 | 🆕 🧠 [kaplanlior/oss-llm-security](https://github.com/kaplanlior/oss-llm-security) | Curated list of Open Source project focused on LLM security | 75 | +0 / +0 | `None` | 41 |
 | 🆕 🧠 [olegnazarov/llm-fortress](https://github.com/olegnazarov/llm-fortress) | Enterprise AI Security Platform - Real-time firewall protection for LLM applications against prompt injection, data l... | 23 | +0 / +0 | `Python` | 33 |
 | 🆕 🧠 [Helixar-AI/mcp-security-checklist](https://github.com/Helixar-AI/mcp-security-checklist) | MCP is being adopted rapidly. Security guidance is lagging behind. This checklist gives security engineers, platform ... | 21 | +0 / +0 | `None` | 25 |
-| 🆕 🏆 [NVIDIA/garak](https://github.com/NVIDIA/garak) | the LLM vulnerability scanner | 7,714 | +0 / +0 | `Python` | 24 |
+| 🆕 🏆 [NVIDIA/garak](https://github.com/NVIDIA/garak) | the LLM vulnerability scanner | 7,715 | +0 / +0 | `Python` | 24 |
 | 🆕 [ruvnet/agentic-security](https://github.com/ruvnet/agentic-security) | No description. | 40 | +0 / +0 | `Python` | 13 |
 | 🆕 [tomabai/llm-sec](https://github.com/tomabai/llm-sec) | A hands-on learning platform for understanding and testing LLM security vulnerabilities | 20 | +0 / +0 | `TypeScript` | 13 |
 | 🆕 [royapakzad/multilingual-ai-safety-evaluation](https://github.com/royapakzad/multilingual-ai-safety-evaluation) | Evaluate LLM safety and performance across non-English languages. | 13 | +0 / +0 | `TypeScript` | 12 |
@@ -636,7 +640,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 | 🆕 🧠 [AIM-Intelligence/awesome-mcp-security](https://github.com/AIM-Intelligence/awesome-mcp-security) | Security Threats related with MCP (Model Context Protocol), MCP Servers and more | 48 | +0 / +0 | `None` | 33 |
 | 🆕 🧠 [webpro255/awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks) | A curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). Every entry source... | 10 | +0 / +0 | `None` | 29 |
 | 🆕 🧠 [briland/LLM-security-and-privacy](https://github.com/briland/LLM-security-and-privacy) | LLM security and privacy | 54 | +0 / +0 | `TeX` | 28 |
-| 🆕 🧠 [lasso-security/claude-hooks](https://github.com/lasso-security/claude-hooks) | Lasso security integrations for Claude Code, including prompt-injection defenses | 221 | +0 / +0 | `TypeScript` | 27 |
+| 🆕 🧠 [lasso-security/claude-hooks](https://github.com/lasso-security/claude-hooks) | Lasso security integrations for Claude Code, including prompt-injection defenses | 222 | +0 / +0 | `TypeScript` | 27 |
 | 🆕 🧠 [Seezo-io/llm-security-101](https://github.com/Seezo-io/llm-security-101) | Delving into the Realm of LLM Security: An Exploration of Offensive and Defensive Tools, Unveiling Their Present Capa... | 168 | +0 / +0 | `None` | 27 |
 | 🆕 🧠 [shaialon/ai-security-demos](https://github.com/shaialon/ai-security-demos) | 🤯 AI Security EXPOSED! Live Demos Showing Hidden Risks of 🤖 Agentic AI Flows: 💉Prompt Injection, ☣️ Data Poisoning. W... | 22 | +0 / +0 | `JavaScript` | 26 |
 | 🆕 🧠 [arekusandr/last_layer](https://github.com/arekusandr/last_layer) | Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️ | 127 | +0 / +0 | `Python` | 25 |
@@ -644,9 +648,9 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 | 🆕 🧠 [TrustAI-laboratory/LLM-Security-CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF) | Learn LLM/AI Security through a series of vulnerable LLM CTF challenges. No sign ups, all fees, everything on the web... | 15 | +0 / +0 | `None` | 25 |
 | 🆕 🧠 [hermes-labs-ai/little-canary](https://github.com/hermes-labs-ai/little-canary) | Prompt injection detection for LLM apps using sacrificial canary-model probes and structural preflight checks | 12 | +0 / +0 | `Python` | 25 |
 | 🆕 [sidhpurwala-huzaifa/mcp-security-scanner](https://github.com/sidhpurwala-huzaifa/mcp-security-scanner) | Scan any running MCP server to produce an actionable security report of vulnerabilities and misconfigurations. | 21 | +0 / +0 | `Python` | 24 |
-| 🆕 🏆 [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | Cybersecurity AI (CAI), the framework for AI Security | 8,368 | +0 / +0 | `Python` | 22 |
+| 🆕 🏆 [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | Cybersecurity AI (CAI), the framework for AI Security | 8,369 | +0 / +0 | `Python` | 22 |
 | 🆕 [AdityaBhatt3010/Hacking-Lakera-Gandalf-AI-via-Prompt-Injection](https://github.com/AdityaBhatt3010/Hacking-Lakera-Gandalf-AI-via-Prompt-Injection) | Lakera Gandalf AI challenge's step by step walkthrough, showcasing real-world prompt injection techniques and LLM sec... | 14 | +0 / +0 | `None` | 21 |
-| 🆕 [greshake/llm-security](https://github.com/greshake/llm-security) | New ways of breaking app-integrated LLMs | 2,082 | +0 / +0 | `Jupyter Notebook` | 18 |
+| 🆕 [greshake/llm-security](https://github.com/greshake/llm-security) | New ways of breaking app-integrated LLMs | 2,083 | +0 / +0 | `Jupyter Notebook` | 18 |
 | 🆕 [GoogleCloudPlatform/activation-model-scanner](https://github.com/GoogleCloudPlatform/activation-model-scanner) | Verify language model safety before deployment by analyzing activation patterns | 13 | +0 / +0 | `Python` | 18 |
 | 🆕 [kaijiezhu11/MELON](https://github.com/kaijiezhu11/MELON) | [ICML'25] MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents | 28 | +0 / +0 | `Python` | 17 |
 | 🆕 [facebookresearch/Meta_SecAlign](https://github.com/facebookresearch/Meta_SecAlign) | Repo for the paper "Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks". | 63 | +0 / +0 | `Python` | 15 |
@@ -708,7 +712,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 | 🆕 [cybozu/prompt-hardener](https://github.com/cybozu/prompt-hardener) | Prompt Hardener analyzes prompt-injection-originated risk in LLM-based agents and applications. | 51 | +0 / +0 | `Python` | 20 |
 | 🆕 [PawelKozy/mcp-breach-to-fix-labs](https://github.com/PawelKozy/mcp-breach-to-fix-labs) | Hands-on MCP security lab: 10 real incidents reproduced with vulnerable/secure MCP servers, pytest regressions, and C... | 88 | +0 / +0 | `Python` | 17 |
 | 🆕 [microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry](https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry) | No description. | 23 | +0 / +0 | `Jupyter Notebook` | 15 |
-| 🆕 [CyberAlbSecOP/Awesome_CyberSec_Bible](https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible) | Cyber-Security Bible! Theory and Tools, Kali Linux, Penetration Testing, Bug Bounty, CTFs, Malware Analysis, Cryptogr... | 195 | +0 / +0 | `None` | 14 |
+| 🆕 [CyberAlbSecOP/Awesome_CyberSec_Bible](https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible) | Cyber-Security Bible! Theory and Tools, Kali Linux, Penetration Testing, Bug Bounty, CTFs, Malware Analysis, Cryptogr... | 196 | +0 / +0 | `None` | 14 |
 | 🆕 [dwarvesf/claude-guardrails](https://github.com/dwarvesf/claude-guardrails) | Hardened security configuration for Claude Code; permission deny rules, shell hooks, and prompt injection defense in ... | 13 | +0 / +0 | `Shell` | 14 |
 | 🆕 [andrasfe/vulnicheck](https://github.com/andrasfe/vulnicheck) | Python vulnerability scanner & MCP security toolkit. Real-time dependency checking via OSV/NVD/GitHub Advisory DBs, D... | 11 | +0 / +0 | `Python` | 13 |
 | 🆕 [Srajangpt1/ai-security-crew](https://github.com/Srajangpt1/ai-security-crew) | MCP to put security context while vibe coding | 63 | +0 / +0 | `Python` | 12 |
@@ -719,7 +723,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="mcp-security"></a>
 
-## MCP Security
+## 🧩 MCP Security
 
 **Repositories:** 25  
 **Stars:** 4,235  
@@ -791,7 +795,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="model-security"></a>
 
-## Model Security
+## 🧬 Model Security
 
 **Repositories:** 3  
 **Stars:** 197  
@@ -821,7 +825,7 @@ CEREBRO-RED v2: Advanced LLM Red Team Research Platform with PAIR Algorithm and 
 
 <a id="other-ai-security"></a>
 
-## Other AI Security
+## 🔐 Other AI Security
 
 **Repositories:** 4  
 **Stars:** 1,082  

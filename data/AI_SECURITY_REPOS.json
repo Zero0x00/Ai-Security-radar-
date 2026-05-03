@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T17:26:19.127843+00:00",
+  "generated_at": "2026-05-03T19:45:35.737686+00:00",
   "repo_count": 247,
   "repos": [
     {
@@ -546,7 +546,7 @@
       "full_name": "agamm/claude-code-owasp",
       "url": "https://github.com/agamm/claude-code-owasp",
       "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks.",
-      "stars": 167,
+      "stars": 168,
       "forks": 16,
       "language": null,
       "topics": [
@@ -561,7 +561,7 @@
         "security",
         "vulnerability"
       ],
-      "updated_at": "2026-05-02T05:08:59Z",
+      "updated_at": "2026-05-03T18:30:50Z",
       "category": "Agent Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -3336,7 +3336,7 @@
       "full_name": "lasso-security/claude-hooks",
       "url": "https://github.com/lasso-security/claude-hooks",
       "description": "Lasso security integrations for Claude Code, including prompt-injection defenses",
-      "stars": 221,
+      "stars": 222,
       "forks": 24,
       "language": "TypeScript",
       "topics": [
@@ -3349,7 +3349,7 @@
         "prompt-injection",
         "prompt-injection-llm-security"
       ],
-      "updated_at": "2026-05-03T03:04:50Z",
+      "updated_at": "2026-05-03T18:21:38Z",
       "category": "Labs",
       "subcategories": [
         "Prompt Injection Defense"
@@ -3391,7 +3391,7 @@
       "topics": [
         "aisecurity"
       ],
-      "updated_at": "2026-05-03T12:12:50Z",
+      "updated_at": "2026-05-03T17:29:36Z",
       "category": "Labs",
       "subcategories": [
         "Tool / Function Calling"
@@ -3464,7 +3464,7 @@
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "stars": 3615,
+      "stars": 3616,
       "forks": 358,
       "language": "Python",
       "topics": [
@@ -3488,7 +3488,7 @@
         "skills-security",
         "vulnerability"
       ],
-      "updated_at": "2026-05-03T16:17:17Z",
+      "updated_at": "2026-05-03T19:17:25Z",
       "category": "Labs",
       "subcategories": [
         "Benchmarks / Eval"
@@ -3938,8 +3938,8 @@
       "full_name": "NVIDIA/garak",
       "url": "https://github.com/NVIDIA/garak",
       "description": "the LLM vulnerability scanner",
-      "stars": 7714,
-      "forks": 918,
+      "stars": 7715,
+      "forks": 919,
       "language": "Python",
       "topics": [
         "ai",
@@ -3948,7 +3948,7 @@
         "security-scanners",
         "vulnerability-assessment"
       ],
-      "updated_at": "2026-05-03T14:21:11Z",
+      "updated_at": "2026-05-03T18:18:22Z",
       "category": "Labs",
       "subcategories": [
         "Dashboard / Platform"
@@ -4081,7 +4081,7 @@
       "full_name": "aliasrobotics/cai",
       "url": "https://github.com/aliasrobotics/cai",
       "description": "Cybersecurity AI (CAI), the framework for AI Security",
-      "stars": 8368,
+      "stars": 8369,
       "forks": 1221,
       "language": "Python",
       "topics": [
@@ -4092,7 +4092,7 @@
         "llm",
         "pentesting"
       ],
-      "updated_at": "2026-05-03T15:28:58Z",
+      "updated_at": "2026-05-03T18:38:18Z",
       "category": "Labs",
       "subcategories": [
         "Prompt Injection Defense"
@@ -4230,11 +4230,11 @@
       "full_name": "greshake/llm-security",
       "url": "https://github.com/greshake/llm-security",
       "description": "New ways of breaking app-integrated LLMs ",
-      "stars": 2082,
+      "stars": 2083,
       "forks": 150,
       "language": "Jupyter Notebook",
       "topics": [],
-      "updated_at": "2026-05-02T04:42:39Z",
+      "updated_at": "2026-05-03T17:56:33Z",
       "category": "Labs",
       "subcategories": [
         "Prompt Injection Defense"
@@ -4729,7 +4729,7 @@
       "full_name": "CyberAlbSecOP/Awesome_CyberSec_Bible",
       "url": "https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible",
       "description": "Cyber-Security Bible! Theory and Tools, Kali Linux, Penetration Testing, Bug Bounty, CTFs, Malware Analysis, Cryptography, Secure Programming, Web App Security, Cloud Security, Devsecops, Ethical Hacking, Social Engineering, Privacy, Incident Response, Threat Assestment, Personal Security, Ai Security, Android Security, Iot Security, Standards.",
-      "stars": 195,
+      "stars": 196,
       "forks": 30,
       "language": null,
       "topics": [
@@ -4753,7 +4753,7 @@
         "threat-intelligence",
         "web-application-security"
       ],
-      "updated_at": "2026-04-30T07:49:41Z",
+      "updated_at": "2026-05-03T18:47:48Z",
       "category": "Labs",
       "subcategories": [
         "Tool / Function Calling"
@@ -6407,7 +6407,7 @@
       "url": "https://github.com/harishsg993010/crossbow-agent",
       "description": "world's first Opensource fully Autonomous AI Security Engineer",
       "stars": 241,
-      "forks": 66,
+      "forks": 68,
       "language": "Python",
       "topics": [],
       "updated_at": "2026-04-13T08:43:36Z",
