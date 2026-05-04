@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T02:48:40.222619+00:00",
-  "repo_count": 407,
+  "generated_at": "2026-05-04T03:15:26.027198+00:00",
+  "repo_count": 381,
   "repos": [
     {
       "name": "h4cker",
@@ -36,9 +36,9 @@
       "updated_at": "2026-05-04T00:55:25Z",
       "category": "AI Governance / Risk",
       "subcategories": [
-        "LLM Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 10,
@@ -159,33 +159,6 @@
       "is_new": true
     },
     {
-      "name": "iso-42001-lead-implementer-toolkit",
-      "full_name": "icdfa/iso-42001-lead-implementer-toolkit",
-      "url": "https://github.com/icdfa/iso-42001-lead-implementer-toolkit",
-      "description": "ISO 42001 Lead Implementer Toolkit - Complete guide with case studies, templates, and implementation resources for AI Security Management Systems",
-      "stars": 20,
-      "forks": 17,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-04-27T12:52:51Z",
-      "category": "AI Governance / Risk",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 9,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 19,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "llm_security",
       "full_name": "jiangnanboy/llm_security",
       "url": "https://github.com/jiangnanboy/llm_security",
@@ -276,9 +249,9 @@
       "updated_at": "2026-05-03T18:18:22Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 37,
       "freshness_score": 10,
@@ -320,9 +293,9 @@
       "updated_at": "2026-05-03T11:21:44Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 60,
       "freshness_score": 10,
@@ -364,9 +337,9 @@
       "updated_at": "2026-03-07T14:23:32Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 61,
       "freshness_score": 7,
@@ -437,9 +410,9 @@
       "updated_at": "2026-04-29T17:57:45Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 34,
       "freshness_score": 10,
@@ -471,9 +444,9 @@
       "updated_at": "2026-05-02T10:05:23Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 46,
       "freshness_score": 10,
@@ -498,9 +471,9 @@
       "updated_at": "2026-05-03T21:30:31Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 43,
       "freshness_score": 10,
@@ -525,9 +498,9 @@
       "updated_at": "2026-04-30T20:18:40Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 45,
       "freshness_score": 10,
@@ -573,9 +546,9 @@
       "updated_at": "2026-04-27T22:50:05Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 44,
       "freshness_score": 10,
@@ -612,9 +585,9 @@
       "updated_at": "2026-04-28T09:03:08Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 43,
       "freshness_score": 10,
@@ -657,9 +630,9 @@
       "updated_at": "2026-03-29T00:55:13Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 45,
       "freshness_score": 7,
@@ -711,9 +684,9 @@
       "updated_at": "2026-02-16T05:34:31Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 42,
       "freshness_score": 7,
@@ -796,33 +769,6 @@
       "is_new": true
     },
     {
-      "name": "machine_learning_security",
-      "full_name": "13o-bbr-bbq/machine_learning_security",
-      "url": "https://github.com/13o-bbr-bbq/machine_learning_security",
-      "description": "Source code about machine learning and security.",
-      "stars": 2080,
-      "forks": 678,
-      "language": "Python",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-05-02T18:51:12Z",
-      "category": "AI Red Teaming",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 7,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 47,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "PromptMe",
       "full_name": "R3dShad0w7/PromptMe",
       "url": "https://github.com/R3dShad0w7/PromptMe",
@@ -885,9 +831,9 @@
       "updated_at": "2026-04-29T02:58:52Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Framework / Library"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 34,
       "freshness_score": 10,
@@ -945,9 +891,9 @@
       "updated_at": "2026-05-02T02:20:47Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 31,
       "freshness_score": 10,
@@ -1032,9 +978,9 @@
       "updated_at": "2026-03-12T08:42:50Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 33,
       "freshness_score": 7,
@@ -1068,9 +1014,9 @@
       "updated_at": "2026-04-26T10:07:36Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 28,
       "freshness_score": 10,
@@ -1186,9 +1132,9 @@
       "updated_at": "2026-02-20T05:48:30Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 29,
       "freshness_score": 7,
@@ -1213,9 +1159,9 @@
       "updated_at": "2026-04-22T06:55:44Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 10,
@@ -1290,9 +1236,9 @@
       "updated_at": "2026-03-19T19:16:34Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 25,
       "freshness_score": 7,
@@ -1328,9 +1274,9 @@
       "updated_at": "2026-04-08T16:55:45Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 21,
       "freshness_score": 10,
@@ -1436,9 +1382,9 @@
       "updated_at": "2025-08-25T17:26:30Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "AI Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 17,
       "freshness_score": 2,
@@ -1463,9 +1409,9 @@
       "updated_at": "2025-11-05T04:04:29Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 15,
       "freshness_score": 4,
@@ -1490,9 +1436,9 @@
       "updated_at": "2026-03-04T16:30:11Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 7,
@@ -1517,38 +1463,11 @@
       "updated_at": "2026-03-23T16:22:21Z",
       "category": "AI Red Teaming",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 11,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 18,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "AI-Security-Paper",
-      "full_name": "eastmountyxz/AI-Security-Paper",
-      "url": "https://github.com/eastmountyxz/AI-Security-Paper",
-      "description": "This resource mainly counts papers related to APT attacks, including APT traceability, APT knowledge graph construction, APT malicious sample detection, and APT overview. Hope these summarized papers are helpful to you~",
-      "stars": 223,
-      "forks": 28,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-03-11T12:10:19Z",
-      "category": "AI Red Teaming",
-      "subcategories": [
-        "Security Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 9,
       "freshness_score": 7,
       "trusted_source_score": 0,
       "topic_score": 0,
@@ -1586,87 +1505,6 @@
       "is_new": true
     },
     {
-      "name": "PromptAttack",
-      "full_name": "GodXuxilie/PromptAttack",
-      "url": "https://github.com/GodXuxilie/PromptAttack",
-      "description": "An LLM can Fool Itself: A Prompt-Based Adversarial Attack (ICLR 2024)",
-      "stars": 115,
-      "forks": 17,
-      "language": "Python",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-04-29T09:51:50Z",
-      "category": "AI Red Teaming",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 5,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 16,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "AI-Security",
-      "full_name": "akafengfeng/AI-Security",
-      "url": "https://github.com/akafengfeng/AI-Security",
-      "description": "This is a  paper list about Machine Learning for IDSes ",
-      "stars": 91,
-      "forks": 25,
-      "language": null,
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2026-01-26T14:10:30Z",
-      "category": "AI Red Teaming",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 8,
-      "freshness_score": 4,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 12,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "ai-security-architecture",
-      "full_name": "controlplaneio/ai-security-architecture",
-      "url": "https://github.com/controlplaneio/ai-security-architecture",
-      "description": "Reference security architecture for AI applications",
-      "stars": 14,
-      "forks": 4,
-      "language": "Shell",
-      "license": "NOASSERTION",
-      "topics": [],
-      "updated_at": "2025-10-12T00:41:30Z",
-      "category": "AI Red Teaming",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 5,
-      "freshness_score": 2,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 7,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "OWASP-AI-Security-Prompts",
       "full_name": "Alexanderdunlop/OWASP-AI-Security-Prompts",
       "url": "https://github.com/Alexanderdunlop/OWASP-AI-Security-Prompts",
@@ -1679,9 +1517,9 @@
       "updated_at": "2026-03-23T19:55:58Z",
       "category": "AI Supply Chain Security",
       "subcategories": [
-        "AI Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Trusted Source",
       "relevance_score": 10,
       "freshness_score": 7,
@@ -1706,42 +1544,15 @@
       "updated_at": "2026-04-24T23:27:12Z",
       "category": "AI Supply Chain Security",
       "subcategories": [
-        "RAG Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 10,
       "trusted_source_score": 0,
       "topic_score": 0,
       "quality_score": 21,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "prompt-injection-defense",
-      "full_name": "wagner-group/prompt-injection-defense",
-      "url": "https://github.com/wagner-group/prompt-injection-defense",
-      "description": "Fine-tuning base models to build robust task-specific models",
-      "stars": 35,
-      "forks": 8,
-      "language": "Python",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-03-31T09:36:44Z",
-      "category": "AI Supply Chain Security",
-      "subcategories": [
-        "Security Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 3,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 10,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -1775,9 +1586,9 @@
       "updated_at": "2026-05-02T17:36:07Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 51,
       "freshness_score": 10,
@@ -1802,9 +1613,9 @@
       "updated_at": "2026-05-03T14:19:00Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 30,
       "freshness_score": 10,
@@ -1874,9 +1685,9 @@
       "updated_at": "2026-04-29T06:25:04Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 54,
       "freshness_score": 10,
@@ -1997,9 +1808,9 @@
       "updated_at": "2026-05-03T18:58:40Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 20,
       "freshness_score": 10,
@@ -2084,9 +1895,9 @@
       "updated_at": "2026-04-26T14:14:19Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 43,
       "freshness_score": 10,
@@ -2196,9 +2007,9 @@
       "updated_at": "2026-04-06T13:42:50Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Framework / Library"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 40,
       "freshness_score": 10,
@@ -2228,9 +2039,9 @@
       "updated_at": "2026-04-30T21:15:31Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 39,
       "freshness_score": 10,
@@ -2276,9 +2087,9 @@
       "updated_at": "2026-04-05T23:40:22Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 39,
       "freshness_score": 10,
@@ -2444,9 +2255,9 @@
       "updated_at": "2026-04-24T06:57:11Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 35,
       "freshness_score": 10,
@@ -2511,9 +2322,9 @@
       "updated_at": "2026-05-03T12:48:59Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 32,
       "freshness_score": 10,
@@ -2545,9 +2356,9 @@
       "updated_at": "2025-11-13T18:14:05Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 38,
       "freshness_score": 4,
@@ -2572,9 +2383,9 @@
       "updated_at": "2026-04-20T16:32:21Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 21,
       "freshness_score": 10,
@@ -2630,9 +2441,9 @@
       "updated_at": "2026-05-03T00:55:38Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 30,
       "freshness_score": 10,
@@ -2671,9 +2482,9 @@
       "updated_at": "2026-04-27T21:05:55Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 29,
       "freshness_score": 10,
@@ -2731,9 +2542,9 @@
       "updated_at": "2026-05-04T02:11:01Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 10,
@@ -2758,9 +2569,9 @@
       "updated_at": "2026-04-20T06:06:28Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 16,
       "freshness_score": 10,
@@ -2932,9 +2743,9 @@
       "updated_at": "2026-05-03T02:54:15Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 10,
@@ -2975,9 +2786,9 @@
       "updated_at": "2026-04-16T09:49:10Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 10,
@@ -3007,9 +2818,9 @@
       "updated_at": "2026-05-01T14:08:10Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 10,
@@ -3034,9 +2845,9 @@
       "updated_at": "2026-04-22T08:13:36Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 18,
       "freshness_score": 10,
@@ -3061,9 +2872,9 @@
       "updated_at": "2026-04-20T20:37:21Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 18,
       "freshness_score": 10,
@@ -3139,9 +2950,9 @@
       "updated_at": "2026-03-25T09:10:12Z",
       "category": "Agent Security",
       "subcategories": [
-        "AI Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 18,
       "freshness_score": 7,
@@ -3166,9 +2977,9 @@
       "updated_at": "2026-03-04T07:29:20Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 18,
       "freshness_score": 7,
@@ -3220,9 +3031,9 @@
       "updated_at": "2026-04-20T12:59:16Z",
       "category": "Agent Security",
       "subcategories": [
-        "Security Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 14,
       "freshness_score": 10,
@@ -3247,9 +3058,9 @@
       "updated_at": "2026-04-29T08:24:03Z",
       "category": "Agent Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 14,
       "freshness_score": 10,
@@ -3398,9 +3209,9 @@
       "updated_at": "2026-03-30T07:02:38Z",
       "category": "Agent Security",
       "subcategories": [
-        "Security Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 14,
       "freshness_score": 7,
@@ -3425,9 +3236,9 @@
       "updated_at": "2026-04-22T08:55:24Z",
       "category": "Agent Security",
       "subcategories": [
-        "RAG Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 10,
       "freshness_score": 10,
@@ -3514,60 +3325,6 @@
       "is_new": true
     },
     {
-      "name": "agent-sandbox-skill",
-      "full_name": "disler/agent-sandbox-skill",
-      "url": "https://github.com/disler/agent-sandbox-skill",
-      "description": "An agent skill for managing isolated execution environments",
-      "stars": 365,
-      "forks": 96,
-      "language": "Python",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-05-01T23:44:07Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "Security Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 6,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 20,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "generative-ai-security-runbooks",
-      "full_name": "aws-samples/generative-ai-security-runbooks",
-      "url": "https://github.com/aws-samples/generative-ai-security-runbooks",
-      "description": null,
-      "stars": 40,
-      "forks": 10,
-      "language": "Jupyter Notebook",
-      "license": "MIT-0",
-      "topics": [],
-      "updated_at": "2026-03-10T12:38:24Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Trusted Source",
-      "relevance_score": 3,
-      "freshness_score": 7,
-      "trusted_source_score": 10,
-      "topic_score": 0,
-      "quality_score": 20,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "agentic-cybersecurity-architecture",
       "full_name": "Oluwakemi2000/agentic-cybersecurity-architecture",
       "url": "https://github.com/Oluwakemi2000/agentic-cybersecurity-architecture",
@@ -3589,114 +3346,6 @@
       "trusted_source_score": 0,
       "topic_score": 0,
       "quality_score": 17,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "gbash",
-      "full_name": "ewhauser/gbash",
-      "url": "https://github.com/ewhauser/gbash",
-      "description": "Pure Go bash implementation for agent sandboxes",
-      "stars": 25,
-      "forks": 1,
-      "language": "Go",
-      "license": "Apache-2.0",
-      "topics": [],
-      "updated_at": "2026-05-02T23:11:41Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "RAG Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 5,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 15,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "agents",
-      "full_name": "openkruise/agents",
-      "url": "https://github.com/openkruise/agents",
-      "description": "Rapid and cost-effective operator and best practice for agent sandbox lifecycle management.",
-      "stars": 171,
-      "forks": 50,
-      "language": "Go",
-      "license": "Apache-2.0",
-      "topics": [],
-      "updated_at": "2026-04-30T05:19:49Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "Security Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 2,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 14,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "llm-security-scanner",
-      "full_name": "iknowjason/llm-security-scanner",
-      "url": "https://github.com/iknowjason/llm-security-scanner",
-      "description": "LLM-Powered Code Security Scanning",
-      "stars": 21,
-      "forks": 4,
-      "language": "Python",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-03-13T07:24:24Z",
-      "category": "Detection / Monitoring",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 9,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 16,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "GPT-Guard-LLM-Security-Tool-for-ChatGPT",
-      "full_name": "ProtectoAi/GPT-Guard-LLM-Security-Tool-for-ChatGPT",
-      "url": "https://github.com/ProtectoAi/GPT-Guard-LLM-Security-Tool-for-ChatGPT",
-      "description": null,
-      "stars": 18,
-      "forks": 2,
-      "language": "TypeScript",
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2025-10-21T18:04:45Z",
-      "category": "Detection / Monitoring",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 5,
-      "freshness_score": 2,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 7,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -3726,9 +3375,9 @@
       "updated_at": "2026-04-21T10:38:23Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 56,
       "freshness_score": 10,
@@ -3774,9 +3423,9 @@
       "updated_at": "2026-02-21T06:54:05Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 55,
       "freshness_score": 7,
@@ -3887,9 +3536,9 @@
       "updated_at": "2026-05-02T03:11:29Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 34,
       "freshness_score": 10,
@@ -3924,9 +3573,9 @@
       "updated_at": "2026-04-24T05:19:56Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 42,
       "freshness_score": 10,
@@ -3999,9 +3648,9 @@
       "updated_at": "2026-05-03T17:56:33Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 20,
       "freshness_score": 10,
@@ -4088,9 +3737,9 @@
       "updated_at": "2026-03-29T14:46:29Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 44,
       "freshness_score": 7,
@@ -4115,9 +3764,9 @@
       "updated_at": "2026-04-29T06:54:18Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 41,
       "freshness_score": 10,
@@ -4145,9 +3794,9 @@
       "updated_at": "2026-05-03T01:46:10Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 39,
       "freshness_score": 10,
@@ -4290,9 +3939,9 @@
       "updated_at": "2026-04-19T10:17:53Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 36,
       "freshness_score": 10,
@@ -4321,9 +3970,9 @@
       "updated_at": "2026-04-20T03:53:32Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 30,
       "freshness_score": 10,
@@ -4348,9 +3997,9 @@
       "updated_at": "2026-05-01T10:22:03Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 11,
       "freshness_score": 10,
@@ -4384,9 +4033,9 @@
       "updated_at": "2026-04-30T02:44:09Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 31,
       "freshness_score": 10,
@@ -4452,9 +4101,9 @@
       "updated_at": "2026-04-23T14:37:39Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 29,
       "freshness_score": 10,
@@ -4635,9 +4284,9 @@
       "updated_at": "2026-05-03T06:37:41Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 20,
       "freshness_score": 10,
@@ -4662,9 +4311,9 @@
       "updated_at": "2026-05-03T02:20:05Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 17,
       "freshness_score": 10,
@@ -4699,9 +4348,9 @@
       "updated_at": "2026-01-31T10:19:00Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 32,
       "freshness_score": 4,
@@ -4733,9 +4382,9 @@
       "updated_at": "2026-04-29T08:20:00Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 21,
       "freshness_score": 10,
@@ -4777,9 +4426,9 @@
       "updated_at": "2026-03-22T05:16:07Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 28,
       "freshness_score": 7,
@@ -4817,9 +4466,9 @@
       "updated_at": "2026-05-01T09:22:31Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 21,
       "freshness_score": 10,
@@ -4871,9 +4520,9 @@
       "updated_at": "2026-04-21T09:18:50Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 15,
       "freshness_score": 10,
@@ -4898,9 +4547,9 @@
       "updated_at": "2026-04-06T18:03:39Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 24,
       "freshness_score": 10,
@@ -4952,9 +4601,9 @@
       "updated_at": "2026-04-15T05:05:45Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 23,
       "freshness_score": 10,
@@ -5039,9 +4688,9 @@
       "updated_at": "2026-04-21T06:10:45Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 22,
       "freshness_score": 10,
@@ -5184,9 +4833,9 @@
       "updated_at": "2026-04-28T23:44:23Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 18,
       "freshness_score": 10,
@@ -5249,9 +4898,9 @@
       "updated_at": "2025-02-14T16:40:19Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 27,
       "freshness_score": 0,
@@ -5278,9 +4927,9 @@
       "updated_at": "2026-05-01T01:07:47Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 17,
       "freshness_score": 10,
@@ -5332,9 +4981,9 @@
       "updated_at": "2026-04-24T06:52:06Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 16,
       "freshness_score": 10,
@@ -5359,9 +5008,9 @@
       "updated_at": "2026-02-11T09:09:14Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 7,
@@ -5417,9 +5066,9 @@
       "updated_at": "2026-03-26T06:36:27Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 7,
@@ -5478,9 +5127,9 @@
       "updated_at": "2026-04-18T08:05:12Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 15,
       "freshness_score": 10,
@@ -5505,9 +5154,9 @@
       "updated_at": "2026-03-28T00:25:05Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 18,
       "freshness_score": 7,
@@ -5532,9 +5181,9 @@
       "updated_at": "2026-04-19T08:18:45Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 15,
       "freshness_score": 10,
@@ -5592,9 +5241,9 @@
       "updated_at": "2026-04-24T18:45:05Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 15,
       "freshness_score": 10,
@@ -5623,9 +5272,9 @@
       "updated_at": "2026-04-29T06:45:18Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 15,
       "freshness_score": 10,
@@ -5704,9 +5353,9 @@
       "updated_at": "2026-04-30T02:40:53Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 14,
       "freshness_score": 10,
@@ -5731,9 +5380,9 @@
       "updated_at": "2026-04-10T10:41:46Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 14,
       "freshness_score": 10,
@@ -5758,9 +5407,9 @@
       "updated_at": "2026-05-03T11:57:01Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 14,
       "freshness_score": 10,
@@ -5789,9 +5438,9 @@
       "updated_at": "2026-03-17T16:57:27Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 16,
       "freshness_score": 7,
@@ -5816,9 +5465,9 @@
       "updated_at": "2026-04-04T18:20:38Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 13,
       "freshness_score": 10,
@@ -5870,9 +5519,9 @@
       "updated_at": "2026-04-14T09:14:54Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 13,
       "freshness_score": 10,
@@ -5897,9 +5546,9 @@
       "updated_at": "2026-04-23T08:53:59Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Model Scanning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 13,
       "freshness_score": 10,
@@ -5951,9 +5600,9 @@
       "updated_at": "2026-02-28T08:03:20Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 15,
       "freshness_score": 7,
@@ -5978,9 +5627,9 @@
       "updated_at": "2026-04-24T07:04:47Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 10,
@@ -6041,9 +5690,9 @@
       "updated_at": "2026-05-01T15:50:35Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 10,
@@ -6068,9 +5717,9 @@
       "updated_at": "2026-04-09T22:04:14Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 10,
@@ -6095,38 +5744,11 @@
       "updated_at": "2026-04-29T15:48:03Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 10,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 22,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "aifw",
-      "full_name": "funstory-ai/aifw",
-      "url": "https://github.com/funstory-ai/aifw",
-      "description": "Lightweight LLM firewall: masks PII, routes calls, leaves zero trace.",
-      "stars": 346,
-      "forks": 30,
-      "language": "Python",
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2026-04-26T15:24:38Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 9,
       "freshness_score": 10,
       "trusted_source_score": 0,
       "topic_score": 0,
@@ -6149,9 +5771,9 @@
       "updated_at": "2026-04-28T09:42:22Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 10,
@@ -6176,9 +5798,9 @@
       "updated_at": "2026-04-14T14:34:04Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 10,
@@ -6239,9 +5861,9 @@
       "updated_at": "2025-11-14T17:15:23Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 16,
       "freshness_score": 4,
@@ -6293,9 +5915,9 @@
       "updated_at": "2026-03-13T01:16:22Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 7,
@@ -6320,9 +5942,9 @@
       "updated_at": "2026-03-22T04:16:19Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 7,
@@ -6347,9 +5969,9 @@
       "updated_at": "2026-02-19T13:52:11Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 7,
@@ -6395,33 +6017,6 @@
       "is_new": true
     },
     {
-      "name": "SafeLLMPlayground",
-      "full_name": "RUIYUN-ML/SafeLLMPlayground",
-      "url": "https://github.com/RUIYUN-ML/SafeLLMPlayground",
-      "description": "This is a open-source playground for prompt injection attacks.",
-      "stars": 70,
-      "forks": 16,
-      "language": "Python",
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2026-05-03T16:20:08Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 8,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 18,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "LLM-Jailbreaking-Defense-Backtranslation",
       "full_name": "YihanWang617/LLM-Jailbreaking-Defense-Backtranslation",
       "url": "https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation",
@@ -6434,9 +6029,9 @@
       "updated_at": "2026-01-07T03:44:23Z",
       "category": "LLM Application Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 13,
       "freshness_score": 4,
@@ -6470,152 +6065,6 @@
       "trusted_source_score": 0,
       "topic_score": 0,
       "quality_score": 16,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "prompt_injection",
-      "full_name": "DataCTE/prompt_injection",
-      "url": "https://github.com/DataCTE/prompt_injection",
-      "description": null,
-      "stars": 99,
-      "forks": 20,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "topics": [],
-      "updated_at": "2026-04-24T08:31:16Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 6,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 16,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "AI-Safety_Benchmark",
-      "full_name": "SproutNan/AI-Safety_Benchmark",
-      "url": "https://github.com/SproutNan/AI-Safety_Benchmark",
-      "description": "The official repository for guided jailbreak benchmark",
-      "stars": 29,
-      "forks": 1,
-      "language": "Python",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-03-03T09:40:34Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 7,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 14,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "AdvUnlearn",
-      "full_name": "OPTML-Group/AdvUnlearn",
-      "url": "https://github.com/OPTML-Group/AdvUnlearn",
-      "description": "Official implementation of NeurIPS'24 paper \"Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models\". This work adversarially unlearns the text encoder to enhance the robustness of unlearned DMs against adversarial prompt attacks and achieves a better balance between unlearning performance and image generation",
-      "stars": 51,
-      "forks": 3,
-      "language": "Jupyter Notebook",
-      "license": "CC-BY-4.0",
-      "topics": [
-        "adversarial-machine-learning",
-        "robust-optimization",
-        "stable-diffusion",
-        "unlearned-diffusion-model",
-        "unlearning"
-      ],
-      "updated_at": "2026-04-28T19:04:59Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "Security Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 4,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 14,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "Fixed-Input-Parameterization",
-      "full_name": "unbiarirang/Fixed-Input-Parameterization",
-      "url": "https://github.com/unbiarirang/Fixed-Input-Parameterization",
-      "description": "This repository contains the official code for the paper: \"Prompt Injection: Parameterization of Fixed Inputs\"",
-      "stars": 32,
-      "forks": 1,
-      "language": "Python",
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2025-01-12T01:51:42Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 6,
-      "freshness_score": 0,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 6,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "www-project-top-10-for-large-language-model-applications",
-      "full_name": "OWASP/www-project-top-10-for-large-language-model-applications",
-      "url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
-      "description": "OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)",
-      "stars": 1228,
-      "forks": 309,
-      "language": "Python",
-      "license": "NOASSERTION",
-      "topics": [
-        "ai",
-        "appsec",
-        "llm",
-        "llm-security"
-      ],
-      "updated_at": "2026-05-02T19:05:22Z",
-      "category": "Labs",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Trusted Source",
-      "relevance_score": 21,
-      "freshness_score": 10,
-      "trusted_source_score": 10,
-      "topic_score": 6,
-      "quality_score": 59,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -6703,204 +6152,6 @@
       "is_new": true
     },
     {
-      "name": "Androidmeda",
-      "full_name": "In3tinct/Androidmeda",
-      "url": "https://github.com/In3tinct/Androidmeda",
-      "description": "AI Security tool to deobfuscate and find any potential vulnerabilities in android apps.",
-      "stars": 352,
-      "forks": 43,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "topics": [],
-      "updated_at": "2026-05-02T17:11:18Z",
-      "category": "Labs",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 16,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 29,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "wormgpt",
-      "full_name": "ChillHackLab/wormgpt",
-      "url": "https://github.com/ChillHackLab/wormgpt",
-      "description": "This is a project by ChillHack, focusing on developing WormGPT prompt hacking. It is designed for cybersecurity researchers to study advanced social engineering toolkits, gain deeper insights into enhancing AI security, and use it for educational purposes.",
-      "stars": 104,
-      "forks": 29,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-04-18T19:06:53Z",
-      "category": "Labs",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 8,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 19,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "AI-Security-Research",
-      "full_name": "yqhuang2912/AI-Security-Research",
-      "url": "https://github.com/yqhuang2912/AI-Security-Research",
-      "description": "A curated collection of the latest academic research papers and developments in AI Security. This repository aims to provide a comprehensive source for researchers and enthusiasts to stay updated on AI Security trends and findings. Contributions welcome!",
-      "stars": 20,
-      "forks": 3,
-      "language": null,
-      "license": "MIT",
-      "topics": [
-        "academic-paper",
-        "ai-security",
-        "cyber-security",
-        "security-research"
-      ],
-      "updated_at": "2026-04-01T00:54:30Z",
-      "category": "Labs",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 11,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 3,
-      "quality_score": 18,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "llm-security-challenge",
-      "full_name": "ZiyueWang25/llm-security-challenge",
-      "url": "https://github.com/ZiyueWang25/llm-security-challenge",
-      "description": "Can Large Language Models Solve Security Challenges? We test LLMs' ability to interact and break out of shell environments using the OverTheWire wargames environment, showing the models' surprising ability to do action-oriented cyberexploits in shell environments",
-      "stars": 13,
-      "forks": 6,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "topics": [
-        "aisafety",
-        "cybersecurity",
-        "llm"
-      ],
-      "updated_at": "2025-05-16T02:04:05Z",
-      "category": "Labs",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 14,
-      "freshness_score": 2,
-      "trusted_source_score": 0,
-      "topic_score": 9,
-      "quality_score": 16,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "aisb",
-      "full_name": "pranavgade20/aisb",
-      "url": "https://github.com/pranavgade20/aisb",
-      "description": "AI Security Bootcamp public repository",
-      "stars": 21,
-      "forks": 8,
-      "language": "HTML",
-      "license": "Apache-2.0",
-      "topics": [],
-      "updated_at": "2026-03-24T16:59:20Z",
-      "category": "Labs",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 6,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 13,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "ai-security-baseline",
-      "full_name": "IBM/ai-security-baseline",
-      "url": "https://github.com/IBM/ai-security-baseline",
-      "description": "Open Source AI Project Governance and Security Baseline (OSAIPGS Baseline)",
-      "stars": 21,
-      "forks": 3,
-      "language": null,
-      "license": "Apache-2.0",
-      "topics": [],
-      "updated_at": "2026-05-01T15:04:45Z",
-      "category": "Labs",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 2,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 12,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "Platforms-to-learn-Programming",
-      "full_name": "Diego-Luna/Platforms-to-learn-Programming",
-      "url": "https://github.com/Diego-Luna/Platforms-to-learn-Programming",
-      "description": "Platforms to learn about web development, machine learning, security and much more.",
-      "stars": 10,
-      "forks": 3,
-      "language": null,
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2025-10-10T23:00:47Z",
-      "category": "Labs",
-      "subcategories": [
-        "AI Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 4,
-      "freshness_score": 2,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 6,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "LLMSecurityGuide",
       "full_name": "requie/LLMSecurityGuide",
       "url": "https://github.com/requie/LLMSecurityGuide",
@@ -6927,9 +6178,9 @@
       "updated_at": "2026-04-29T02:36:33Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 87,
       "freshness_score": 10,
@@ -6974,9 +6225,9 @@
       "updated_at": "2026-05-03T19:17:25Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Trusted Source",
       "relevance_score": 49,
       "freshness_score": 10,
@@ -7095,9 +6346,9 @@
       "updated_at": "2026-04-29T11:51:08Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 72,
       "freshness_score": 10,
@@ -7191,9 +6442,9 @@
       "updated_at": "2026-05-01T15:57:37Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 67,
       "freshness_score": 10,
@@ -7221,9 +6472,9 @@
       "updated_at": "2026-05-03T21:59:04Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 59,
       "freshness_score": 10,
@@ -7317,9 +6568,9 @@
       "updated_at": "2026-04-16T06:49:41Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 63,
       "freshness_score": 10,
@@ -7400,9 +6651,9 @@
       "updated_at": "2026-05-02T19:15:57Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 61,
       "freshness_score": 10,
@@ -7434,9 +6685,9 @@
       "updated_at": "2026-04-14T06:56:09Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 60,
       "freshness_score": 10,
@@ -7472,9 +6723,9 @@
       "updated_at": "2026-05-03T16:30:52Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 59,
       "freshness_score": 10,
@@ -7516,9 +6767,9 @@
       "updated_at": "2026-05-03T21:32:51Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 56,
       "freshness_score": 10,
@@ -7553,9 +6804,9 @@
       "updated_at": "2026-04-08T20:57:36Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 57,
       "freshness_score": 10,
@@ -7769,9 +7020,9 @@
       "updated_at": "2026-05-03T02:19:35Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 51,
       "freshness_score": 10,
@@ -7811,9 +7062,9 @@
       "updated_at": "2026-04-29T14:17:47Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 43,
       "freshness_score": 10,
@@ -7855,9 +7106,9 @@
       "updated_at": "2026-04-30T11:51:37Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 50,
       "freshness_score": 10,
@@ -7898,9 +7149,9 @@
       "updated_at": "2026-05-04T02:41:07Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 20,
       "freshness_score": 10,
@@ -7946,9 +7197,9 @@
       "updated_at": "2026-05-04T01:47:24Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 45,
       "freshness_score": 10,
@@ -7973,9 +7224,9 @@
       "updated_at": "2026-04-24T07:54:32Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 46,
       "freshness_score": 10,
@@ -8021,9 +7272,9 @@
       "updated_at": "2026-04-26T06:45:55Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 46,
       "freshness_score": 10,
@@ -8054,9 +7305,9 @@
       "updated_at": "2026-05-03T23:18:22Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Trusted Source",
       "relevance_score": 36,
       "freshness_score": 10,
@@ -8121,9 +7372,9 @@
       "updated_at": "2026-04-20T12:21:56Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 44,
       "freshness_score": 10,
@@ -8188,9 +7439,9 @@
       "updated_at": "2026-05-03T17:29:36Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Trusted Source",
       "relevance_score": 31,
       "freshness_score": 10,
@@ -8231,9 +7482,9 @@
       "updated_at": "2026-04-25T17:19:23Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 42,
       "freshness_score": 10,
@@ -8285,8 +7536,8 @@
       "full_name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "stars": 12338,
-      "forks": 852,
+      "stars": 12345,
+      "forks": 856,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -8311,12 +7562,12 @@
         "skills",
         "zed-extension"
       ],
-      "updated_at": "2026-05-04T02:39:45Z",
+      "updated_at": "2026-05-04T03:12:30Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 10,
@@ -8333,7 +7584,7 @@
       "full_name": "ai-boost/awesome-prompts",
       "url": "https://github.com/ai-boost/awesome-prompts",
       "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
-      "stars": 7781,
+      "stars": 7782,
       "forks": 714,
       "language": null,
       "license": "GPL-3.0",
@@ -8348,12 +7599,12 @@
         "prompt",
         "prompt-engineering"
       ],
-      "updated_at": "2026-05-04T01:48:56Z",
+      "updated_at": "2026-05-04T03:01:32Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 10,
@@ -8489,9 +7740,9 @@
       "updated_at": "2026-05-01T02:45:10Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 40,
       "freshness_score": 10,
@@ -8525,9 +7776,9 @@
       "updated_at": "2026-05-03T18:21:38Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 38,
       "freshness_score": 10,
@@ -8594,9 +7845,9 @@
       "updated_at": "2026-05-02T18:57:33Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 31,
       "freshness_score": 10,
@@ -8630,60 +7881,14 @@
       "updated_at": "2026-04-28T13:30:40Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 38,
       "freshness_score": 10,
       "trusted_source_score": 0,
       "topic_score": 15,
-      "quality_score": 48,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "cua",
-      "full_name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 15569,
-      "forks": 959,
-      "language": "HTML",
-      "license": "MIT",
-      "topics": [
-        "agent",
-        "ai-agent",
-        "apple",
-        "computer-use",
-        "computer-use-agent",
-        "containerization",
-        "cua",
-        "desktop-automation",
-        "hacktoberfest",
-        "lume",
-        "macos",
-        "manus",
-        "operator",
-        "swift",
-        "virtualization",
-        "virtualization-framework",
-        "windows",
-        "windows-sandbox"
-      ],
-      "updated_at": "2026-05-04T01:46:11Z",
-      "category": "MCP Security",
-      "subcategories": [
-        "MCP Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 8,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 3,
       "quality_score": 48,
       "stars_1d": 0,
       "stars_7d": 0,
@@ -8739,9 +7944,9 @@
       "updated_at": "2026-05-03T21:28:34Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 30,
       "freshness_score": 10,
@@ -8793,9 +7998,9 @@
       "updated_at": "2026-04-28T12:04:01Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 35,
       "freshness_score": 10,
@@ -8905,9 +8110,9 @@
       "updated_at": "2026-04-29T17:56:33Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 33,
       "freshness_score": 10,
@@ -9158,9 +8363,9 @@
       "updated_at": "2026-04-21T00:32:58Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 32,
       "freshness_score": 10,
@@ -9226,9 +8431,9 @@
       "updated_at": "2026-03-26T10:23:44Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 33,
       "freshness_score": 7,
@@ -9260,9 +8465,9 @@
       "updated_at": "2026-04-28T08:49:04Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 30,
       "freshness_score": 10,
@@ -9287,9 +8492,9 @@
       "updated_at": "2026-05-01T10:14:24Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 30,
       "freshness_score": 10,
@@ -9404,9 +8609,9 @@
       "updated_at": "2026-04-06T06:14:55Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 17,
       "freshness_score": 10,
@@ -9431,9 +8636,9 @@
       "updated_at": "2026-04-04T09:51:56Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 28,
       "freshness_score": 10,
@@ -9477,9 +8682,9 @@
       "updated_at": "2026-05-02T13:35:40Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 28,
       "freshness_score": 10,
@@ -9578,9 +8783,9 @@
       "updated_at": "2026-04-12T17:37:49Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 27,
       "freshness_score": 10,
@@ -9620,9 +8825,9 @@
       "updated_at": "2026-05-01T12:57:48Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 10,
@@ -9647,9 +8852,9 @@
       "updated_at": "2026-05-03T03:49:11Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Trusted Source",
       "relevance_score": 17,
       "freshness_score": 10,
@@ -9707,9 +8912,9 @@
       "updated_at": "2026-04-15T08:32:17Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 10,
@@ -9761,9 +8966,9 @@
       "updated_at": "2026-05-01T17:38:42Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 10,
@@ -9788,9 +8993,9 @@
       "updated_at": "2026-04-21T02:38:15Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 25,
       "freshness_score": 10,
@@ -9815,9 +9020,9 @@
       "updated_at": "2026-04-17T15:56:14Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 25,
       "freshness_score": 10,
@@ -9857,9 +9062,9 @@
       "updated_at": "2026-03-12T03:06:34Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Framework / Library"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 27,
       "freshness_score": 7,
@@ -9959,9 +9164,9 @@
       "updated_at": "2026-04-01T00:55:58Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 7,
@@ -10000,9 +9205,9 @@
       "updated_at": "2026-05-04T02:36:58Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 23,
       "freshness_score": 10,
@@ -10034,9 +9239,9 @@
       "updated_at": "2026-05-01T21:50:04Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 22,
       "freshness_score": 10,
@@ -10064,9 +9269,9 @@
       "updated_at": "2026-05-01T23:56:35Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Framework / Library"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 10,
@@ -10104,9 +9309,9 @@
       "updated_at": "2026-04-30T03:31:04Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 17,
       "freshness_score": 10,
@@ -10256,9 +9461,9 @@
       "updated_at": "2026-04-10T15:56:28Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 21,
       "freshness_score": 10,
@@ -10292,9 +9497,9 @@
       "updated_at": "2025-12-14T19:52:28Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 4,
@@ -10373,9 +9578,9 @@
       "updated_at": "2026-04-14T22:17:57Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 10,
@@ -10535,9 +9740,9 @@
       "updated_at": "2026-04-23T09:18:48Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 18,
       "freshness_score": 10,
@@ -10568,9 +9773,9 @@
       "updated_at": "2026-04-16T14:39:41Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 17,
       "freshness_score": 10,
@@ -10608,9 +9813,9 @@
       "updated_at": "2026-04-30T14:09:52Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 16,
       "freshness_score": 10,
@@ -10662,43 +9867,13 @@
       "updated_at": "2026-04-28T00:43:24Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 14,
       "freshness_score": 10,
       "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 24,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "azure-sre-agent-sandbox",
-      "full_name": "matthansen0/azure-sre-agent-sandbox",
-      "url": "https://github.com/matthansen0/azure-sre-agent-sandbox",
-      "description": "Fully automated deployment of Azure SRE Agent, multi-pod AKS, and \"break scenarios\" with prompt guides to experiment with Azure SRE Agent.",
-      "stars": 56,
-      "forks": 27,
-      "language": "PowerShell",
-      "license": "MIT",
-      "topics": [
-        "azure",
-        "sre"
-      ],
-      "updated_at": "2026-05-03T00:42:56Z",
-      "category": "MCP Security",
-      "subcategories": [
-        "MCP Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Trusted Source",
-      "relevance_score": 4,
-      "freshness_score": 10,
-      "trusted_source_score": 10,
       "topic_score": 0,
       "quality_score": 24,
       "stars_1d": 0,
@@ -10719,9 +9894,9 @@
       "updated_at": "2026-04-21T06:18:21Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 13,
       "freshness_score": 10,
@@ -10773,9 +9948,9 @@
       "updated_at": "2026-04-19T19:56:31Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 10,
@@ -10800,9 +9975,9 @@
       "updated_at": "2026-04-30T15:07:34Z",
       "category": "MCP Security",
       "subcategories": [
-        "MCP Labs"
+        "Tool / Function Calling"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 10,
@@ -11013,9 +10188,9 @@
       "updated_at": "2026-04-30T14:53:25Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 68,
       "freshness_score": 10,
@@ -11059,7 +10234,7 @@
       "full_name": "CyberAlbSecOP/Awesome_GPT_Super_Prompting",
       "url": "https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting",
       "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
-      "stars": 3887,
+      "stars": 3886,
       "forks": 477,
       "language": "HTML",
       "license": "GPL-3.0",
@@ -11082,12 +10257,12 @@
         "prompts",
         "system-prompt"
       ],
-      "updated_at": "2026-05-04T01:23:39Z",
+      "updated_at": "2026-05-04T02:56:42Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 36,
       "freshness_score": 10,
@@ -11117,9 +10292,9 @@
       "updated_at": "2026-05-02T16:02:44Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 44,
       "freshness_score": 10,
@@ -11210,9 +10385,9 @@
       "updated_at": "2026-03-15T23:26:11Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 59,
       "freshness_score": 7,
@@ -11248,9 +10423,9 @@
       "updated_at": "2026-05-03T13:55:39Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 55,
       "freshness_score": 10,
@@ -11320,9 +10495,9 @@
       "updated_at": "2026-04-20T15:29:01Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 54,
       "freshness_score": 10,
@@ -11347,9 +10522,9 @@
       "updated_at": "2026-05-02T09:51:23Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Dashboard / Platform"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 48,
       "freshness_score": 10,
@@ -11374,9 +10549,9 @@
       "updated_at": "2026-05-03T10:12:21Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 50,
       "freshness_score": 10,
@@ -11401,9 +10576,9 @@
       "updated_at": "2026-05-03T09:13:46Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Framework / Library"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 30,
       "freshness_score": 10,
@@ -11433,9 +10608,9 @@
       "updated_at": "2026-05-04T00:06:29Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 49,
       "freshness_score": 10,
@@ -11476,9 +10651,9 @@
       "updated_at": "2026-05-03T22:47:07Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 31,
       "freshness_score": 10,
@@ -11503,9 +10678,9 @@
       "updated_at": "2026-03-22T17:11:20Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 47,
       "freshness_score": 7,
@@ -11580,9 +10755,9 @@
       "updated_at": "2026-04-17T01:39:27Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 42,
       "freshness_score": 10,
@@ -11642,9 +10817,9 @@
       "updated_at": "2026-04-25T13:15:49Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 39,
       "freshness_score": 10,
@@ -11675,9 +10850,9 @@
       "updated_at": "2026-04-10T00:36:34Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 38,
       "freshness_score": 10,
@@ -11761,9 +10936,9 @@
       "updated_at": "2026-04-27T19:22:05Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 29,
       "freshness_score": 10,
@@ -11788,9 +10963,9 @@
       "updated_at": "2026-05-03T03:59:55Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Prompt Injection Defense"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Trusted Source",
       "relevance_score": 20,
       "freshness_score": 10,
@@ -11855,9 +11030,9 @@
       "updated_at": "2026-04-07T10:36:39Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 27,
       "freshness_score": 10,
@@ -11887,9 +11062,9 @@
       "updated_at": "2026-04-11T06:36:35Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 25,
       "freshness_score": 10,
@@ -11988,9 +11163,9 @@
       "updated_at": "2026-03-31T06:23:18Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 24,
       "freshness_score": 7,
@@ -12067,9 +11242,9 @@
       "updated_at": "2026-04-17T10:52:50Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 10,
@@ -12094,9 +11269,9 @@
       "updated_at": "2026-04-27T00:24:21Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 17,
       "freshness_score": 10,
@@ -12128,9 +11303,9 @@
       "updated_at": "2026-03-08T23:08:04Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "General"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 19,
       "freshness_score": 7,
@@ -12155,9 +11330,9 @@
       "updated_at": "2026-04-14T15:26:01Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 16,
       "freshness_score": 10,
@@ -12186,9 +11361,9 @@
       "updated_at": "2026-04-25T09:33:40Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 15,
       "freshness_score": 10,
@@ -12258,9 +11433,9 @@
       "updated_at": "2026-03-30T01:25:56Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Framework / Library"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 16,
       "freshness_score": 7,
@@ -12285,9 +11460,9 @@
       "updated_at": "2026-04-22T08:26:16Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 13,
       "freshness_score": 10,
@@ -12339,9 +11514,9 @@
       "updated_at": "2026-04-15T17:53:23Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Sandboxing"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 10,
@@ -12424,9 +11599,9 @@
       "updated_at": "2026-04-15T10:33:39Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 10,
@@ -12478,9 +11653,9 @@
       "updated_at": "2026-04-17T10:55:20Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 10,
       "freshness_score": 10,
@@ -12505,9 +11680,9 @@
       "updated_at": "2026-04-01T00:49:56Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 11,
       "freshness_score": 7,
@@ -12532,9 +11707,9 @@
       "updated_at": "2026-04-04T14:48:19Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 8,
       "freshness_score": 10,
@@ -12592,9 +11767,9 @@
       "updated_at": "2024-06-07T02:33:46Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "General"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Trusted Source",
       "relevance_score": 7,
       "freshness_score": 0,
@@ -12619,9 +11794,9 @@
       "updated_at": "2022-09-05T00:18:57Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "General"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Trusted Source",
       "relevance_score": 7,
       "freshness_score": 0,
@@ -12646,9 +11821,9 @@
       "updated_at": "2024-07-25T04:21:04Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "LLM Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 16,
       "freshness_score": 0,
@@ -12673,9 +11848,9 @@
       "updated_at": "2026-02-04T07:00:05Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Framework / Library"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 9,
       "freshness_score": 7,
@@ -12700,9 +11875,9 @@
       "updated_at": "2026-03-06T05:19:30Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "Benchmarks / Eval"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 8,
       "freshness_score": 7,
@@ -12727,42 +11902,15 @@
       "updated_at": "2026-02-06T23:27:45Z",
       "category": "Model / ML Security",
       "subcategories": [
-        "ML Labs"
+        "General"
       ],
-      "content_type": "Lab",
+      "content_type": "Guide / Standard",
       "source_trust": "Community",
       "relevance_score": 7,
       "freshness_score": 7,
       "trusted_source_score": 0,
       "topic_score": 0,
       "quality_score": 14,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "Chat-Models-Backdoor-Attacking",
-      "full_name": "hychaochao/Chat-Models-Backdoor-Attacking",
-      "url": "https://github.com/hychaochao/Chat-Models-Backdoor-Attacking",
-      "description": "Code for the paper \"Exploring Backdoor Vulnerabilities of Chat Models\"",
-      "stars": 19,
-      "forks": 1,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "topics": [],
-      "updated_at": "2026-03-09T02:09:29Z",
-      "category": "Model / ML Security",
-      "subcategories": [
-        "Security Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 5,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 12,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -12823,6 +11971,65 @@
       "is_new": true
     },
     {
+      "name": "www-project-top-10-for-large-language-model-applications",
+      "full_name": "OWASP/www-project-top-10-for-large-language-model-applications",
+      "url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
+      "description": "OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)",
+      "stars": 1228,
+      "forks": 309,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "topics": [
+        "ai",
+        "appsec",
+        "llm",
+        "llm-security"
+      ],
+      "updated_at": "2026-05-02T19:05:22Z",
+      "category": "Other AI Security",
+      "subcategories": [
+        "Framework / Library"
+      ],
+      "content_type": "Tool / Framework",
+      "source_trust": "Trusted Source",
+      "relevance_score": 21,
+      "freshness_score": 10,
+      "trusted_source_score": 10,
+      "topic_score": 6,
+      "quality_score": 59,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "Androidmeda",
+      "full_name": "In3tinct/Androidmeda",
+      "url": "https://github.com/In3tinct/Androidmeda",
+      "description": "AI Security tool to deobfuscate and find any potential vulnerabilities in android apps.",
+      "stars": 352,
+      "forks": 43,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "topics": [],
+      "updated_at": "2026-05-02T17:11:18Z",
+      "category": "Other AI Security",
+      "subcategories": [
+        "Tool / Function Calling"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 16,
+      "freshness_score": 10,
+      "trusted_source_score": 0,
+      "topic_score": 0,
+      "quality_score": 29,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
       "name": "crossbow-agent",
       "full_name": "harishsg993010/crossbow-agent",
       "url": "https://github.com/harishsg993010/crossbow-agent",
@@ -12844,6 +12051,69 @@
       "trusted_source_score": 0,
       "topic_score": 0,
       "quality_score": 26,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "AI-Security-Research",
+      "full_name": "yqhuang2912/AI-Security-Research",
+      "url": "https://github.com/yqhuang2912/AI-Security-Research",
+      "description": "A curated collection of the latest academic research papers and developments in AI Security. This repository aims to provide a comprehensive source for researchers and enthusiasts to stay updated on AI Security trends and findings. Contributions welcome!",
+      "stars": 20,
+      "forks": 3,
+      "language": null,
+      "license": "MIT",
+      "topics": [
+        "academic-paper",
+        "ai-security",
+        "cyber-security",
+        "security-research"
+      ],
+      "updated_at": "2026-04-01T00:54:30Z",
+      "category": "Other AI Security",
+      "subcategories": [
+        "General"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 11,
+      "freshness_score": 7,
+      "trusted_source_score": 0,
+      "topic_score": 3,
+      "quality_score": 18,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "llm-security-challenge",
+      "full_name": "ZiyueWang25/llm-security-challenge",
+      "url": "https://github.com/ZiyueWang25/llm-security-challenge",
+      "description": "Can Large Language Models Solve Security Challenges? We test LLMs' ability to interact and break out of shell environments using the OverTheWire wargames environment, showing the models' surprising ability to do action-oriented cyberexploits in shell environments",
+      "stars": 13,
+      "forks": 6,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "topics": [
+        "aisafety",
+        "cybersecurity",
+        "llm"
+      ],
+      "updated_at": "2025-05-16T02:04:05Z",
+      "category": "Other AI Security",
+      "subcategories": [
+        "Benchmarks / Eval"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 14,
+      "freshness_score": 2,
+      "trusted_source_score": 0,
+      "topic_score": 9,
+      "quality_score": 16,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -12908,9 +12178,9 @@
       "updated_at": "2026-05-01T18:48:46Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "Guardrails"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 82,
       "freshness_score": 10,
@@ -12956,9 +12226,9 @@
       "updated_at": "2026-04-28T01:15:34Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 57,
       "freshness_score": 10,
@@ -12992,9 +12262,9 @@
       "updated_at": "2026-05-01T18:43:53Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "Jailbreak Testing"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 41,
       "freshness_score": 10,
@@ -13027,9 +12297,9 @@
       "updated_at": "2026-04-26T10:47:14Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 39,
       "freshness_score": 10,
@@ -13054,9 +12324,9 @@
       "updated_at": "2026-04-30T01:36:21Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 38,
       "freshness_score": 10,
@@ -13148,9 +12418,9 @@
       "updated_at": "2026-04-09T05:01:33Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 29,
       "freshness_score": 10,
@@ -13175,9 +12445,9 @@
       "updated_at": "2026-03-29T18:33:56Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Awesome List",
       "source_trust": "Community",
       "relevance_score": 26,
       "freshness_score": 7,
@@ -13211,9 +12481,9 @@
       "updated_at": "2026-04-16T08:27:13Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 23,
       "freshness_score": 10,
@@ -13265,9 +12535,9 @@
       "updated_at": "2026-04-21T15:41:19Z",
       "category": "RAG Security",
       "subcategories": [
-        "LLM Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 10,
       "freshness_score": 10,
@@ -13292,9 +12562,9 @@
       "updated_at": "2025-11-05T21:46:15Z",
       "category": "RAG Security",
       "subcategories": [
-        "RAG Labs"
+        "RAG Poisoning"
       ],
-      "content_type": "Lab",
+      "content_type": "Project",
       "source_trust": "Community",
       "relevance_score": 12,
       "freshness_score": 4,
