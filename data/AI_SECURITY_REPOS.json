@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-22T13:48:11.239686+00:00",
-  "repo_count": 434,
+  "generated_at": "2026-06-23T11:31:20.476161+00:00",
+  "repo_count": 431,
   "repos": [
     {
       "name": "h4cker",
       "full_name": "The-Art-of-Hacking/h4cker",
       "url": "https://github.com/The-Art-of-Hacking/h4cker",
       "description": "This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. \ud83d\udd25 Also check: https://hackertraining.org",
-      "stars": 27844,
-      "forks": 5204,
+      "stars": 27865,
+      "forks": 5205,
       "language": "Jupyter Notebook",
       "license": "MIT",
       "topics": [
@@ -33,7 +33,7 @@
         "vulnerability-identification",
         "vulnerability-management"
       ],
-      "updated_at": "2026-06-22T12:57:48Z",
+      "updated_at": "2026-06-23T11:12:22Z",
       "category": "AI Governance / Risk",
       "subcategories": [
         "Tool / Function Calling"
@@ -208,8 +208,8 @@
       "full_name": "NVIDIA/garak",
       "url": "https://github.com/NVIDIA/garak",
       "description": "the LLM vulnerability scanner",
-      "stars": 8174,
-      "forks": 1030,
+      "stars": 8187,
+      "forks": 1033,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -219,7 +219,7 @@
         "security-scanners",
         "vulnerability-assessment"
       ],
-      "updated_at": "2026-06-22T13:35:49Z",
+      "updated_at": "2026-06-23T08:45:26Z",
       "category": "AI Red Teaming",
       "subcategories": [
         "Dashboard / Platform"
@@ -329,8 +329,8 @@
       "full_name": "user1342/Awesome-LLM-Red-Teaming",
       "url": "https://github.com/user1342/Awesome-LLM-Red-Teaming",
       "description": "A curated list of awesome LLM Red Teaming training, resources, and tools.",
-      "stars": 110,
-      "forks": 18,
+      "stars": 111,
+      "forks": 20,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -348,7 +348,7 @@
         "vulnerabilit-research",
         "vulnerability-assessment"
       ],
-      "updated_at": "2026-06-22T03:20:53Z",
+      "updated_at": "2026-06-23T06:48:38Z",
       "category": "AI Red Teaming",
       "subcategories": [
         "LLM Labs"
@@ -402,7 +402,7 @@
       "full_name": "ReversecLabs/spikee",
       "url": "https://github.com/ReversecLabs/spikee",
       "description": "Simple Prompt Injection Kit for Evaluation and Exploitation",
-      "stars": 204,
+      "stars": 205,
       "forks": 43,
       "language": "Python",
       "license": "Apache-2.0",
@@ -414,7 +414,7 @@
         "pentesting-tools",
         "prompt-injection"
       ],
-      "updated_at": "2026-06-21T17:26:12Z",
+      "updated_at": "2026-06-22T18:43:29Z",
       "category": "AI Red Teaming",
       "subcategories": [
         "Guardrails"
@@ -715,8 +715,8 @@
       "full_name": "SantanderAI/autoguardrails",
       "url": "https://github.com/SantanderAI/autoguardrails",
       "description": "Alignment-research scaffold (autoresearch-style) for LLM guardrails: search over a single policy.md surface",
-      "stars": 49,
-      "forks": 8,
+      "stars": 74,
+      "forks": 16,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -739,7 +739,7 @@
         "santander",
         "security"
       ],
-      "updated_at": "2026-06-22T13:41:43Z",
+      "updated_at": "2026-06-23T11:02:26Z",
       "category": "AI Red Teaming",
       "subcategories": [
         "Guardrails"
@@ -1028,7 +1028,7 @@
       "url": "https://github.com/shlomihod/awesome-ai-red-teaming",
       "description": "A curated list of awesome AI Red Teaming resources and tools.",
       "stars": 34,
-      "forks": 6,
+      "forks": 7,
       "language": null,
       "license": null,
       "topics": [],
@@ -1321,12 +1321,12 @@
       "full_name": "m4xx101/cryptex-oss",
       "url": "https://github.com/m4xx101/cryptex-oss",
       "description": "Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.",
-      "stars": 325,
+      "stars": 327,
       "forks": 61,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [],
-      "updated_at": "2026-06-22T02:26:45Z",
+      "updated_at": "2026-06-23T08:45:52Z",
       "category": "AI Red Teaming",
       "subcategories": [
         "Jailbreak Testing"
@@ -1612,7 +1612,7 @@
       "full_name": "msoedov/agentic_security",
       "url": "https://github.com/msoedov/agentic_security",
       "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit \ud83e\uddea",
-      "stars": 1909,
+      "stars": 1911,
       "forks": 265,
       "language": "Python",
       "license": "Apache-2.0",
@@ -1632,7 +1632,7 @@
         "llm-vulnerabilities",
         "prompt-testing"
       ],
-      "updated_at": "2026-06-22T11:45:27Z",
+      "updated_at": "2026-06-23T07:22:28Z",
       "category": "Agent Security",
       "subcategories": [
         "Guardrails"
@@ -1691,12 +1691,12 @@
       "full_name": "meta-llama/PurpleLlama",
       "url": "https://github.com/meta-llama/PurpleLlama",
       "description": "Set of tools to assess and improve LLM security.",
-      "stars": 4235,
-      "forks": 740,
+      "stars": 4237,
+      "forks": 741,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated_at": "2026-06-22T11:08:40Z",
+      "updated_at": "2026-06-23T08:40:11Z",
       "category": "Agent Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -1862,7 +1862,7 @@
       "full_name": "OraclesTech/guardian-sdk",
       "url": "https://github.com/OraclesTech/guardian-sdk",
       "description": "Ethicore Engine\u2122 is an AI safety, ethics, and compliance platform. This repo consists of the open-source components of Ethicore Engine\u2122 - Guardian SDK; designed to protect your AI applications from prompt injection, jailbreaks, role hijacking, system-prompt extraction, and 100+ additional threat categories through a multi-layer analysis pipeline",
-      "stars": 103,
+      "stars": 104,
       "forks": 11,
       "language": "Python",
       "license": "NOASSERTION",
@@ -1887,7 +1887,7 @@
         "pypi-package",
         "threat-intelligence"
       ],
-      "updated_at": "2026-06-21T21:18:07Z",
+      "updated_at": "2026-06-23T00:36:32Z",
       "category": "Agent Security",
       "subcategories": [
         "RAG Poisoning"
@@ -1905,45 +1905,11 @@
       "is_new": true
     },
     {
-      "name": "DVAIA-Damn-Vulnerable-AI-Application",
-      "full_name": "airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
-      "url": "https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
-      "description": "Damn Vulnerable AI Application - For LLM Red Team Training. LLM testing, RAG testing, Multimodal testing, Agent testing, LLM paload generation",
-      "stars": 11,
-      "forks": 7,
-      "language": "Python",
-      "license": null,
-      "topics": [
-        "ai-security",
-        "ai-testing",
-        "ai-testing-tool",
-        "dvwa",
-        "llm-red-teaming",
-        "mlops"
-      ],
-      "updated_at": "2026-05-31T02:07:20Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 49,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 9,
-      "quality_score": 59,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "DeepCamera",
       "full_name": "SharpAI/DeepCamera",
       "url": "https://github.com/SharpAI/DeepCamera",
       "description": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent \u2014 watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.",
-      "stars": 2854,
+      "stars": 2857,
       "forks": 451,
       "language": "JavaScript",
       "license": "MIT",
@@ -1969,7 +1935,7 @@
         "video-surveillance",
         "vlm"
       ],
-      "updated_at": "2026-06-22T12:24:26Z",
+      "updated_at": "2026-06-23T10:48:45Z",
       "category": "Agent Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -2071,6 +2037,40 @@
       "is_new": true
     },
     {
+      "name": "DVAIA-Damn-Vulnerable-AI-Application",
+      "full_name": "airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
+      "url": "https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application",
+      "description": "Damn Vulnerable AI Application - For LLM Red Team Training. LLM testing, RAG testing, Multimodal testing, Agent testing, LLM paload generation",
+      "stars": 11,
+      "forks": 7,
+      "language": "Python",
+      "license": null,
+      "topics": [
+        "ai-security",
+        "ai-testing",
+        "ai-testing-tool",
+        "dvwa",
+        "llm-red-teaming",
+        "mlops"
+      ],
+      "updated_at": "2026-06-23T10:48:51Z",
+      "category": "Agent Security",
+      "subcategories": [
+        "LLM Labs"
+      ],
+      "content_type": "Lab",
+      "source_trust": "Community",
+      "relevance_score": 44,
+      "freshness_score": 10,
+      "trusted_source_score": 0,
+      "topic_score": 9,
+      "quality_score": 54,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
       "name": "fast-llm-security-guardrails",
       "full_name": "ZenGuard-AI/fast-llm-security-guardrails",
       "url": "https://github.com/ZenGuard-AI/fast-llm-security-guardrails",
@@ -2114,7 +2114,7 @@
       "full_name": "agamm/claude-code-owasp",
       "url": "https://github.com/agamm/claude-code-owasp",
       "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks.",
-      "stars": 247,
+      "stars": 250,
       "forks": 25,
       "language": null,
       "license": "MIT",
@@ -2130,7 +2130,7 @@
         "security",
         "vulnerability"
       ],
-      "updated_at": "2026-06-22T12:34:18Z",
+      "updated_at": "2026-06-23T01:53:42Z",
       "category": "Agent Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -2152,7 +2152,7 @@
       "full_name": "humanbound/humanbound-firewall",
       "url": "https://github.com/humanbound/humanbound-firewall",
       "description": "Multi-tier firewall for AI agents \u2014 prompt injection, jailbreak, and scope violation protection",
-      "stars": 39,
+      "stars": 40,
       "forks": 1,
       "language": "Python",
       "license": "NOASSERTION",
@@ -2169,7 +2169,7 @@
         "prompt-injection",
         "python"
       ],
-      "updated_at": "2026-06-19T12:40:43Z",
+      "updated_at": "2026-06-22T14:08:40Z",
       "category": "Agent Security",
       "subcategories": [
         "Guardrails"
@@ -2231,14 +2231,14 @@
       "full_name": "anthropics/defending-code-reference-harness",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
-      "stars": 6144,
-      "forks": 471,
+      "stars": 6157,
+      "forks": 479,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
         "security"
       ],
-      "updated_at": "2026-06-22T10:42:41Z",
+      "updated_at": "2026-06-23T10:29:36Z",
       "category": "Agent Security",
       "subcategories": [
         "Sandboxing"
@@ -2250,54 +2250,6 @@
       "trusted_source_score": 0,
       "topic_score": 3,
       "quality_score": 51,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "qwed-verification",
-      "full_name": "QWED-AI/qwed-verification",
-      "url": "https://github.com/QWED-AI/qwed-verification",
-      "description": "AISecOps (AI Security Operations) framework for deterministic verification of AI systems.  QWED verifies LLM outputs using math, logic, and symbolic execution \u2014 creating an auditable trust boundary for agentic AI systems.  Not generation. Verification.",
-      "stars": 58,
-      "forks": 10,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "topics": [
-        "ai-accuracy",
-        "ai-safety",
-        "ai-security",
-        "aisecops",
-        "code-security",
-        "deterministic-ai",
-        "enterprise-ai",
-        "formal-verification",
-        "generative-ai",
-        "hallucination",
-        "hallucination-detection",
-        "llm-safety",
-        "llm-verification",
-        "machine-learning",
-        "neurosymbolic-ai",
-        "nlp",
-        "python",
-        "smt-solver",
-        "sympy",
-        "z3-prover"
-      ],
-      "updated_at": "2026-06-19T03:17:56Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "RAG Poisoning"
-      ],
-      "content_type": "Research / Benchmark",
-      "source_trust": "Community",
-      "relevance_score": 40,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 12,
-      "quality_score": 50,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -2334,7 +2286,7 @@
         "security",
         "self-hosted"
       ],
-      "updated_at": "2026-06-20T22:51:16Z",
+      "updated_at": "2026-06-23T06:39:46Z",
       "category": "Agent Security",
       "subcategories": [
         "Sandboxing"
@@ -2464,7 +2416,7 @@
       "full_name": "humanbound/humanbound",
       "url": "https://github.com/humanbound/humanbound",
       "description": "Open-source AI agent red-team engine, SDK, and CLI. Run offline or against the Humanbound Platform.",
-      "stars": 33,
+      "stars": 34,
       "forks": 2,
       "language": "Python",
       "license": "NOASSERTION",
@@ -2490,7 +2442,7 @@
         "security-testing",
         "security-tools"
       ],
-      "updated_at": "2026-06-22T10:44:37Z",
+      "updated_at": "2026-06-22T14:08:48Z",
       "category": "Agent Security",
       "subcategories": [
         "Guardrails"
@@ -2561,7 +2513,7 @@
       "url": "https://github.com/anishathalye/ai-agent-security-lecture",
       "description": "Guest lecture in MIT 6.566 on AI Agent Security",
       "stars": 29,
-      "forks": 0,
+      "forks": 1,
       "language": "Python",
       "license": null,
       "topics": [],
@@ -2898,7 +2850,7 @@
       "full_name": "agentfence/agentfence",
       "url": "https://github.com/agentfence/agentfence",
       "description": "AgentFence is an open-source platform for automatically testing AI agent security. It identifies vulnerabilities such as prompt injection, secret leakage, and system instruction exposure.",
-      "stars": 56,
+      "stars": 58,
       "forks": 7,
       "language": "Python",
       "license": "MIT",
@@ -2907,7 +2859,7 @@
         "ai",
         "security"
       ],
-      "updated_at": "2026-06-19T10:28:30Z",
+      "updated_at": "2026-06-22T19:46:57Z",
       "category": "Agent Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -3073,7 +3025,7 @@
         "vulnerability-detection",
         "vulnerability-scanners"
       ],
-      "updated_at": "2026-06-22T12:59:55Z",
+      "updated_at": "2026-06-23T04:50:32Z",
       "category": "Agent Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -3095,12 +3047,12 @@
       "full_name": "antgroup/Agent3Sigma-Canary",
       "url": "https://github.com/antgroup/Agent3Sigma-Canary",
       "description": "Agent3\u03c3-Canary is an evaluation framework for AI Agent security in realistic runtime environments.",
-      "stars": 29,
+      "stars": 30,
       "forks": 3,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
-      "updated_at": "2026-06-22T06:16:35Z",
+      "updated_at": "2026-06-22T16:33:15Z",
       "category": "Agent Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -3160,7 +3112,7 @@
       "full_name": "yeasy/ai_security_guide",
       "url": "https://github.com/yeasy/ai_security_guide",
       "description": "\u4ece\u539f\u7406\u5230\u5b9e\u8df5\uff0c\u5168\u9762\u638c\u63e1\u5927\u8bed\u8a00\u6a21\u578b\u5b89\u5168\u653b\u9632\u4e4b\u9053",
-      "stars": 48,
+      "stars": 49,
       "forks": 7,
       "language": "Python",
       "license": null,
@@ -3171,7 +3123,7 @@
         "llm",
         "security"
       ],
-      "updated_at": "2026-06-21T02:14:45Z",
+      "updated_at": "2026-06-23T06:56:48Z",
       "category": "Agent Security",
       "subcategories": [
         "RAG Poisoning"
@@ -3270,12 +3222,12 @@
       "full_name": "gy15901580825/Argus",
       "url": "https://github.com/gy15901580825/Argus",
       "description": "Black-box, open-source red-team testing for AI agents. Point Argus at any HTTP, gRPC, or browser-using agent endpoint, run 500+ adversarial probes (OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, TAP/PAIR/GCG), get LLM-judged findings as SARIF, gate CI via GitHub Code Scanning. Ships with CLI + GH Action.",
-      "stars": 165,
-      "forks": 24,
+      "stars": 172,
+      "forks": 25,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
-      "updated_at": "2026-06-22T09:16:08Z",
+      "updated_at": "2026-06-23T10:07:49Z",
       "category": "Agent Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -3297,12 +3249,12 @@
       "full_name": "facebookresearch/Meta_SecAlign",
       "url": "https://github.com/facebookresearch/Meta_SecAlign",
       "description": "Repo for the paper \"Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks\".",
-      "stars": 68,
+      "stars": 69,
       "forks": 18,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated_at": "2026-06-11T12:36:43Z",
+      "updated_at": "2026-06-23T06:19:32Z",
       "category": "Agent Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -3324,7 +3276,7 @@
       "full_name": "CiscoDevNet/foundry-security-spec",
       "url": "https://github.com/CiscoDevNet/foundry-security-spec",
       "description": "An open specification for agentic AI security evaluation and testing, from Cisco.",
-      "stars": 161,
+      "stars": 162,
       "forks": 21,
       "language": null,
       "license": "NOASSERTION",
@@ -3334,7 +3286,7 @@
         "artificial-intelligence",
         "security-evaluation"
       ],
-      "updated_at": "2026-06-22T11:10:27Z",
+      "updated_at": "2026-06-22T17:38:32Z",
       "category": "Agent Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -3388,7 +3340,7 @@
       "language": "Python",
       "license": "MIT",
       "topics": [],
-      "updated_at": "2026-06-22T06:18:39Z",
+      "updated_at": "2026-06-23T07:39:13Z",
       "category": "Agent Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -3617,7 +3569,7 @@
       "url": "https://github.com/solanabr/Auditor",
       "description": "Open-Source AI Security Audit Skill",
       "stars": 25,
-      "forks": 4,
+      "forks": 5,
       "language": null,
       "license": null,
       "topics": [],
@@ -3961,7 +3913,7 @@
       "full_name": "1996fanrui/agents-sandbox",
       "url": "https://github.com/1996fanrui/agents-sandbox",
       "description": "Run AI agents(Claude Code, Codex, OpenClaw, etc.) with Full Power in Isolated Local Sandbox. Zero cost, Zero risk to your host.",
-      "stars": 19,
+      "stars": 20,
       "forks": 4,
       "language": "Go",
       "license": "Apache-2.0",
@@ -3972,7 +3924,7 @@
         "openclaw",
         "sandbox"
       ],
-      "updated_at": "2026-06-12T00:55:22Z",
+      "updated_at": "2026-06-23T09:31:22Z",
       "category": "Agent Security",
       "subcategories": [
         "Sandboxing"
@@ -4049,6 +4001,39 @@
       "is_new": true
     },
     {
+      "name": "aiscan",
+      "full_name": "chainreactors/aiscan",
+      "url": "https://github.com/chainreactors/aiscan",
+      "description": "pi-like agentic security scanner for redteam \u2014 single binary for AI-driven pentesting, from red team ops to bug bounty",
+      "stars": 61,
+      "forks": 8,
+      "language": "Go",
+      "license": "AGPL-3.0",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-pentesting",
+        "pentesting",
+        "redteam"
+      ],
+      "updated_at": "2026-06-23T10:00:01Z",
+      "category": "Agent Security",
+      "subcategories": [
+        "Tool / Function Calling"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 10,
+      "freshness_score": 10,
+      "trusted_source_score": 0,
+      "topic_score": 0,
+      "quality_score": 20,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
       "name": "agentic-security",
       "full_name": "agenticsorg/agentic-security",
       "url": "https://github.com/agenticsorg/agentic-security",
@@ -4064,39 +4049,6 @@
         "RAG Poisoning"
       ],
       "content_type": "Tool / Framework",
-      "source_trust": "Community",
-      "relevance_score": 10,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 20,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "aiscan",
-      "full_name": "chainreactors/aiscan",
-      "url": "https://github.com/chainreactors/aiscan",
-      "description": "pi-like agentic security scanner \u2014 single binary for AI-driven pentesting, from red team ops to bug bounty",
-      "stars": 28,
-      "forks": 3,
-      "language": "Go",
-      "license": "AGPL-3.0",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-pentesting",
-        "pentesting",
-        "redteam"
-      ],
-      "updated_at": "2026-06-22T11:29:08Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "Tool / Function Calling"
-      ],
-      "content_type": "Research / Benchmark",
       "source_trust": "Community",
       "relevance_score": 10,
       "freshness_score": 10,
@@ -4174,6 +4126,33 @@
       "is_new": true
     },
     {
+      "name": "bagman-skill",
+      "full_name": "zscole/bagman-skill",
+      "url": "https://github.com/zscole/bagman-skill",
+      "description": "Secure key management patterns for AI agents - storage, session keys, leak prevention, prompt injection defense",
+      "stars": 18,
+      "forks": 6,
+      "language": null,
+      "license": "MIT",
+      "topics": [],
+      "updated_at": "2026-04-22T12:15:16Z",
+      "category": "Agent Security",
+      "subcategories": [
+        "Prompt Injection Defense"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 12,
+      "freshness_score": 7,
+      "trusted_source_score": 0,
+      "topic_score": 0,
+      "quality_score": 19,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
       "name": "ts-agent-sandbox",
       "full_name": "faveos8758/ts-agent-sandbox",
       "url": "https://github.com/faveos8758/ts-agent-sandbox",
@@ -4200,37 +4179,10 @@
       "content_type": "Tool / Framework",
       "source_trust": "Community",
       "relevance_score": 10,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 6,
-      "quality_score": 20,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "bagman-skill",
-      "full_name": "zscole/bagman-skill",
-      "url": "https://github.com/zscole/bagman-skill",
-      "description": "Secure key management patterns for AI agents - storage, session keys, leak prevention, prompt injection defense",
-      "stars": 18,
-      "forks": 6,
-      "language": null,
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2026-04-22T12:15:16Z",
-      "category": "Agent Security",
-      "subcategories": [
-        "Prompt Injection Defense"
-      ],
-      "content_type": "Research / Benchmark",
-      "source_trust": "Community",
-      "relevance_score": 12,
       "freshness_score": 7,
       "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 19,
+      "topic_score": 6,
+      "quality_score": 17,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -4355,7 +4307,7 @@
       "full_name": "securelayer7/PROMPTPurify",
       "url": "https://github.com/securelayer7/PROMPTPurify",
       "description": "Prompt-injection guardrail for LLM applications. Compact model that outperforms larger open-source guards. No regex, no signatures. Demo: anton.securelayer7.net",
-      "stars": 69,
+      "stars": 70,
       "forks": 19,
       "language": "TypeScript",
       "license": "MIT",
@@ -4374,7 +4326,7 @@
         "prompt-injection-detection",
         "security"
       ],
-      "updated_at": "2026-06-17T19:44:59Z",
+      "updated_at": "2026-06-23T05:43:16Z",
       "category": "LLM Application Security",
       "subcategories": [
         "LLM Labs"
@@ -4667,7 +4619,7 @@
       "full_name": "praetorian-inc/augustus",
       "url": "https://github.com/praetorian-inc/augustus",
       "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks \u2014 190+ probes, 28 providers, single Go binary",
-      "stars": 244,
+      "stars": 246,
       "forks": 30,
       "language": "Go",
       "license": "Apache-2.0",
@@ -4675,7 +4627,7 @@
         "ai-security",
         "capability"
       ],
-      "updated_at": "2026-06-22T07:17:36Z",
+      "updated_at": "2026-06-23T04:24:05Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -4697,8 +4649,8 @@
       "full_name": "toby-bridges/api-relay-audit",
       "url": "https://github.com/toby-bridges/api-relay-audit",
       "description": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
-      "stars": 717,
-      "forks": 67,
+      "stars": 721,
+      "forks": 66,
       "language": "Python",
       "license": "AGPL-3.0",
       "topics": [
@@ -4723,7 +4675,7 @@
         "web3-security",
         "web3-wallet"
       ],
-      "updated_at": "2026-06-22T08:11:07Z",
+      "updated_at": "2026-06-23T10:23:44Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -4745,8 +4697,8 @@
       "full_name": "LouisShark/chatgpt_system_prompt",
       "url": "https://github.com/LouisShark/chatgpt_system_prompt",
       "description": "A collection of GPT system prompts and various prompt injection/leaking knowledge.",
-      "stars": 10637,
-      "forks": 1466,
+      "stars": 10640,
+      "forks": 1465,
       "language": "HTML",
       "license": "MIT",
       "topics": [
@@ -4754,7 +4706,7 @@
         "prompt",
         "prompt-engineering"
       ],
-      "updated_at": "2026-06-22T12:09:41Z",
+      "updated_at": "2026-06-23T05:23:53Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -5064,7 +5016,7 @@
       "url": "https://github.com/dropbox/llm-security",
       "description": "Dropbox LLM Security research code and results",
       "stars": 259,
-      "forks": 29,
+      "forks": 30,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -5235,7 +5187,7 @@
       "url": "https://github.com/Seezo-io/llm-security-101",
       "description": "Delving into the Realm of LLM Security: An Exploration of Offensive and Defensive Tools, Unveiling Their Present Capabilities.",
       "stars": 169,
-      "forks": 29,
+      "forks": 30,
       "language": null,
       "license": null,
       "topics": [],
@@ -5262,7 +5214,7 @@
       "url": "https://github.com/langgptai/LLM-Jailbreaks",
       "description": "LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking",
       "stars": 678,
-      "forks": 58,
+      "forks": 60,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -5357,7 +5309,7 @@
       "url": "https://github.com/agencyenterprise/PromptInject",
       "description": "PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. \ud83c\udfc6 Best Paper Awards @ NeurIPS ML Safety Workshop 2022",
       "stars": 499,
-      "forks": 52,
+      "forks": 53,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -5396,7 +5348,7 @@
       "full_name": "liu00222/Open-Prompt-Injection",
       "url": "https://github.com/liu00222/Open-Prompt-Injection",
       "description": "This repository provides a benchmark for prompt injection attacks and defenses in LLMs",
-      "stars": 461,
+      "stars": 462,
       "forks": 73,
       "language": "Python",
       "license": "MIT",
@@ -5408,7 +5360,7 @@
         "prompt-injection-tool",
         "security-and-privacy"
       ],
-      "updated_at": "2026-06-22T13:11:11Z",
+      "updated_at": "2026-06-23T06:48:15Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -5559,12 +5511,12 @@
       "full_name": "google-research/camel-prompt-injection",
       "url": "https://github.com/google-research/camel-prompt-injection",
       "description": "Code for the paper \"Defeating Prompt Injections by Design\"",
-      "stars": 344,
+      "stars": 345,
       "forks": 53,
       "language": "Jupyter Notebook",
       "license": "Apache-2.0",
       "topics": [],
-      "updated_at": "2026-06-21T20:21:45Z",
+      "updated_at": "2026-06-23T08:51:17Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -5754,7 +5706,7 @@
       "full_name": "pasquini-dario/project_mantis",
       "url": "https://github.com/pasquini-dario/project_mantis",
       "description": "Project Mantis: Hacking Back the AI-Hacker; Prompt Injection as a Defense Against LLM-driven Cyberattacks",
-      "stars": 112,
+      "stars": 114,
       "forks": 13,
       "language": "Python",
       "license": null,
@@ -5763,7 +5715,7 @@
         "llms",
         "prompt-injection"
       ],
-      "updated_at": "2026-06-18T05:20:14Z",
+      "updated_at": "2026-06-23T10:44:17Z",
       "category": "LLM Application Security",
       "subcategories": [
         "LLM Labs"
@@ -5785,12 +5737,12 @@
       "full_name": "Arcanum-Sec/arc_pi_taxonomy",
       "url": "https://github.com/Arcanum-Sec/arc_pi_taxonomy",
       "description": "The Arcanum Prompt Injection Taxonomy",
-      "stars": 638,
-      "forks": 110,
+      "stars": 640,
+      "forks": 111,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated_at": "2026-06-20T20:44:44Z",
+      "updated_at": "2026-06-22T22:30:31Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -6070,33 +6022,6 @@
       "is_new": true
     },
     {
-      "name": "pydantic-ai-guardrails",
-      "full_name": "jagreehal/pydantic-ai-guardrails",
-      "url": "https://github.com/jagreehal/pydantic-ai-guardrails",
-      "description": "Guardrails for Pydantic AI",
-      "stars": 15,
-      "forks": 1,
-      "language": "Python",
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2026-03-23T16:19:09Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "Guardrails"
-      ],
-      "content_type": "Research / Benchmark",
-      "source_trust": "Community",
-      "relevance_score": 19,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 26,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "PromptMatryoshka",
       "full_name": "bcdannyboy/PromptMatryoshka",
       "url": "https://github.com/bcdannyboy/PromptMatryoshka",
@@ -6289,7 +6214,7 @@
       "full_name": "forcesunseen/llm-hackers-handbook",
       "url": "https://github.com/forcesunseen/llm-hackers-handbook",
       "description": "A guide to LLM hacking: fundamentals, prompt injection, offense, and defense",
-      "stars": 190,
+      "stars": 191,
       "forks": 24,
       "language": null,
       "license": null,
@@ -6301,7 +6226,7 @@
         "prompt-engineering",
         "security"
       ],
-      "updated_at": "2026-06-04T04:45:08Z",
+      "updated_at": "2026-06-23T05:02:14Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -6512,7 +6437,7 @@
       "full_name": "multikernel/sandlock",
       "url": "https://github.com/multikernel/sandlock",
       "description": "The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection",
-      "stars": 228,
+      "stars": 234,
       "forks": 27,
       "language": "Rust",
       "license": "Apache-2.0",
@@ -6525,7 +6450,7 @@
         "sandboxing",
         "seccomp"
       ],
-      "updated_at": "2026-06-21T22:25:12Z",
+      "updated_at": "2026-06-23T08:36:46Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Sandboxing"
@@ -6556,6 +6481,33 @@
       "category": "LLM Application Security",
       "subcategories": [
         "Jailbreak Testing"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 19,
+      "freshness_score": 4,
+      "trusted_source_score": 0,
+      "topic_score": 0,
+      "quality_score": 23,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "pydantic-ai-guardrails",
+      "full_name": "jagreehal/pydantic-ai-guardrails",
+      "url": "https://github.com/jagreehal/pydantic-ai-guardrails",
+      "description": "Guardrails for Pydantic AI",
+      "stars": 15,
+      "forks": 1,
+      "language": "Python",
+      "license": "MIT",
+      "topics": [],
+      "updated_at": "2026-03-23T16:19:09Z",
+      "category": "LLM Application Security",
+      "subcategories": [
+        "Guardrails"
       ],
       "content_type": "Research / Benchmark",
       "source_trust": "Community",
@@ -6601,12 +6553,12 @@
       "full_name": "gally16/LLM-Jailbreaking-Guide",
       "url": "https://github.com/gally16/LLM-Jailbreaking-Guide",
       "description": "LLM Jailbreaking Guide\u4e3b\u6d41\u5927\u8bed\u8a00\u6a21\u578b\u8d8a\u72f1\u6307\u5357",
-      "stars": 115,
+      "stars": 116,
       "forks": 7,
       "language": null,
       "license": null,
       "topics": [],
-      "updated_at": "2026-06-21T14:50:45Z",
+      "updated_at": "2026-06-22T17:20:57Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -6798,7 +6750,7 @@
       "full_name": "mattolson/agent-sandbox",
       "url": "https://github.com/mattolson/agent-sandbox",
       "description": "Secure local dev environment for collaboration with AI coding agents",
-      "stars": 185,
+      "stars": 186,
       "forks": 17,
       "language": "Python",
       "license": "MIT",
@@ -6808,7 +6760,7 @@
         "agents",
         "coding-agents"
       ],
-      "updated_at": "2026-06-19T16:31:34Z",
+      "updated_at": "2026-06-23T01:39:02Z",
       "category": "LLM Application Security",
       "subcategories": [
         "Guardrails"
@@ -6994,33 +6946,6 @@
       "is_new": true
     },
     {
-      "name": "prompt-injection",
-      "full_name": "ScottLogic/prompt-injection",
-      "url": "https://github.com/ScottLogic/prompt-injection",
-      "description": "Application which investigates defensive measures against prompt injection attacks on an LLM, with a focus on the exposure of external tools.",
-      "stars": 35,
-      "forks": 15,
-      "language": "TypeScript",
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2026-04-04T18:20:38Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "Sandboxing"
-      ],
-      "content_type": "Guide / Standard",
-      "source_trust": "Community",
-      "relevance_score": 13,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 20,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "LLM-Jailbreaking-Defense-Backtranslation",
       "full_name": "YihanWang617/LLM-Jailbreaking-Defense-Backtranslation",
       "url": "https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation",
@@ -7093,33 +7018,6 @@
       "source_trust": "Community",
       "relevance_score": 13,
       "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 20,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "cc-bos",
-      "full_name": "xaoLiu1222/cc-bos",
-      "url": "https://github.com/xaoLiu1222/cc-bos",
-      "description": "CC-BOS: Classical Chinese + Bio-inspired Optimization Search for LLM Jailbreak (arXiv:2602.22983)",
-      "stars": 42,
-      "forks": 11,
-      "language": "Python",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-05-22T16:29:45Z",
-      "category": "LLM Application Security",
-      "subcategories": [
-        "LLM Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 10,
-      "freshness_score": 10,
       "trusted_source_score": 0,
       "topic_score": 0,
       "quality_score": 20,
@@ -7218,6 +7116,33 @@
       "trusted_source_score": 0,
       "topic_score": 6,
       "quality_score": 18,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "cc-bos",
+      "full_name": "xaoLiu1222/cc-bos",
+      "url": "https://github.com/xaoLiu1222/cc-bos",
+      "description": "CC-BOS: Classical Chinese + Bio-inspired Optimization Search for LLM Jailbreak (arXiv:2602.22983)",
+      "stars": 42,
+      "forks": 11,
+      "language": "Python",
+      "license": null,
+      "topics": [],
+      "updated_at": "2026-05-22T16:29:45Z",
+      "category": "LLM Application Security",
+      "subcategories": [
+        "LLM Labs"
+      ],
+      "content_type": "Lab",
+      "source_trust": "Community",
+      "relevance_score": 10,
+      "freshness_score": 7,
+      "trusted_source_score": 0,
+      "topic_score": 0,
+      "quality_score": 17,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -7363,8 +7288,8 @@
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "stars": 3952,
-      "forks": 381,
+      "stars": 3959,
+      "forks": 383,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -7388,7 +7313,7 @@
         "skills-security",
         "vulnerability"
       ],
-      "updated_at": "2026-06-22T11:53:52Z",
+      "updated_at": "2026-06-23T11:02:12Z",
       "category": "MCP Security",
       "subcategories": [
         "Prompt Injection Defense"
@@ -7447,39 +7372,12 @@
       "is_new": true
     },
     {
-      "name": "awesome-ai-security",
-      "full_name": "ottosulin/awesome-ai-security",
-      "url": "https://github.com/ottosulin/awesome-ai-security",
-      "description": "A collection of awesome resources related AI security",
-      "stars": 1173,
-      "forks": 285,
-      "language": null,
-      "license": "MIT",
-      "topics": [],
-      "updated_at": "2026-06-22T13:21:20Z",
-      "category": "MCP Security",
-      "subcategories": [
-        "MCP Labs"
-      ],
-      "content_type": "Lab",
-      "source_trust": "Community",
-      "relevance_score": 69,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 95,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "Awesome-LLMSecOps",
       "full_name": "wearetyomsmnv/Awesome-LLMSecOps",
       "url": "https://github.com/wearetyomsmnv/Awesome-LLMSecOps",
       "description": "LLM | Agentic | Security | Operations in one github repo with good links and pictures.",
       "stars": 140,
-      "forks": 45,
+      "forks": 46,
       "language": "HTML",
       "license": null,
       "topics": [
@@ -7514,6 +7412,33 @@
       "trusted_source_score": 0,
       "topic_score": 33,
       "quality_score": 94,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "awesome-ai-security",
+      "full_name": "ottosulin/awesome-ai-security",
+      "url": "https://github.com/ottosulin/awesome-ai-security",
+      "description": "A collection of awesome resources related AI security",
+      "stars": 1185,
+      "forks": 286,
+      "language": null,
+      "license": "MIT",
+      "topics": [],
+      "updated_at": "2026-06-23T09:51:00Z",
+      "category": "MCP Security",
+      "subcategories": [
+        "MCP Labs"
+      ],
+      "content_type": "Lab",
+      "source_trust": "Community",
+      "relevance_score": 67,
+      "freshness_score": 10,
+      "trusted_source_score": 0,
+      "topic_score": 0,
+      "quality_score": 93,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -7599,8 +7524,8 @@
       "full_name": "anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection",
       "url": "https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection",
       "description": "AI/ML Pentesting Roadmap for Beginners",
-      "stars": 486,
-      "forks": 66,
+      "stars": 491,
+      "forks": 67,
       "language": null,
       "license": null,
       "topics": [
@@ -7611,7 +7536,7 @@
         "resource",
         "roadmap"
       ],
-      "updated_at": "2026-06-20T08:46:42Z",
+      "updated_at": "2026-06-23T06:50:43Z",
       "category": "MCP Security",
       "subcategories": [
         "MCP Labs"
@@ -7666,15 +7591,15 @@
       "full_name": "TalEliyahu/Awesome-AI-Security",
       "url": "https://github.com/TalEliyahu/Awesome-AI-Security",
       "description": "Curated resources, research, and tools for securing AI systems",
-      "stars": 734,
-      "forks": 159,
+      "stars": 735,
+      "forks": 160,
       "language": null,
       "license": "MIT",
       "topics": [
         "artificial-intelligence",
         "cybersecurity"
       ],
-      "updated_at": "2026-06-22T03:36:17Z",
+      "updated_at": "2026-06-23T09:01:40Z",
       "category": "MCP Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -7696,7 +7621,7 @@
       "full_name": "4vanish/AI-Pentest-Playbook",
       "url": "https://github.com/4vanish/AI-Pentest-Playbook",
       "description": "\ud83d\udee1 The reference playbook for pentesting AI chatbots & LLM-powered apps in one place. Ready-to-use payloads covering the full OWASP LLM Top 10 plus frontier vectors (MCP \u00b7 RAG \u00b7 A2A \u00b7 computer-use \u00b7 voice)",
-      "stars": 26,
+      "stars": 27,
       "forks": 9,
       "language": "Python",
       "license": null,
@@ -7714,7 +7639,7 @@
         "red-team",
         "security-research"
       ],
-      "updated_at": "2026-06-21T03:41:03Z",
+      "updated_at": "2026-06-23T04:41:26Z",
       "category": "MCP Security",
       "subcategories": [
         "RAG Poisoning"
@@ -7736,8 +7661,8 @@
       "full_name": "aliasrobotics/cai",
       "url": "https://github.com/aliasrobotics/cai",
       "description": "Cybersecurity AI (CAI), the framework for AI Security",
-      "stars": 9185,
-      "forks": 1359,
+      "stars": 9198,
+      "forks": 1361,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -7748,7 +7673,7 @@
         "llm",
         "pentesting"
       ],
-      "updated_at": "2026-06-22T12:45:03Z",
+      "updated_at": "2026-06-23T11:05:45Z",
       "category": "MCP Security",
       "subcategories": [
         "MCP Labs"
@@ -7770,15 +7695,15 @@
       "full_name": "Joe-B-Security/awesome-prompt-injection",
       "url": "https://github.com/Joe-B-Security/awesome-prompt-injection",
       "description": "Learn about a type of vulnerability that specifically targets machine learning models",
-      "stars": 528,
-      "forks": 88,
+      "stars": 529,
+      "forks": 89,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated_at": "2026-06-21T18:47:11Z",
+      "updated_at": "2026-06-23T06:47:55Z",
       "category": "MCP Security",
       "subcategories": [
         "MCP Labs"
@@ -7800,7 +7725,7 @@
       "full_name": "sonuoffsec/DVAP",
       "url": "https://github.com/sonuoffsec/DVAP",
       "description": "An OWASP-aligned intentionally vulnerable platform for learning and testing AI, LLM, RAG, MCP, and Agentic AI security.",
-      "stars": 20,
+      "stars": 19,
       "forks": 5,
       "language": "TypeScript",
       "license": "NOASSERTION",
@@ -7818,7 +7743,7 @@
         "prompt-injection",
         "red-team"
       ],
-      "updated_at": "2026-06-19T16:01:55Z",
+      "updated_at": "2026-06-22T17:55:31Z",
       "category": "MCP Security",
       "subcategories": [
         "MCP Labs"
@@ -7841,11 +7766,11 @@
       "url": "https://github.com/gmh5225/awesome-ai-security",
       "description": "A curated list of AI Security materials and resources for Pentesters, Bug Hunters, and Security Researchers.",
       "stars": 24,
-      "forks": 11,
+      "forks": 12,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated_at": "2026-06-21T18:03:36Z",
+      "updated_at": "2026-06-23T02:54:29Z",
       "category": "MCP Security",
       "subcategories": [
         "MCP Labs"
@@ -7867,7 +7792,7 @@
       "full_name": "superagent-ai/superagent",
       "url": "https://github.com/superagent-ai/superagent",
       "description": "Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.",
-      "stars": 6635,
+      "stars": 6637,
       "forks": 961,
       "language": "TypeScript",
       "license": "MIT",
@@ -7880,7 +7805,7 @@
         "prompt-injection",
         "security"
       ],
-      "updated_at": "2026-06-22T07:57:50Z",
+      "updated_at": "2026-06-23T10:08:08Z",
       "category": "MCP Security",
       "subcategories": [
         "Guardrails"
@@ -8022,7 +7947,7 @@
       "full_name": "DmitrL-dev/AISecurity",
       "url": "https://github.com/DmitrL-dev/AISecurity",
       "description": "AI Security Platform: Defense (61 Rust engines + Micro-Model Swarm) + Offense (39K+ payloads) ",
-      "stars": 107,
+      "stars": 106,
       "forks": 17,
       "language": "Python",
       "license": "NOASSERTION",
@@ -8048,7 +7973,7 @@
         "python",
         "rlm-toolkit"
       ],
-      "updated_at": "2026-06-22T04:28:26Z",
+      "updated_at": "2026-06-23T08:53:22Z",
       "category": "MCP Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -8096,7 +8021,7 @@
         "security",
         "shellward"
       ],
-      "updated_at": "2026-06-21T14:27:32Z",
+      "updated_at": "2026-06-22T17:15:21Z",
       "category": "MCP Security",
       "subcategories": [
         "Guardrails"
@@ -8118,7 +8043,7 @@
       "full_name": "getagentseal/agentseal",
       "url": "https://github.com/getagentseal/agentseal",
       "description": "Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool poisoning.",
-      "stars": 288,
+      "stars": 289,
       "forks": 43,
       "language": "Python",
       "license": "NOASSERTION",
@@ -8140,7 +8065,7 @@
         "security",
         "vulnerability-scanner"
       ],
-      "updated_at": "2026-06-21T08:04:27Z",
+      "updated_at": "2026-06-22T14:45:06Z",
       "category": "MCP Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -8199,7 +8124,7 @@
       "full_name": "requie/AI-Red-Teaming-Guide",
       "url": "https://github.com/requie/AI-Red-Teaming-Guide",
       "description": "A comprehensive guide to adversarial testing and security evaluation of AI systems, helping organizations identify vulnerabilities before attackers exploit them.",
-      "stars": 187,
+      "stars": 189,
       "forks": 33,
       "language": null,
       "license": null,
@@ -8215,7 +8140,7 @@
         "redteaming-tools",
         "security-red-team"
       ],
-      "updated_at": "2026-06-22T06:15:16Z",
+      "updated_at": "2026-06-23T03:20:40Z",
       "category": "MCP Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -8389,7 +8314,7 @@
         "tool-calling",
         "vulnify"
       ],
-      "updated_at": "2026-06-12T21:07:05Z",
+      "updated_at": "2026-06-22T20:39:46Z",
       "category": "MCP Security",
       "subcategories": [
         "Guardrails"
@@ -8438,6 +8363,54 @@
       "freshness_score": 10,
       "trusted_source_score": 0,
       "topic_score": 21,
+      "quality_score": 64,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "CyberStrike",
+      "full_name": "CyberStrikeus/CyberStrike",
+      "url": "https://github.com/CyberStrikeus/CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "stars": 623,
+      "forks": 103,
+      "language": "TypeScript",
+      "license": "AGPL-3.0",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "appsec",
+        "atomic-red-team",
+        "bug-bounty",
+        "cis-benchmarks",
+        "cybersecurity",
+        "devsecops",
+        "ethical-hacking",
+        "mcp",
+        "mitre-attack",
+        "nist",
+        "offensive-security",
+        "owasp",
+        "penetration-testing",
+        "pentest",
+        "red-team",
+        "security-automation",
+        "security-tools",
+        "web-security"
+      ],
+      "updated_at": "2026-06-23T08:59:31Z",
+      "category": "MCP Security",
+      "subcategories": [
+        "Tool / Function Calling"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 46,
+      "freshness_score": 10,
+      "trusted_source_score": 0,
+      "topic_score": 18,
       "quality_score": 64,
       "stars_1d": 0,
       "stars_7d": 0,
@@ -8532,54 +8505,6 @@
       "is_new": true
     },
     {
-      "name": "CyberStrike",
-      "full_name": "CyberStrikeus/CyberStrike",
-      "url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 609,
-      "forks": 99,
-      "language": "TypeScript",
-      "license": "AGPL-3.0",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "appsec",
-        "atomic-red-team",
-        "bug-bounty",
-        "cis-benchmarks",
-        "cybersecurity",
-        "devsecops",
-        "ethical-hacking",
-        "mcp",
-        "mitre-attack",
-        "nist",
-        "offensive-security",
-        "owasp",
-        "penetration-testing",
-        "pentest",
-        "red-team",
-        "security-automation",
-        "security-tools",
-        "web-security"
-      ],
-      "updated_at": "2026-06-22T12:47:48Z",
-      "category": "MCP Security",
-      "subcategories": [
-        "Tool / Function Calling"
-      ],
-      "content_type": "Research / Benchmark",
-      "source_trust": "Community",
-      "relevance_score": 46,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 18,
-      "quality_score": 63,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "AI-Security-Newsletter",
       "full_name": "TalEliyahu/AI-Security-Newsletter",
       "url": "https://github.com/TalEliyahu/AI-Security-Newsletter",
@@ -8617,7 +8542,7 @@
       "full_name": "luckyPipewrench/pipelock",
       "url": "https://github.com/luckyPipewrench/pipelock",
       "description": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
-      "stars": 728,
+      "stars": 729,
       "forks": 85,
       "language": "Go",
       "license": "Apache-2.0",
@@ -8643,7 +8568,7 @@
         "ssrf",
         "ssrf-protection"
       ],
-      "updated_at": "2026-06-22T12:35:51Z",
+      "updated_at": "2026-06-23T10:30:11Z",
       "category": "MCP Security",
       "subcategories": [
         "Jailbreak Testing"
@@ -8665,7 +8590,7 @@
       "full_name": "Puliczek/awesome-mcp-security",
       "url": "https://github.com/Puliczek/awesome-mcp-security",
       "description": "\ud83d\udd25\ud83d\udd12 Awesome MCP (Model Context Protocol) Security \ud83d\udda5\ufe0f",
-      "stars": 704,
+      "stars": 708,
       "forks": 148,
       "language": null,
       "license": null,
@@ -8685,7 +8610,7 @@
         "security-writeups",
         "writeups"
       ],
-      "updated_at": "2026-06-18T17:07:27Z",
+      "updated_at": "2026-06-23T06:29:36Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -8830,8 +8755,8 @@
       "full_name": "Portkey-AI/gateway",
       "url": "https://github.com/Portkey-AI/gateway",
       "description": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
-      "stars": 12157,
-      "forks": 1142,
+      "stars": 12165,
+      "forks": 1145,
       "language": "TypeScript",
       "license": "MIT",
       "topics": [
@@ -8851,7 +8776,7 @@
         "model-router",
         "openai"
       ],
-      "updated_at": "2026-06-22T13:12:55Z",
+      "updated_at": "2026-06-23T09:49:52Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -8900,7 +8825,7 @@
       "full_name": "affaan-m/agentshield",
       "url": "https://github.com/affaan-m/agentshield",
       "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. \ud83d\udee1\ufe0f",
-      "stars": 903,
+      "stars": 908,
       "forks": 194,
       "language": "TypeScript",
       "license": "MIT",
@@ -8913,7 +8838,7 @@
         "opus",
         "security"
       ],
-      "updated_at": "2026-06-21T20:25:19Z",
+      "updated_at": "2026-06-23T08:20:04Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -9005,7 +8930,7 @@
       "url": "https://github.com/ZeroLeaks/zeroleaks",
       "description": "AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities",
       "stars": 587,
-      "forks": 92,
+      "forks": 93,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [],
@@ -9031,8 +8956,8 @@
       "full_name": "ai-boost/awesome-prompts",
       "url": "https://github.com/ai-boost/awesome-prompts",
       "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
-      "stars": 8283,
-      "forks": 781,
+      "stars": 8290,
+      "forks": 780,
       "language": null,
       "license": "GPL-3.0",
       "topics": [
@@ -9046,10 +8971,10 @@
         "prompt",
         "prompt-engineering"
       ],
-      "updated_at": "2026-06-22T12:53:37Z",
+      "updated_at": "2026-06-23T11:05:26Z",
       "category": "MCP Security",
       "subcategories": [
-        "Tool / Function Calling"
+        "Dashboard / Platform"
       ],
       "content_type": "Awesome List",
       "source_trust": "Community",
@@ -9156,7 +9081,7 @@
       "full_name": "secureagentics/Adrian",
       "url": "https://github.com/secureagentics/Adrian",
       "description": "Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.",
-      "stars": 321,
+      "stars": 322,
       "forks": 69,
       "language": "Python",
       "license": "Apache-2.0",
@@ -9176,7 +9101,7 @@
         "runtime-security",
         "threat-detection"
       ],
-      "updated_at": "2026-06-22T09:52:18Z",
+      "updated_at": "2026-06-22T15:56:36Z",
       "category": "MCP Security",
       "subcategories": [
         "Dashboard / Platform"
@@ -9246,14 +9171,14 @@
       "full_name": "OWASP/AISVS",
       "url": "https://github.com/OWASP/AISVS",
       "description": "The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.",
-      "stars": 185,
-      "forks": 79,
+      "stars": 198,
+      "forks": 81,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
         "aisecurity"
       ],
-      "updated_at": "2026-06-22T13:32:12Z",
+      "updated_at": "2026-06-23T10:21:04Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -9275,7 +9200,7 @@
       "full_name": "ax128/AegisGate",
       "url": "https://github.com/ax128/AegisGate",
       "description": "Open-source security gateway for LLM APIs \u2014 prompt injection detection, PII redaction, dangerous response   sanitization, and audit logging. OpenAI/Claude compatible, MCP & Agent SKILL support. Drop-in proxy for AI coding   agents (Cursor, Claude Code, Codex).",
-      "stars": 47,
+      "stars": 48,
       "forks": 5,
       "language": "Python",
       "license": "MIT",
@@ -9296,7 +9221,7 @@
         "pii-redaction",
         "prompt-injection"
       ],
-      "updated_at": "2026-06-20T23:05:25Z",
+      "updated_at": "2026-06-23T09:26:37Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -9366,8 +9291,8 @@
       "full_name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 17934,
-      "forks": 1266,
+      "stars": 17991,
+      "forks": 1270,
       "language": "TypeScript",
       "license": "NOASSERTION",
       "topics": [
@@ -9392,7 +9317,7 @@
         "skills",
         "zed-extension"
       ],
-      "updated_at": "2026-06-22T13:43:12Z",
+      "updated_at": "2026-06-23T11:06:15Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -9653,7 +9578,7 @@
       "full_name": "asamassekou10/ship-safe",
       "url": "https://github.com/asamassekou10/ship-safe",
       "description": "CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.",
-      "stars": 733,
+      "stars": 735,
       "forks": 82,
       "language": "JavaScript",
       "license": "MIT",
@@ -9667,7 +9592,7 @@
         "security-tools",
         "static-analysis"
       ],
-      "updated_at": "2026-06-19T18:53:27Z",
+      "updated_at": "2026-06-23T11:06:11Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -9871,8 +9796,8 @@
       "full_name": "Yeti-791/Awesome-Offensive-AI-Agentic-Landscape",
       "url": "https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape",
       "description": "This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive agents, and vulnerability discovery\u2014aimed at helping researchers, security engineers, and enterprise decision-makers quickly form a holistic view.",
-      "stars": 22,
-      "forks": 1,
+      "stars": 23,
+      "forks": 2,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -9883,7 +9808,7 @@
         "intelligent-penetration",
         "offensive-ai"
       ],
-      "updated_at": "2026-06-21T10:34:37Z",
+      "updated_at": "2026-06-23T08:31:29Z",
       "category": "MCP Security",
       "subcategories": [
         "MCP Labs"
@@ -9905,7 +9830,7 @@
       "full_name": "hackersatyamrastogi/pentesting-cyber-mcp",
       "url": "https://github.com/hackersatyamrastogi/pentesting-cyber-mcp",
       "description": "\ud83d\udd10 50+ MCP Security Servers for AI-Powered Pentesting | Integrate Nmap, Burp Suite, Nuclei, Shodan, BloodHound, Semgrep, Trivy | Model Context Protocol for Cybersecurity",
-      "stars": 17,
+      "stars": 18,
       "forks": 10,
       "language": "JavaScript",
       "license": "MIT",
@@ -9930,7 +9855,7 @@
         "shodan",
         "vulnerability-scanner"
       ],
-      "updated_at": "2026-06-10T15:46:38Z",
+      "updated_at": "2026-06-23T06:49:46Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -10188,7 +10113,7 @@
       "full_name": "bountyyfi/mcp-watchdog",
       "url": "https://github.com/bountyyfi/mcp-watchdog",
       "description": "MCP security proxy that sits between AI coding assistants and MCP servers, detecting and blocking all known MCP attack classes. Works with any MCP server (tools, resources, prompts) on macOS, Linux, and Windows.",
-      "stars": 23,
+      "stars": 24,
       "forks": 3,
       "language": "Python",
       "license": null,
@@ -10201,7 +10126,7 @@
         "proxy",
         "windows"
       ],
-      "updated_at": "2026-06-19T12:35:45Z",
+      "updated_at": "2026-06-22T20:07:24Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -10412,12 +10337,12 @@
       "full_name": "fu351/Doberman-Core",
       "url": "https://github.com/fu351/Doberman-Core",
       "description": "Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment.",
-      "stars": 29,
+      "stars": 38,
       "forks": 1,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
-      "updated_at": "2026-06-22T13:36:25Z",
+      "updated_at": "2026-06-23T08:52:12Z",
       "category": "MCP Security",
       "subcategories": [
         "Guardrails"
@@ -10523,7 +10448,7 @@
         "sandbox",
         "zero-trust"
       ],
-      "updated_at": "2026-06-22T11:26:21Z",
+      "updated_at": "2026-06-23T10:44:34Z",
       "category": "MCP Security",
       "subcategories": [
         "Sandboxing"
@@ -10535,54 +10460,6 @@
       "trusted_source_score": 10,
       "topic_score": 9,
       "quality_score": 40,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
-      "name": "agent-bom",
-      "full_name": "msaad00/agent-bom",
-      "url": "https://github.com/msaad00/agent-bom",
-      "description": "AI supply-chain security scanner and self-hosted control plane for agents, MCP, SBOM/SARIF, graph findings, runtime enforcement, and compliance evidence.",
-      "stars": 22,
-      "forks": 8,
-      "language": "Python",
-      "license": "Apache-2.0",
-      "topics": [
-        "ai-agents",
-        "ai-security",
-        "ai-supply-chain",
-        "aibom",
-        "blast-radius",
-        "cloud-security",
-        "compliance",
-        "container-security",
-        "cyclonedx",
-        "devsecops",
-        "kubernetes",
-        "llm-security",
-        "mcp",
-        "mcp-server",
-        "owasp",
-        "sarif",
-        "sbom",
-        "security-scanner",
-        "supply-chain-security",
-        "vulnerability-scanning"
-      ],
-      "updated_at": "2026-06-22T06:05:20Z",
-      "category": "MCP Security",
-      "subcategories": [
-        "Tool / Function Calling"
-      ],
-      "content_type": "Research / Benchmark",
-      "source_trust": "Community",
-      "relevance_score": 29,
-      "freshness_score": 10,
-      "trusted_source_score": 0,
-      "topic_score": 18,
-      "quality_score": 39,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -11038,12 +10915,12 @@
       "full_name": "vaultmcp/vault",
       "url": "https://github.com/vaultmcp/vault",
       "description": "MCP prompt-injection scanning proxy \u2014 runtime security for MCP tool responses",
-      "stars": 161,
+      "stars": 160,
       "forks": 22,
       "language": "Solidity",
       "license": "MIT",
       "topics": [],
-      "updated_at": "2026-06-18T10:23:16Z",
+      "updated_at": "2026-06-23T10:08:46Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -11485,33 +11362,6 @@
       "is_new": true
     },
     {
-      "name": "mcp-security-scanner",
-      "full_name": "DMontgomery40/mcp-security-scanner",
-      "url": "https://github.com/DMontgomery40/mcp-security-scanner",
-      "description": "A security vulnerability scanner built with MCP plugins",
-      "stars": 12,
-      "forks": 2,
-      "language": "JavaScript",
-      "license": null,
-      "topics": [],
-      "updated_at": "2026-03-23T19:36:49Z",
-      "category": "MCP Security",
-      "subcategories": [
-        "Tool / Function Calling"
-      ],
-      "content_type": "Research / Benchmark",
-      "source_trust": "Community",
-      "relevance_score": 24,
-      "freshness_score": 7,
-      "trusted_source_score": 0,
-      "topic_score": 0,
-      "quality_score": 31,
-      "stars_1d": 0,
-      "stars_7d": 0,
-      "trend_score": 0.0,
-      "is_new": true
-    },
-    {
       "name": "nova-tracer",
       "full_name": "Nova-Hunting/nova-tracer",
       "url": "https://github.com/Nova-Hunting/nova-tracer",
@@ -11637,12 +11487,12 @@
       "full_name": "ModelContextProtocol-Security/modelcontextprotocol-security.io",
       "url": "https://github.com/ModelContextProtocol-Security/modelcontextprotocol-security.io",
       "description": "Official website and documentation hub for the Model Context Protocol Security initiative. Provides security guidance, best practices, tools, and community resources for safely deploying MCP servers and AI agents. A Cloud Security Alliance community project.",
-      "stars": 23,
+      "stars": 24,
       "forks": 7,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated_at": "2026-06-01T03:55:32Z",
+      "updated_at": "2026-06-22T17:24:15Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -11654,6 +11504,33 @@
       "trusted_source_score": 0,
       "topic_score": 0,
       "quality_score": 29,
+      "stars_1d": 0,
+      "stars_7d": 0,
+      "trend_score": 0.0,
+      "is_new": true
+    },
+    {
+      "name": "mcp-security-scanner",
+      "full_name": "DMontgomery40/mcp-security-scanner",
+      "url": "https://github.com/DMontgomery40/mcp-security-scanner",
+      "description": "A security vulnerability scanner built with MCP plugins",
+      "stars": 12,
+      "forks": 2,
+      "language": "JavaScript",
+      "license": null,
+      "topics": [],
+      "updated_at": "2026-03-23T19:36:49Z",
+      "category": "MCP Security",
+      "subcategories": [
+        "Tool / Function Calling"
+      ],
+      "content_type": "Research / Benchmark",
+      "source_trust": "Community",
+      "relevance_score": 24,
+      "freshness_score": 4,
+      "trusted_source_score": 0,
+      "topic_score": 0,
+      "quality_score": 28,
       "stars_1d": 0,
       "stars_7d": 0,
       "trend_score": 0.0,
@@ -11772,7 +11649,7 @@
         "windows",
         "wsl"
       ],
-      "updated_at": "2026-06-22T01:28:07Z",
+      "updated_at": "2026-06-22T16:58:25Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -11827,7 +11704,7 @@
       "full_name": "agent-sandbox/agent-sandbox",
       "url": "https://github.com/agent-sandbox/agent-sandbox",
       "description": "Agent-Sandbox is an E2B compatible easy-to-use enterprise-grade sandboxes for AI Agents. Allows Agents to securely run untrusted LLM-generated Code, Browser use, Computer use, and deploy Website etc.",
-      "stars": 153,
+      "stars": 154,
       "forks": 14,
       "language": "Go",
       "license": "Apache-2.0",
@@ -11845,7 +11722,7 @@
         "mcp",
         "sandbox"
       ],
-      "updated_at": "2026-06-22T10:45:17Z",
+      "updated_at": "2026-06-22T19:07:14Z",
       "category": "MCP Security",
       "subcategories": [
         "Sandboxing"
@@ -11974,7 +11851,7 @@
       "url": "https://github.com/Srajangpt1/ai-security-crew",
       "description": "MCP to put security context while vibe coding",
       "stars": 67,
-      "forks": 24,
+      "forks": 25,
       "language": "Python",
       "license": "MIT",
       "topics": [],
@@ -12091,7 +11968,7 @@
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated_at": "2026-06-21T19:19:26Z",
+      "updated_at": "2026-06-23T07:59:26Z",
       "category": "MCP Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -12305,7 +12182,7 @@
       "full_name": "microsoft/AI-Red-Teaming-Playground-Labs",
       "url": "https://github.com/microsoft/AI-Red-Teaming-Playground-Labs",
       "description": "AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.",
-      "stars": 1978,
+      "stars": 1980,
       "forks": 296,
       "language": "TypeScript",
       "license": "MIT",
@@ -12314,7 +12191,7 @@
         "ai-red-teaming",
         "prompt-injection"
       ],
-      "updated_at": "2026-06-22T02:23:33Z",
+      "updated_at": "2026-06-22T21:49:24Z",
       "category": "Model / ML Security",
       "subcategories": [
         "LLM Labs"
@@ -12402,8 +12279,8 @@
       "full_name": "corca-ai/awesome-llm-security",
       "url": "https://github.com/corca-ai/awesome-llm-security",
       "description": "A curation of awesome tools, documents and projects about LLM Security.",
-      "stars": 1613,
-      "forks": 278,
+      "stars": 1614,
+      "forks": 280,
       "language": null,
       "license": null,
       "topics": [
@@ -12412,7 +12289,7 @@
         "llm",
         "security"
       ],
-      "updated_at": "2026-06-20T21:54:59Z",
+      "updated_at": "2026-06-23T08:08:49Z",
       "category": "Model / ML Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -12434,8 +12311,8 @@
       "full_name": "CryptoAILab/Awesome-LM-SSP",
       "url": "https://github.com/CryptoAILab/Awesome-LM-SSP",
       "description": "A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.).",
-      "stars": 2001,
-      "forks": 148,
+      "stars": 2002,
+      "forks": 149,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -12451,7 +12328,7 @@
         "security",
         "vlm"
       ],
-      "updated_at": "2026-06-22T08:56:49Z",
+      "updated_at": "2026-06-23T06:51:00Z",
       "category": "Model / ML Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -12473,12 +12350,12 @@
       "full_name": "muellerberndt/awesome-ai-security",
       "url": "https://github.com/muellerberndt/awesome-ai-security",
       "description": "An AI security awesome list / learning journey",
-      "stars": 107,
-      "forks": 103,
+      "stars": 108,
+      "forks": 108,
       "language": "TypeScript",
       "license": null,
       "topics": [],
-      "updated_at": "2026-06-22T04:57:14Z",
+      "updated_at": "2026-06-22T20:17:10Z",
       "category": "Model / ML Security",
       "subcategories": [
         "Benchmarks / Eval"
@@ -12527,7 +12404,7 @@
       "full_name": "Trusted-AI/adversarial-robustness-toolbox",
       "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
       "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
-      "stars": 6052,
+      "stars": 6054,
       "forks": 1321,
       "language": "Python",
       "license": "MIT",
@@ -12550,7 +12427,7 @@
         "trusted-ai",
         "trustworthy-ai"
       ],
-      "updated_at": "2026-06-22T13:16:12Z",
+      "updated_at": "2026-06-23T07:18:36Z",
       "category": "Model / ML Security",
       "subcategories": [
         "Framework / Library"
@@ -12572,12 +12449,12 @@
       "full_name": "PromptLabs/Prompt-Hacking-Resources",
       "url": "https://github.com/PromptLabs/Prompt-Hacking-Resources",
       "description": "A list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection",
-      "stars": 632,
+      "stars": 633,
       "forks": 72,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated_at": "2026-06-22T08:49:47Z",
+      "updated_at": "2026-06-23T06:48:56Z",
       "category": "Model / ML Security",
       "subcategories": [
         "Dashboard / Platform"
@@ -12654,7 +12531,7 @@
       "url": "https://github.com/DeepSpaceHarbor/Awesome-AI-Security",
       "description": ":file_folder: #AISecurity",
       "stars": 1641,
-      "forks": 227,
+      "forks": 228,
       "language": null,
       "license": null,
       "topics": [],
@@ -12690,7 +12567,7 @@
         "pentest-tool",
         "red-team-tools"
       ],
-      "updated_at": "2026-06-22T12:54:46Z",
+      "updated_at": "2026-06-23T03:00:23Z",
       "category": "Model / ML Security",
       "subcategories": [
         "RAG Poisoning"
@@ -12712,7 +12589,7 @@
       "full_name": "openappsec/openappsec",
       "url": "https://github.com/openappsec/openappsec",
       "description": "open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.",
-      "stars": 1640,
+      "stars": 1641,
       "forks": 126,
       "language": "C++",
       "license": "Apache-2.0",
@@ -12733,7 +12610,7 @@
         "waf",
         "web-application-firewall"
       ],
-      "updated_at": "2026-06-19T22:01:10Z",
+      "updated_at": "2026-06-22T20:16:42Z",
       "category": "Model / ML Security",
       "subcategories": [
         "Sandboxing"
@@ -12778,7 +12655,7 @@
         "step-functions",
         "well-architected"
       ],
-      "updated_at": "2026-06-19T20:12:32Z",
+      "updated_at": "2026-06-22T19:39:23Z",
       "category": "Model / ML Security",
       "subcategories": [
         "Guardrails"
@@ -12800,7 +12677,7 @@
       "full_name": "precize/Agentic-AI-Top10-Vulnerability",
       "url": "https://github.com/precize/Agentic-AI-Top10-Vulnerability",
       "description": "Top 10 for Agentic AI (AI Agent Security) serves as the core for OWASP and CSA Red teaming work",
-      "stars": 190,
+      "stars": 191,
       "forks": 44,
       "language": null,
       "license": null,
@@ -12815,7 +12692,7 @@
         "vulnerability",
         "vulnerability-research"
       ],
-      "updated_at": "2026-06-18T08:40:11Z",
+      "updated_at": "2026-06-23T03:20:27Z",
       "category": "Model / ML Security",
       "subcategories": [
         "RAG Poisoning"
@@ -13026,7 +12903,7 @@
       "full_name": "0x4D31/airt",
       "url": "https://github.com/0x4D31/airt",
       "description": "AIRT \u2014 A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Computer.",
-      "stars": 202,
+      "stars": 203,
       "forks": 25,
       "language": "HTML",
       "license": null,
@@ -13036,7 +12913,7 @@
         "prompt-injection",
         "redteam"
       ],
-      "updated_at": "2026-06-22T05:22:20Z",
+      "updated_at": "2026-06-23T02:30:44Z",
       "category": "Model / ML Security",
       "subcategories": [
         "LLM Labs"
@@ -14024,8 +13901,8 @@
       "full_name": "OWASP/www-project-top-10-for-large-language-model-applications",
       "url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
       "description": "OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)",
-      "stars": 1298,
-      "forks": 324,
+      "stars": 1299,
+      "forks": 323,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -14034,7 +13911,7 @@
         "llm",
         "llm-security"
       ],
-      "updated_at": "2026-06-22T09:06:18Z",
+      "updated_at": "2026-06-23T09:46:11Z",
       "category": "Other AI Security",
       "subcategories": [
         "Framework / Library"
@@ -14056,12 +13933,12 @@
       "full_name": "In3tinct/Androidmeda",
       "url": "https://github.com/In3tinct/Androidmeda",
       "description": "AI Security tool to deobfuscate and find any potential vulnerabilities in android apps.",
-      "stars": 361,
+      "stars": 362,
       "forks": 45,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [],
-      "updated_at": "2026-06-21T10:37:27Z",
+      "updated_at": "2026-06-22T13:41:50Z",
       "category": "Other AI Security",
       "subcategories": [
         "Tool / Function Calling"
@@ -14353,7 +14230,7 @@
       "url": "https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security",
       "description": "All about llm-agents security,attack,vulnerabilities and how to do them for cybersecurity.",
       "stars": 54,
-      "forks": 8,
+      "forks": 9,
       "language": null,
       "license": "Unlicense",
       "topics": [],
