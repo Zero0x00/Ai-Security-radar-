@@ -2,20 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=00D4FF&width=900&lines=AI+Security+Radar;LLM+Security+%7C+MCP+Security+%7C+RAG+Security;AI+Labs+%7C+ML+Labs+%7C+MCP+Labs;Automatically+Updated+Daily)](https://git.io/typing-svg)
 
-![Repos](https://img.shields.io/badge/repos-552-blue) ![Stars](https://img.shields.io/badge/stars-227031-yellow) ![Forks](https://img.shields.io/badge/forks-34431-orange) ![Labs](https://img.shields.io/badge/labs-62-purple) ![Trusted](https://img.shields.io/badge/trusted_sources-31-success) ![Updated](https://img.shields.io/badge/updated-daily-brightgreen) ![Maintained](https://img.shields.io/badge/maintained-yes-success)
+![Repos](https://img.shields.io/badge/repos-554-blue) ![Stars](https://img.shields.io/badge/stars-227431-yellow) ![Forks](https://img.shields.io/badge/forks-34496-orange) ![Labs](https://img.shields.io/badge/labs-62-purple) ![Trusted](https://img.shields.io/badge/trusted_sources-31-success) ![Updated](https://img.shields.io/badge/updated-daily-brightgreen) ![Maintained](https://img.shields.io/badge/maintained-yes-success)
 
 > Automatically discovered and categorized GitHub repositories focused on AI security, LLM security, MCP security, RAG security, agent security, AI red teaming, model security, ML security labs, and AI supply chain security.
 
-**Last updated:** `2026-11-21T16:11:21.074267+00:00`
+**Last updated:** `2026-11-22T16:16:12.649537+00:00`
 
 ---
 
 ## 🚀 Executive Summary
 
-- 🏆 **Most starred repo:** [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) with **30,290** stars
+- 🏆 **Most starred repo:** [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) with **30,313** stars
 - 💎 **Highest quality signal:** [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) with quality score **122**
 - 🔥 **Top 24h mover:** [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) with **+0** stars today
-- 🆕 **New repos discovered:** **552**
+- 🆕 **New repos discovered:** **554**
 - 🧪 **Labs detected:** **62**
 - ✅ **Trusted-source repos:** **31**
 - 📦 **Largest category:** **MCP Security**
@@ -27,11 +27,11 @@
 
 | Metric | Value |
 |---|---:|
-| Total repositories | 552 |
-| Total stars tracked | 227,031 |
-| Total forks tracked | 34,431 |
+| Total repositories | 554 |
+| Total stars tracked | 227,431 |
+| Total forks tracked | 34,496 |
 | Trending repositories | 0 |
-| New repositories | 552 |
+| New repositories | 554 |
 | Labs | 62 |
 | Trusted-source repos | 31 |
 | Categories | 10 |
@@ -78,8 +78,8 @@ This repository is maintained by Omar Santos (@santosomar) and includes thousand
 - **Category:** ⚖️ AI Governance / Risk
 - **Subcategory:** Tool / Function Calling
 - **Type:** `Awesome List`
-- **Stars:** 30,290
-- **Forks:** 5,469
+- **Stars:** 30,313
+- **Forks:** 5,473
 - **Growth:** +0 stars / 1d, +0 stars / 7d
 - **Language:** `Jupyter Notebook`
 - **License:** `MIT`
@@ -180,8 +180,8 @@ the LLM vulnerability scanner
 - **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Dashboard / Platform
 - **Type:** `Research / Benchmark`
-- **Stars:** 10,123
-- **Forks:** 1,503
+- **Stars:** 10,131
+- **Forks:** 1,505
 - **Growth:** +0 stars / 1d, +0 stars / 7d
 - **Language:** `Python`
 - **License:** `Apache-2.0`
@@ -197,8 +197,8 @@ Open-source AI red teaming toolkit from Microsoft. Test generative AI systems wi
 - **Category:** ⚔️ AI Red Teaming
 - **Subcategory:** Tool / Function Calling
 - **Type:** `Research / Benchmark`
-- **Stars:** 5,006
-- **Forks:** 1,101
+- **Stars:** 5,025
+- **Forks:** 1,108
 - **Growth:** +0 stars / 1d, +0 stars / 7d
 - **Language:** `Python`
 - **License:** `MIT`
@@ -255,14 +255,14 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Lab | Description | Category | Stars | Growth | Language | Score |
 |---|---|---|---:|---:|---|---:|
-| 🆕 💎 🧠 🧪 [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) | AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversa... | 🧬 Model / ML Security | 317 | +0 / +0 | `Unknown` | 85 |
+| 🆕 💎 🧠 🧪 [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) | AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversa... | 🧬 Model / ML Security | 318 | +0 / +0 | `Unknown` | 85 |
 | 🆕 💎 🧠 🧪 [regaan/basilisk](https://github.com/regaan/basilisk) | Basilisk — Open-source AI red teaming framework with genetic prompt evolution. Automated LLM security testing for GPT... | 🧬 Model / ML Security | 88 | +0 / +0 | `Python` | 84 |
 | 🆕 💎 🧠 🧪 [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) | An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent... | 🧬 Model / ML Security | 360 | +0 / +0 | `Python` | 82 |
 | 🆕 💎 🧠 🧪 ✅ [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) | AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure. | 🧬 Model / ML Security | 2,134 | +0 / +0 | `TypeScript` | 81 |
 | 🆕 💎 🧠 🧪 [Panda1847/ai-security-lab](https://github.com/Panda1847/ai-security-lab) | 🤖 Advanced AI/LLM Security Testing Framework. Includes 50+ jailbreak techniques, prompt injection tools, and automate... | 🧬 Model / ML Security | 13 | +0 / +0 | `Unknown` | 80 |
 | 🆕 💎 🧠 🧪 [schwartz1375/genai-security-training](https://github.com/schwartz1375/genai-security-training) | No description. | 🧬 Model / ML Security | 467 | +0 / +0 | `Jupyter Notebook` | 76 |
 | 🆕 💎 🧠 🧪 [airtasystems/DVAIA-Damn-Vulnerable-AI-Application](https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application) | Damn Vulnerable AI Application - For LLM Red Team Training. LLM testing, RAG testing, Multimodal testing, Agent testi... | 📚 RAG Security | 50 | +0 / +0 | `Python` | 67 |
-| 🆕 💎 🧠 🧪 [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 22 production-quality Claude Code Skills for cybersecurity professionals , covering offensive security, defensive ope... | 🧬 Model / ML Security | 591 | +0 / +0 | `Python` | 66 |
+| 🆕 💎 🧠 🧪 [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 22 production-quality Claude Code Skills for cybersecurity professionals , covering offensive security, defensive ope... | 🧬 Model / ML Security | 594 | +0 / +0 | `Python` | 66 |
 | 🆕 💎 🧠 🧪 [0xSojalSec/Awesome-AI-Security](https://github.com/0xSojalSec/Awesome-AI-Security) | Resources, research, and tools for securing AI systems | 🧬 Model / ML Security | 31 | +0 / +0 | `Unknown` | 65 |
 | 🆕 💎 🧠 🧪 [user1342/Awesome-LLM-Red-Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming) | A curated list of awesome LLM Red Teaming training, resources, and tools. | ⚔️ AI Red Teaming | 150 | +0 / +0 | `Unknown` | 62 |
 | 🆕 💎 🧠 🧪 [ivolake/awesome-ai-security-tg](https://github.com/ivolake/awesome-ai-security-tg) | Curated list of Telegram channels and chats on AI Security, AI/MLSecOps, LLM Security | 🧬 Model / ML Security | 10 | +0 / +0 | `Unknown` | 61 |
@@ -270,7 +270,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 🧪 [dhammon/ai-goat](https://github.com/dhammon/ai-goat) | Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything local... | 🛡️ LLM Application Security | 376 | +0 / +0 | `Python` | 58 |
 | 🆕 💎 🧠 🧪 [securelayer7/PROMPTPurify](https://github.com/securelayer7/PROMPTPurify) | Prompt-injection guardrail for LLM applications. Compact model that outperforms larger open-source guards. No regex, ... | 🛡️ LLM Application Security | 82 | +0 / +0 | `TypeScript` | 56 |
 | 🆕 💎 🧠 🧪 [anpa1200/AI-PT-Lab](https://github.com/anpa1200/AI-PT-Lab) | Intentionally vulnerable AI security training lab for LLM agents — demonstrates OWASP LLM Top 10 2025: RAG injection,... | 🛡️ LLM Application Security | 14 | +0 / +0 | `Python` | 54 |
-| 🆕 💎 🧠 🧪 [tjcrims0nx/OpenMind-Jailbreak-Lab](https://github.com/tjcrims0nx/OpenMind-Jailbreak-Lab) | Open-source AI security research lab for reproducible adversarial testing, jailbreak resistance evaluation, and LLM g... | ⚔️ AI Red Teaming | 42 | +0 / +0 | `Python` | 52 |
+| 🆕 💎 🧠 🧪 [tjcrims0nx/OpenMind-Jailbreak-Lab](https://github.com/tjcrims0nx/OpenMind-Jailbreak-Lab) | Open-source AI security research lab for reproducible adversarial testing, jailbreak resistance evaluation, and LLM g... | ⚔️ AI Red Teaming | 43 | +0 / +0 | `Python` | 52 |
 | 🆕 🧠 🧪 [aligorithm/Zero-Health](https://github.com/aligorithm/Zero-Health) | Zero trust. Zero security. Total exposure. A deliberately vulnerable health tech platform with AI Chatbot for learnin... | 🧬 Model / ML Security | 49 | +0 / +0 | `JavaScript` | 49 |
 | 🆕 🧠 🧪 ✅ [OWASP/www-project-promptme](https://github.com/OWASP/www-project-promptme) | PromptMe is an educational project that showcases security vulnerabilities in large language models (LLMs) and their ... | 🧪 Labs | 45 | +0 / +0 | `Python` | 47 |
 | 🆕 🧠 🧪 [R3dShad0w7/PromptMe](https://github.com/R3dShad0w7/PromptMe) | PromptMe is an educational project that showcases security vulnerabilities in large language models (LLMs) and their ... | ⚔️ AI Red Teaming | 112 | +0 / +0 | `Python` | 46 |
@@ -279,12 +279,11 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 🧠 🧪 [0x4D31/airt](https://github.com/0x4D31/airt) | AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Compu... | 🧬 Model / ML Security | 269 | +0 / +0 | `HTML` | 45 |
 | 🆕 🧠 🧪 [wearetyomsmnv/Awesome-LLM-agent-Security](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) | All about llm-agents security,attack,vulnerabilities and how to do them for cybersecurity. | 📚 RAG Security | 59 | +0 / +0 | `Unknown` | 44 |
 | 🆕 🧠 🧪 [TrustAI-laboratory/LLM-Security-CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF) | Learn LLM/AI Security through a series of vulnerable LLM CTF challenges. No sign ups, all fees, everything on the web... | 🛡️ LLM Application Security | 20 | +0 / +0 | `Unknown` | 44 |
-| 🆕 🧠 🧪 [Tcotl/DVLAA](https://github.com/Tcotl/DVLAA) | DVLAA (Damn Vulnerable LLM and Agent Application) is a local LLM and Agent security range for OWASP LLM Top 10 and Ag... | 🤖 Agent Security | 50 | +0 / +0 | `Python` | 43 |
+| 🆕 🧠 🧪 [Tcotl/DVLAA](https://github.com/Tcotl/DVLAA) | DVLAA (Damn Vulnerable LLM and Agent Application) is a local LLM and Agent security range for OWASP LLM Top 10 and Ag... | 🤖 Agent Security | 51 | +0 / +0 | `Python` | 43 |
 | 🆕 🧠 🧪 [randalltr/prompt-engineering-for-hackers](https://github.com/randalltr/prompt-engineering-for-hackers) | Prompt Engineering for Hackers: A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting | ⚔️ AI Red Teaming | 12 | +0 / +0 | `Unknown` | 43 |
-| 🆕 🧠 🧪 [HumanCompatibleAI/tensor-trust](https://github.com/HumanCompatibleAI/tensor-trust) | A prompt injection game to collect data for robust ML research | 🧬 Model / ML Security | 82 | +0 / +0 | `Python` | 42 |
+| 🆕 🧠 🧪 [HumanCompatibleAI/tensor-trust](https://github.com/HumanCompatibleAI/tensor-trust) | A prompt injection game to collect data for robust ML research | 🧬 Model / ML Security | 83 | +0 / +0 | `Python` | 42 |
 | 🆕 🧠 🧪 [Justinuse1/pojia-breaker](https://github.com/Justinuse1/pojia-breaker) | Chinese-first LLM jailbreak benchmark & red-team toolkit \| 中文LLM安全评测框架 \| by POJIA.AI | ⚔️ AI Red Teaming | 56 | +0 / +0 | `JavaScript` | 42 |
 | 🆕 🧠 🧪 [shlomihod/awesome-ai-red-teaming](https://github.com/shlomihod/awesome-ai-red-teaming) | A curated list of awesome AI Red Teaming resources and tools. | ⚔️ AI Red Teaming | 37 | +0 / +0 | `Unknown` | 41 |
-| 🆕 🧠 🧪 [r00tb3/RAG-Poisoning-Lab](https://github.com/r00tb3/RAG-Poisoning-Lab) | RAG Poisoning Lab — Educational AI Security Exercise | 📚 RAG Security | 10 | +0 / +0 | `Python` | 41 |
 | 🆕 🧠 🧪 [EvanThomasLuke/Awesome-AI-Security-Benchmarks](https://github.com/EvanThomasLuke/Awesome-AI-Security-Benchmarks) | List of AI Security benchmarks | ⚔️ AI Red Teaming | 41 | +0 / +0 | `Unknown` | 39 |
 | 🆕 🧠 🧪 [RanaKhan77/awesome-cyber-security-heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) | Awesome Cyber Security Heaven — one of the larger curated lists of free cybersecurity resources: pentest, OSINT, thre... | 🛡️ LLM Application Security | 14 | +0 / +0 | `Unknown` | 39 |
 | 🆕 🧪 [dreadnode/AIRTBench-Code](https://github.com/dreadnode/AIRTBench-Code) | Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models | ⚔️ AI Red Teaming | 116 | +0 / +0 | `Jupyter Notebook` | 35 |
@@ -297,29 +296,30 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Lab | Description | Category | Stars | Growth | Language | Score |
 |---|---|---|---:|---:|---|---:|
-| 🆕 💎 🧠 🧪 [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | A collection of awesome resources related AI security | 🧩 MCP Security | 1,622 | +0 / +0 | `Unknown` | 115 |
+| 🆕 💎 🧠 🧪 [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | A collection of awesome resources related AI security | 🧩 MCP Security | 1,623 | +0 / +0 | `Unknown` | 115 |
 | 🆕 💎 🧠 🧪 [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) | A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autot... | 🧩 MCP Security | 1,767 | +0 / +0 | `Python` | 104 |
 | 🆕 💎 🧠 🧪 [AISecurityConsortium/AIGoat](https://github.com/AISecurityConsortium/AIGoat) | AIGoat - Open-source AI security playground for hands-on LLM red teaming. Explore prompt injection, RAG poisoning, AI... | 🧩 MCP Security | 311 | +0 / +0 | `Python` | 104 |
 | 🆕 💎 🧠 🧪 [sonuoffsec/AI-Security-Hub](https://github.com/sonuoffsec/AI-Security-Hub) | Payloads, cheat sheets, labs, tools and CTFs for AI, LLM, RAG, MCP and agent security | 🧩 MCP Security | 19 | +0 / +0 | `Unknown` | 98 |
 | 🆕 💎 🧠 🧪 [brinhosa/awesome-ai-security](https://github.com/brinhosa/awesome-ai-security) | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources. | 🧩 MCP Security | 41 | +0 / +0 | `Unknown` | 90 |
 | 🆕 💎 🧠 🧪 [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security) | A living map of the AI agent security ecosystem. | 🧩 MCP Security | 81 | +0 / +0 | `Unknown` | 87 |
 | 🆕 💎 🧠 🧪 [anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) | AI/ML Pentesting Roadmap for Beginners | 🧩 MCP Security | 828 | +0 / +0 | `Unknown` | 85 |
-| 🆕 💎 🧠 🧪 [ppradyoth/prompt-injection-ctf](https://github.com/ppradyoth/prompt-injection-ctf) | Free prompt injection CTF: 16 LLM security missions plus a 30-mission Agentic Security Lab (OWASP Agentic Top 10), de... | 🧩 MCP Security | 13 | +0 / +0 | `HTML` | 84 |
+| 🆕 💎 🧠 🧪 [ppradyoth/prompt-injection-ctf](https://github.com/ppradyoth/prompt-injection-ctf) | Free prompt injection CTF: 16 LLM security missions plus a 30-mission Agentic Security Lab (OWASP Agentic Top 10), de... | 🧩 MCP Security | 14 | +0 / +0 | `HTML` | 84 |
 | 🆕 💎 🧠 🧪 [gmh5225/awesome-ai-security](https://github.com/gmh5225/awesome-ai-security) | A curated list of AI Security materials and resources for Pentesters, Bug Hunters, and Security Researchers. | 🧩 MCP Security | 67 | +0 / +0 | `Unknown` | 79 |
 | 🆕 💎 🧠 🧪 [pwnedlabs/ai-security-labs](https://github.com/pwnedlabs/ai-security-labs) | AI security training: hands-on labs, tools and courses for LLM, RAG and agent security. Maintained by Pwned Labs. | 🧩 MCP Security | 30 | +0 / +0 | `Unknown` | 76 |
-| 🆕 💎 🧠 🧪 [Joe-B-Security/awesome-prompt-injection](https://github.com/Joe-B-Security/awesome-prompt-injection) | Learn about a type of vulnerability that specifically targets machine learning models | 🧩 MCP Security | 730 | +0 / +0 | `Unknown` | 74 |
+| 🆕 💎 🧠 🧪 [Joe-B-Security/awesome-prompt-injection](https://github.com/Joe-B-Security/awesome-prompt-injection) | Learn about a type of vulnerability that specifically targets machine learning models | 🧩 MCP Security | 733 | +0 / +0 | `Unknown` | 74 |
 | 🆕 💎 🧠 🧪 [fevziegeyurtsevenler/awesome-ai-security-tr](https://github.com/fevziegeyurtsevenler/awesome-ai-security-tr) | Türkçe yapay zeka güvenliği kaynakları — prompt injection, jailbreak, red teaming, guardrail, ajan/MCP ve RAG güvenli... | 🧩 MCP Security | 15 | +0 / +0 | `Python` | 73 |
-| 🆕 💎 🧠 🧪 [Arcanum-Sec/ai-sec-resources](https://github.com/Arcanum-Sec/ai-sec-resources) | AI Security Resources Hub | 🧩 MCP Security | 538 | +0 / +0 | `HTML` | 62 |
+| 🆕 💎 🧠 🧪 [Arcanum-Sec/ai-sec-resources](https://github.com/Arcanum-Sec/ai-sec-resources) | AI Security Resources Hub | 🧩 MCP Security | 539 | +0 / +0 | `HTML` | 62 |
 | 🆕 💎 🧠 🧪 [Threekiii/Awesome-AI-Redteam](https://github.com/Threekiii/Awesome-AI-Redteam) | 一个 AI 攻防知识库。A knowledge base for AI security. | 🧩 MCP Security | 67 | +0 / +0 | `Unknown` | 60 |
 | 🆕 💎 🧠 🧪 [hi-unc1e/Auto_JB_APE](https://github.com/hi-unc1e/Auto_JB_APE) | 引擎就一条回路：侦察 → 规划 → 提交 → 判定 → 变异。纯标准库，零框架依赖。内置裁判打 S/A/B/C，canary 或正则命中才算赢，没坐实的不提交。334 个测试离线全绿。CLI、Python API、MCP。One lo... | 🧩 MCP Security | 15 | +0 / +0 | `Python` | 56 |
 | 🆕 💎 🧠 🧪 [AgentLatch/agent-latch](https://github.com/AgentLatch/agent-latch) | Local-first AI agent security scanner and MCP traffic monitor. Finds prompt injection, over-privileged tools, and sec... | 🧩 MCP Security | 12 | +0 / +0 | `Python` | 56 |
 | 🆕 💎 🧠 🧪 [EvanThomasLuke/Awesome-AI-Security-Skills](https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills) | A list of AI security skills | 🧩 MCP Security | 119 | +0 / +0 | `Unknown` | 50 |
-| 🆕 🧠 🧪 [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) | This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (interna... | 🧩 MCP Security | 501 | +0 / +0 | `Unknown` | 48 |
+| 🆕 🧠 🧪 [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) | This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (interna... | 🧩 MCP Security | 504 | +0 / +0 | `Unknown` | 48 |
 | 🆕 🧠 🧪 [mcp-security-project/awesome-agentic-mcp-security](https://github.com/mcp-security-project/awesome-agentic-mcp-security) | Awesome Agentic MCP Security List | 🧩 MCP Security | 26 | +0 / +0 | `Unknown` | 48 |
 | 🆕 🧠 🧪 [smartdevil09/AI-Security-Professional-Roadmap](https://github.com/smartdevil09/AI-Security-Professional-Roadmap) | No description. | 🧩 MCP Security | 35 | +0 / +0 | `Unknown` | 40 |
-| 🆕 🧠 🧪 [dwarvesf/claude-guardrails](https://github.com/dwarvesf/claude-guardrails) | Hardened security configuration for Claude Code; permission deny rules, shell hooks, and prompt injection defense in ... | 🧩 MCP Security | 46 | +0 / +0 | `Shell` | 38 |
+| 🆕 🧠 🧪 [dwarvesf/claude-guardrails](https://github.com/dwarvesf/claude-guardrails) | Hardened security configuration for Claude Code; permission deny rules, shell hooks, and prompt injection defense in ... | 🧩 MCP Security | 47 | +0 / +0 | `Shell` | 38 |
 | 🆕 🧪 [PawelKozy/mcp-breach-to-fix-labs](https://github.com/PawelKozy/mcp-breach-to-fix-labs) | Hands-on MCP security lab: 10 real incidents reproduced with vulnerable/secure MCP servers, pytest regressions, and C... | 🧩 MCP Security | 91 | +0 / +0 | `Python` | 28 |
 | 🆕 🧪 [MWDLH/ai-security-expert](https://github.com/MWDLH/ai-security-expert) | AI 全栈安全攻防矩阵 v1.0 — 面向 AI Agent 的全栈安全攻防知识库。覆盖基础设施、LLM 应用、供应链投毒与 Agent 安全 6 个层面共 21 个攻击面，每个面提供可执行 PoC、加固方案和应急响应闭环。 | 🧩 MCP Security | 39 | +0 / +0 | `Shell` | 28 |
+| 🆕 🧪 [FLIAZ/SpiritScout](https://github.com/FLIAZ/SpiritScout) | 灵枢（SpiritScout）｜基于 LLM 的多智能体安全测试系统，通过动态任务规划与专项智能体协作，支持 SRC 漏洞挖掘、CTF 解题与自动化渗透测试。An LLM-powered multi-agent security te... | 🧩 MCP Security | 30 | +0 / +0 | `Python` | 28 |
 
 ### ML Labs
 
@@ -334,8 +334,8 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | Repo | Category | Type | Trust | Quality | Relevance | Stars |
 |---|---|---|---|---:|---:|---:|
 | [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) | 🧩 MCP Security | `Awesome List` | `Community` | 122 | 106 | 494 |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | 🧩 MCP Security | `Awesome List` | `Trusted Source` | 120 | 70 | 7,604 |
-| [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | 🧩 MCP Security | `Lab` | `Community` | 115 | 79 | 1,622 |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | 🧩 MCP Security | `Awesome List` | `Trusted Source` | 120 | 70 | 7,610 |
+| [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | 🧩 MCP Security | `Lab` | `Community` | 115 | 79 | 1,623 |
 | [msoedov/agentic_security](https://github.com/msoedov/agentic_security) | 🤖 Agent Security | `Research / Benchmark` | `Community` | 104 | 68 | 2,048 |
 | [AISecurityConsortium/AIGoat](https://github.com/AISecurityConsortium/AIGoat) | 🧩 MCP Security | `Lab` | `Community` | 104 | 89 | 311 |
 | [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) | 🧩 MCP Security | `Lab` | `Community` | 104 | 67 | 1,767 |
@@ -350,16 +350,16 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Category | Type | Stars | Forks | Language | License | Score |
 |---|---|---|---:|---:|---|---|---:|
-| [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) | ⚖️ AI Governance / Risk | `Awesome List` | 30,290 | 5,469 | `Jupyter Notebook` | `MIT` | 60 |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 🧩 MCP Security | `Research / Benchmark` | 27,145 | 2,416 | `Python` | `Apache-2.0` | 87 |
-| [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | 🧩 MCP Security | `Tool / Framework` | 13,425 | 1,392 | `TypeScript` | `MIT` | 60 |
-| [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | 🛡️ LLM Application Security | `Guide / Standard` | 10,864 | 1,456 | `HTML` | `MIT` | 51 |
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | ⚔️ AI Red Teaming | `Research / Benchmark` | 10,123 | 1,503 | `Python` | `Apache-2.0` | 87 |
-| [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) | 🤖 Agent Security | `Tool / Framework` | 7,771 | 648 | `Python` | `NOASSERTION` | 52 |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | 🧩 MCP Security | `Awesome List` | 7,604 | 784 | `Python` | `Apache-2.0` | 120 |
+| [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) | ⚖️ AI Governance / Risk | `Awesome List` | 30,313 | 5,473 | `Jupyter Notebook` | `MIT` | 60 |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 🧩 MCP Security | `Research / Benchmark` | 27,264 | 2,421 | `Python` | `Apache-2.0` | 87 |
+| [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | 🧩 MCP Security | `Tool / Framework` | 13,428 | 1,392 | `TypeScript` | `MIT` | 60 |
+| [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | 🛡️ LLM Application Security | `Guide / Standard` | 10,862 | 1,456 | `HTML` | `MIT` | 51 |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | ⚔️ AI Red Teaming | `Research / Benchmark` | 10,131 | 1,505 | `Python` | `Apache-2.0` | 87 |
+| [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) | 🤖 Agent Security | `Tool / Framework` | 7,772 | 648 | `Python` | `NOASSERTION` | 52 |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | 🧩 MCP Security | `Awesome List` | 7,610 | 785 | `Python` | `Apache-2.0` | 120 |
 | [superagent-ai/superagent](https://github.com/superagent-ai/superagent) | 🧩 MCP Security | `Tool / Framework` | 6,885 | 969 | `TypeScript` | `MIT` | 73 |
-| [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | 🧬 Model / ML Security | `Tool / Framework` | 6,323 | 1,357 | `Python` | `MIT` | 66 |
-| [nolabs-ai/nono](https://github.com/nolabs-ai/nono) | 🧩 MCP Security | `Tool / Framework` | 5,061 | 340 | `Rust` | `Apache-2.0` | 56 |
+| [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | 🧬 Model / ML Security | `Tool / Framework` | 6,326 | 1,358 | `Python` | `MIT` | 66 |
+| [nolabs-ai/nono](https://github.com/nolabs-ai/nono) | 🧩 MCP Security | `Tool / Framework` | 5,072 | 341 | `Rust` | `Apache-2.0` | 56 |
 
 ---
 
@@ -367,16 +367,16 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Category | Repositories | Labs | Stars | 7d Growth | Top Repository |
 |---|---:|---:|---:|---:|---|
-| [⚖️ AI Governance / Risk](#ai-governance-risk) | 6 | 0 | 30,613 | +0 | [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) |
-| [⚔️ AI Red Teaming](#ai-red-teaming) | 57 | 10 | 20,818 | +0 | [NVIDIA/garak](https://github.com/NVIDIA/garak) |
+| [⚖️ AI Governance / Risk](#ai-governance-risk) | 6 | 0 | 30,636 | +0 | [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) |
+| [⚔️ AI Red Teaming](#ai-red-teaming) | 58 | 10 | 20,858 | +0 | [NVIDIA/garak](https://github.com/NVIDIA/garak) |
 | [📦 AI Supply Chain Security](#ai-supply-chain-security) | 1 | 0 | 88 | +0 | [Sydsec/syd](https://github.com/Sydsec/syd) |
-| [🤖 Agent Security](#agent-security) | 90 | 1 | 23,124 | +0 | [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) |
-| [🛡️ LLM Application Security](#llm-application-security) | 105 | 8 | 24,371 | +0 | [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) |
+| [🤖 Agent Security](#agent-security) | 90 | 1 | 23,156 | +0 | [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) |
+| [🛡️ LLM Application Security](#llm-application-security) | 105 | 8 | 24,375 | +0 | [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) |
 | [🧪 Labs](#labs) | 2 | 2 | 90 | +0 | [OWASP/www-project-promptme](https://github.com/OWASP/www-project-promptme) |
-| [🧩 MCP Security](#mcp-security) | 212 | 23 | 102,431 | +0 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
-| [🧬 Model / ML Security](#model-ml-security) | 61 | 15 | 22,199 | +0 | [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
-| [🔐 Other AI Security](#other-ai-security) | 6 | 0 | 2,353 | +0 | [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) |
-| [📚 RAG Security](#rag-security) | 12 | 3 | 944 | +0 | [deadbits/vigil-llm](https://github.com/deadbits/vigil-llm) |
+| [🧩 MCP Security](#mcp-security) | 214 | 24 | 102,729 | +0 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
+| [🧬 Model / ML Security](#model-ml-security) | 61 | 15 | 22,209 | +0 | [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
+| [🔐 Other AI Security](#other-ai-security) | 6 | 0 | 2,354 | +0 | [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) |
+| [📚 RAG Security](#rag-security) | 11 | 2 | 936 | +0 | [deadbits/vigil-llm](https://github.com/deadbits/vigil-llm) |
 
 ---
 
@@ -388,7 +388,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 **Repositories:** 6  
 **Labs:** 0  
-**Stars:** 30,613  
+**Stars:** 30,636  
 **7-day growth:** +0
 
 ### Dashboard / Platform
@@ -419,7 +419,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 🏆 💎 [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hac... | 30,290 | +0 / +0 | `Awesome List` | `Jupyter Notebook` | `MIT` | 60 |
+| 🆕 🏆 💎 [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hac... | 30,313 | +0 / +0 | `Awesome List` | `Jupyter Notebook` | `MIT` | 60 |
 | 🆕 [TaroYamada08/Hacker](https://github.com/TaroYamada08/Hacker) | This repository is maintained by Taro and includes thousands of resources related to ethical hacking, bug bounties, d... | 137 | +0 / +0 | `Awesome List` | `Jupyter Notebook` | `MIT` | 31 |
 
 [Back to top](#ai-security-repository-radar)
@@ -430,9 +430,9 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 ## ⚔️ AI Red Teaming
 
-**Repositories:** 57  
+**Repositories:** 58  
 **Labs:** 10  
-**Stars:** 20,818  
+**Stars:** 20,858  
 **7-day growth:** +0
 
 ### AI Labs
@@ -460,7 +460,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 🏆 💎 🧠 ✅ [NVIDIA/garak](https://github.com/NVIDIA/garak) | the LLM vulnerability scanner | 10,123 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 87 |
+| 🆕 🏆 💎 🧠 ✅ [NVIDIA/garak](https://github.com/NVIDIA/garak) | the LLM vulnerability scanner | 10,131 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 87 |
 | 🆕 💎 🧠 [Arnoldlarry15/ARES-Dashboard](https://github.com/Arnoldlarry15/ARES-Dashboard) | AI Red Team Operations Console | 18 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 56 |
 | 🆕 [humane-intelligence/hi-oss-ai-red-teaming](https://github.com/humane-intelligence/hi-oss-ai-red-teaming) | A platform for running human-centered red teaming evaluations on AI models and systems. | 19 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 32 |
 
@@ -496,7 +496,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 🧠 [volt-l18/llm-redteam-pipeline](https://github.com/volt-l18/llm-redteam-pipeline) | An automated, multi-turn LLM red-teaming pipeline that pits an Attacker model against a Target model to evaluate safe... | 31 | +0 / +0 | `Research / Benchmark` | `Python` | `NOASSERTION` | 42 |
 | 🆕 🧠 [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) | prompt attack-defense, prompt Injection, reverse engineering notes and examples \| 提示词对抗、破解例子与笔记 | 369 | +0 / +0 | `Awesome List` | `Unknown` | `MIT` | 42 |
 | 🆕 🧠 [xirui-li/DrAttack](https://github.com/xirui-li/DrAttack) | Official implementation of paper: DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers | 75 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 39 |
-| 🆕 🧠 [buryusu/All-AI-Jailbreaks](https://github.com/buryusu/All-AI-Jailbreaks) | Curated archive of jailbreak and prompt-injection experiments for AI model robustness research, red-teaming, and defe... | 107 | +0 / +0 | `Research / Benchmark` | `Batchfile` | `Unknown` | 36 |
+| 🆕 🧠 [buryusu/All-AI-Jailbreaks](https://github.com/buryusu/All-AI-Jailbreaks) | Curated archive of jailbreak and prompt-injection experiments for AI model robustness research, red-teaming, and defe... | 108 | +0 / +0 | `Research / Benchmark` | `Batchfile` | `Unknown` | 36 |
 | 🆕 [K4N3CO-LABS/JailBreak-Ai](https://github.com/K4N3CO-LABS/JailBreak-Ai) | JailBreak-Ai is an advanced AI red-teaming app for Android. It generates high-fidelity payload prompts to test AI saf... | 12 | +0 / +0 | `Tool / Framework` | `Kotlin` | `MIT` | 29 |
 | 🆕 [m4xx101/cryptex-oss](https://github.com/m4xx101/cryptex-oss) | Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT. | 338 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 28 |
 | 🆕 [TenXxs/AI-Security-for-IoT-and-Mobile](https://github.com/TenXxs/AI-Security-for-IoT-and-Mobile) | No description. | 49 | +0 / +0 | `Research / Benchmark` | `Unknown` | `Unknown` | 15 |
@@ -506,7 +506,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 💎 🧠 🧪 [user1342/Awesome-LLM-Red-Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming) | A curated list of awesome LLM Red Teaming training, resources, and tools. | 150 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 62 |
-| 🆕 💎 🧠 🧪 [tjcrims0nx/OpenMind-Jailbreak-Lab](https://github.com/tjcrims0nx/OpenMind-Jailbreak-Lab) | Open-source AI security research lab for reproducible adversarial testing, jailbreak resistance evaluation, and LLM g... | 42 | +0 / +0 | `Lab` | `Python` | `MIT` | 52 |
+| 🆕 💎 🧠 🧪 [tjcrims0nx/OpenMind-Jailbreak-Lab](https://github.com/tjcrims0nx/OpenMind-Jailbreak-Lab) | Open-source AI security research lab for reproducible adversarial testing, jailbreak resistance evaluation, and LLM g... | 43 | +0 / +0 | `Lab` | `Python` | `MIT` | 52 |
 | 🆕 🧠 🧪 [gatsby-sec/llm-sec-range](https://github.com/gatsby-sec/llm-sec-range) | 🛡️ 大模型攻防渗透测试靶场 · 提示注入CTF / OWASP LLM Top10 / 脆弱Agent / 资料聚合。目标模型可切换：DeepSeek直连、OpenRouter中转站(国产+国外十余款小模型)、本地Ollama(De... | 44 | +0 / +0 | `Lab` | `Python` | `MIT` | 46 |
 | 🆕 🧠 🧪 [R3dShad0w7/PromptMe](https://github.com/R3dShad0w7/PromptMe) | PromptMe is an educational project that showcases security vulnerabilities in large language models (LLMs) and their ... | 112 | +0 / +0 | `Lab` | `Python` | `Apache-2.0` | 46 |
 | 🆕 🧠 🧪 [randalltr/prompt-engineering-for-hackers](https://github.com/randalltr/prompt-engineering-for-hackers) | Prompt Engineering for Hackers: A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting | 12 | +0 / +0 | `Lab` | `Unknown` | `NOASSERTION` | 43 |
@@ -524,7 +524,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 [Arcanum-Sec/arc_pi_taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy) | The Arcanum Prompt Injection Taxonomy | 802 | +0 / +0 | `Tool / Framework` | `Unknown` | `NOASSERTION` | 38 |
 | 🆕 🧠 [rushout09/llm-security-startups](https://github.com/rushout09/llm-security-startups) | An awesome and comprehensive list of LLM Securtiy Startups. | 15 | +0 / +0 | `Awesome List` | `Unknown` | `GPL-3.0` | 35 |
 | 🆕 🧠 [AdityaBhatt3010/Hacking-Lakera-Gandalf-AI-via-Prompt-Injection](https://github.com/AdityaBhatt3010/Hacking-Lakera-Gandalf-AI-via-Prompt-Injection) | Lakera Gandalf AI challenge's step by step walkthrough, showcasing real-world prompt injection techniques and LLM sec... | 16 | +0 / +0 | `Project` | `Unknown` | `MIT` | 35 |
-| 🆕 🧠 [01xor/ai-jailbreak-archive](https://github.com/01xor/ai-jailbreak-archive) | A unified list of jailbreaks, prompt injections, and related exploits I find across OpenAI, Gemini, Grok, and other L... | 74 | +0 / +0 | `Research / Benchmark` | `Unknown` | `MIT` | 35 |
+| 🆕 🧠 [01xor/ai-jailbreak-archive](https://github.com/01xor/ai-jailbreak-archive) | A unified list of jailbreaks, prompt injections, and related exploits I find across OpenAI, Gemini, Grok, and other L... | 75 | +0 / +0 | `Research / Benchmark` | `Unknown` | `MIT` | 35 |
 | 🆕 🧠 [peluche/deck-of-many-prompts](https://github.com/peluche/deck-of-many-prompts) | Manual Prompt Injection / Red Teaming Tool | 64 | +0 / +0 | `Project` | `Python` | `Unknown` | 35 |
 | 🆕 [AlirezaSaberi/periscope](https://github.com/AlirezaSaberi/periscope) | Eval harness for indirect prompt injection against computer-use and vision agents, scored from the agent's executed a... | 10 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 29 |
 | 🆕 [mavhezha/htb-ai-red-teamer](https://github.com/mavhezha/htb-ai-red-teamer) | No description. | 21 | +0 / +0 | `Project` | `Python` | `Unknown` | 26 |
@@ -533,13 +533,14 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
+| 🆕 🧠 [r00tb3/RAG-Poisoning-Lab](https://github.com/r00tb3/RAG-Poisoning-Lab) | A runnable RAG pipeline you can poison, with three detection checks measured against the repo's own payloads. | 10 | +0 / +0 | `Project` | `Python` | `Unknown` | 44 |
 | 🆕 [JosephTLucas/airt_utils](https://github.com/JosephTLucas/airt_utils) | Utilities for experiment-centric AI Red Teaming workflows | 11 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 17 |
 
 ### Tool / Function Calling
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 🏆 💎 🧠 ✅ [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-tu... | 5,006 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 84 |
+| 🆕 🏆 💎 🧠 ✅ [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-tu... | 5,025 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 84 |
 | 🆕 [antojoseph/adv26](https://github.com/antojoseph/adv26) | This repo will be updated with the AI red team lab material for Adveserial village at Defcon 2026 | 10 | +0 / +0 | `Research / Benchmark` | `Unknown` | `Unknown` | 19 |
 
 [Back to top](#ai-security-repository-radar)
@@ -571,7 +572,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 **Repositories:** 90  
 **Labs:** 1  
-**Stars:** 23,124  
+**Stars:** 23,156  
 **7-day growth:** +0
 
 ### Benchmarks / Eval
@@ -579,10 +580,10 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 💎 🧠 [0xSweet/awesome-llm-security-alignment](https://github.com/0xSweet/awesome-llm-security-alignment) | A curated list of research papers, experiments, and resources related to LLM security and alignment. | 15 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 81 |
-| 🆕 💎 🧠 ✅ [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Set of tools to assess and improve LLM security. | 4,487 | +0 / +0 | `Research / Benchmark` | `Python` | `NOASSERTION` | 80 |
+| 🆕 💎 🧠 ✅ [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Set of tools to assess and improve LLM security. | 4,488 | +0 / +0 | `Research / Benchmark` | `Python` | `NOASSERTION` | 80 |
 | 🆕 💎 [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) | Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, Smol... | 3,144 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 59 |
-| 🆕 🧠 [alwaysprince05/Agent-Red-Teaming-Evaluation-Framework](https://github.com/alwaysprince05/Agent-Red-Teaming-Evaluation-Framework) | Reproducible adversarial testing & safety evaluation for AI agents: YAML attack suites, deterministic + LLM-as-judge ... | 10 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 47 |
-| 🆕 🧠 [kagnlp/Awesome-Agentic-Security](https://github.com/kagnlp/Awesome-Agentic-Security) | Curated papers on Agentic Security from our TMLR 2026 survey: Applications (red/blue teaming, domain-specific), Threa... | 69 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 43 |
+| 🆕 🧠 [alwaysprince05/Agent-Red-Teaming-Evaluation-Framework](https://github.com/alwaysprince05/Agent-Red-Teaming-Evaluation-Framework) | Reproducible adversarial testing & safety evaluation for AI agents: YAML attack suites, deterministic + LLM-as-judge ... | 11 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 49 |
+| 🆕 🧠 [kagnlp/Awesome-Agentic-Security](https://github.com/kagnlp/Awesome-Agentic-Security) | Curated papers on Agentic Security from our TMLR 2026 survey: Applications (red/blue teaming, domain-specific), Threa... | 70 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 43 |
 | 🆕 [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) | An open specification for agentic AI security evaluation and testing, from Cisco. | 231 | +0 / +0 | `Research / Benchmark` | `Unknown` | `NOASSERTION` | 36 |
 | 🆕 [agiresearch/ASB](https://github.com/agiresearch/ASB) | Agent Security Bench (ASB) | 332 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 34 |
 | 🆕 [jiaxiaojunQAQ/SkillJect](https://github.com/jiaxiaojunQAQ/SkillJect) | SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement | 82 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 29 |
@@ -601,7 +602,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [GenAI-Security-Project/GenAI-Data-Security-Initiative](https://github.com/GenAI-Security-Project/GenAI-Data-Security-Initiative) | OWASP GenAI Data Security Initiative — taxonomies, crosswalks, datasets, and tooling for securing data in generative ... | 32 | +0 / +0 | `Research / Benchmark` | `Python` | `NOASSERTION` | 58 |
 | 🆕 🧠 [techlab-innov/llmtrace](https://github.com/techlab-innov/llmtrace) | Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control fo... | 54 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 42 |
 | 🆕 🧠 [akav-labs/agentsentry-gateway](https://github.com/akav-labs/agentsentry-gateway) | Transparent OpenAI-compatible security gateway for LLM agents — DLP, secret-leak, jailbreak & prompt-injection detect... | 10 | +0 / +0 | `Tool / Framework` | `Rust` | `Apache-2.0` | 40 |
-| 🆕 [solongate/solongate-audit](https://github.com/solongate/solongate-audit) | AI Agent Security Audit CLI - OWASP Agentic Top 10 | 80 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 31 |
+| 🆕 [solongate/solongate-audit](https://github.com/solongate/solongate-audit) | AI Agent Security Audit CLI - OWASP Agentic Top 10 | 104 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 32 |
 | 🆕 [MicroAIInc/MicroAI-Security-and-Monitoring](https://github.com/MicroAIInc/MicroAI-Security-and-Monitoring) | No description. | 60 | +0 / +0 | `Guide / Standard` | `Python` | `NOASSERTION` | 25 |
 | 🆕 [ruvnet/agentic-security](https://github.com/ruvnet/agentic-security) | No description. | 51 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 24 |
 | 🆕 [akramIOT/Agentic-IAM](https://github.com/akramIOT/Agentic-IAM) | Agentic Identity & Agentic Security System | 13 | +0 / +0 | `Tool / Framework` | `Python` | `Unknown` | 21 |
@@ -611,7 +612,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 [secnova-ai/ClawdSecbot](https://github.com/secnova-ai/ClawdSecbot) | ClawdSecbot is a professional AI Bot security protection solution, providing security capabilities including real-tim... | 93 | +0 / +0 | `Tool / Framework` | `Go` | `GPL-3.0` | 31 |
+| 🆕 [secnova-ai/ClawdSecbot](https://github.com/secnova-ai/ClawdSecbot) | ClawdSecbot is a professional AI Bot security protection solution, providing security capabilities including real-tim... | 93 | +0 / +0 | `Tool / Framework` | `Go` | `GPL-3.0` | 28 |
 | 🆕 [sasy-labs/sasy](https://github.com/sasy-labs/sasy) | History-aware AI-agent security policies written in logic (Datalog), enforced on every action | 13 | +0 / +0 | `Research / Benchmark` | `Rust` | `Apache-2.0` | 24 |
 | 🆕 [tegridydev/multi-agent-secops-llm](https://github.com/tegridydev/multi-agent-secops-llm) | This project is a multi-agent security framework that utilizes multiple LLM models to analyze and generate comprehens... | 10 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 23 |
 | 🆕 [GenAI-Security-Project/GenAI-Agent-Security-Initiative](https://github.com/GenAI-Security-Project/GenAI-Agent-Security-Initiative) | This repository contains examples of insecure code and/or security misconfigurations in common Agent frameworks | 23 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 21 |
@@ -623,14 +624,14 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [msoedov/agentic_security](https://github.com/msoedov/agentic_security) | Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪 | 2,048 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 104 |
 | 🆕 💎 🧠 [CollieAi/llm-firewall](https://github.com/CollieAi/llm-firewall) | AI Firewall & LLM security toolkit - protect your AI applications from prompt injection, jailbreaks, PII leakage, and... | 47 | +0 / +0 | `Tool / Framework` | `Unknown` | `MIT` | 88 |
 | 🆕 💎 🧠 [doronp/agentshield-benchmark](https://github.com/doronp/agentshield-benchmark) | Open benchmark for AI agent security tools — prompt injection, data exfiltration, tool abuse, provenance | 30 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `Apache-2.0` | 62 |
-| 🆕 💎 🧠 [nealbridges/VulnHunter](https://github.com/nealbridges/VulnHunter) | Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoC... | 825 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 52 |
+| 🆕 💎 🧠 [nealbridges/VulnHunter](https://github.com/nealbridges/VulnHunter) | Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoC... | 826 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 52 |
 | 🆕 🧠 [Teycir/AIJailbreaksRanking](https://github.com/Teycir/AIJailbreaksRanking) | Evidence-graded ranking of LLM jailbreak techniques, with evaluator discipline and documented failures | 10 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 46 |
 | 🆕 🧠 [vstorm-co/pydantic-ai-shields](https://github.com/vstorm-co/pydantic-ai-shields) | Guardrail capabilities for Pydantic AI — cost tracking, prompt injection detection, PII filtering, secret redaction, ... | 94 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 45 |
 | 🆕 🧠 [ethanolivertroy/unpromptedcon-2026-slides](https://github.com/ethanolivertroy/unpromptedcon-2026-slides) | Community collection of all available slide decks from [un]prompted 2026, the AI Security Practitioner Conference (Ma... | 56 | +0 / +0 | `Research / Benchmark` | `Unknown` | `Unknown` | 45 |
 | 🆕 🧠 [Tox1469/ai-prompt-guard](https://github.com/Tox1469/ai-prompt-guard) | Prompt injection detection and weighted strike locking for LLM apps. English and Portuguese, zero runtime dependencies. | 18 | +0 / +0 | `Project` | `TypeScript` | `MIT` | 42 |
 | 🆕 🧠 [dcarpintero/pangolin-guard](https://github.com/dcarpintero/pangolin-guard) | Lightweight, Self-Hosted AI Guardrails Model based on ModernBERT. | 12 | +0 / +0 | `Research / Benchmark` | `Jupyter Notebook` | `Apache-2.0` | 39 |
 | 🆕 🧠 [CloudDefenseAI/secure-agents-md](https://github.com/CloudDefenseAI/secure-agents-md) | Security working agreements for AI coding agents: hardened AGENTS.md, prompt/tool-injection guardrails, dependency hy... | 15 | +0 / +0 | `Research / Benchmark` | `Unknown` | `MIT` | 37 |
-| 🆕 [martian56/redcell](https://github.com/martian56/redcell) | AI red-team platform. Autonomous LLM agents run a penetration test end to end inside a Kali container and write the r... | 416 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 34 |
+| 🆕 [martian56/redcell](https://github.com/martian56/redcell) | AI red-team platform. Autonomous LLM agents run a penetration test end to end inside a Kali container and write the r... | 415 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 34 |
 | 🆕 [gryszzz/open-thymos](https://github.com/gryszzz/open-thymos) | AI agent sandbox prison runtime with a local-first desktop app + CLI. Chat with any model (Claude, OpenAI, Groq, Olla... | 20 | +0 / +0 | `Tool / Framework` | `Rust` | `Apache-2.0` | 30 |
 | 🆕 [arkanemystic/lean-agent-protocol](https://github.com/arkanemystic/lean-agent-protocol) | Formalized AI guardrails for financial agents that replace probabilistic filters with Lean 4 mathematical proofs, ens... | 17 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `Apache-2.0` | 29 |
 | 🆕 [isartor-ai/Isartor](https://github.com/isartor-ai/Isartor) | Open-source Prompt Firewall — deflect up to 95% of redundant LLM traffic before it leaves your infrastructure. Docume... | 21 | +0 / +0 | `Research / Benchmark` | `Rust` | `Apache-2.0` | 23 |
@@ -644,7 +645,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [SnailSploit/The-LLM-Red-Teamer-s-Playbook](https://github.com/SnailSploit/The-LLM-Red-Teamer-s-Playbook) | A diagnostic methodology for bypassing LLM defense layers — from input filters to persistent memory exploitation. | 67 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 64 |
 | 🆕 💎 🧠 [zakky8/llm-jailbreak-taxonomy](https://github.com/zakky8/llm-jailbreak-taxonomy) | Mechanism-grounded taxonomy of 40 LLM jailbreak patterns across 10 categories. 8,000-trial bootstrap evaluation for t... | 20 | +0 / +0 | `Research / Benchmark` | `Jupyter Notebook` | `MIT` | 61 |
 | 🆕 💎 🧠 [ZenGuard-AI/fast-llm-security-guardrails](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) | The fastest Trust Layer for AI Agents | 154 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 54 |
-| 🆕 🧠 [motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex](https://github.com/motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex) | Carefully human hand written llm jailbreaks for the latest models that are available on the market. GPT-6 Astra, GPT-... | 35 | +0 / +0 | `Project` | `Unknown` | `MIT` | 35 |
+| 🆕 🧠 [motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex](https://github.com/motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex) | Carefully human hand written llm jailbreaks for the latest models that are available on the market. GPT-6 Astra, GPT-... | 36 | +0 / +0 | `Project` | `Unknown` | `MIT` | 35 |
 | 🆕 [mega-edo/mega-security-leaderboard](https://github.com/mega-edo/mega-security-leaderboard) | Leaderboard Comparing LLM Agent Security on System Prompt Leakage and Attack Probes | 20 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 26 |
 | 🆕 [kcsinclair/kaos-control](https://github.com/kcsinclair/kaos-control) | Self-hosted orchestrator for Claude Code agents: drive ideas through a role-gated SDLC (plan → build → test → release... | 16 | +0 / +0 | `Tool / Framework` | `Go` | `NOASSERTION` | 26 |
 
@@ -652,7 +653,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 🧠 🧪 [Tcotl/DVLAA](https://github.com/Tcotl/DVLAA) | DVLAA (Damn Vulnerable LLM and Agent Application) is a local LLM and Agent security range for OWASP LLM Top 10 and Ag... | 50 | +0 / +0 | `Lab` | `Python` | `Unknown` | 43 |
+| 🆕 🧠 🧪 [Tcotl/DVLAA](https://github.com/Tcotl/DVLAA) | DVLAA (Damn Vulnerable LLM and Agent Application) is a local LLM and Agent security range for OWASP LLM Top 10 and Ag... | 51 | +0 / +0 | `Lab` | `Python` | `Unknown` | 43 |
 
 ### Prompt Injection Defense
 
@@ -679,10 +680,10 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 💎 🧠 [Zwony/RedAgent](https://github.com/Zwony/RedAgent) | Enterprise-grade automated AI Agent Red Teaming & Security Auditing platform targeting OWASP Top 10 for LLMs. | 15 | +0 / +0 | `Research / Benchmark` | `Python` | `NOASSERTION` | 66 |
 | 🆕 💎 🧠 [OraclesTech/guardian-sdk](https://github.com/OraclesTech/guardian-sdk) | Ethicore Engine® is an AI safety, ethics, and compliance platform. This repo consists of the open-source components o... | 123 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 61 |
-| 🆕 💎 🧠 ✅ [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) | Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security,... | 457 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 58 |
+| 🆕 💎 🧠 ✅ [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) | Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security,... | 458 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 58 |
 | 🆕 💎 🧠 [emmanuelgjr/genai_incidents](https://github.com/emmanuelgjr/genai_incidents) | Single source of truth for GenAI and agentic AI security incidents, mapped to OWASP LLM Top 10, OWASP Agentic Top 10 ... | 32 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 52 |
 | 🆕 🧠 [X-Scale-AI/GRITS](https://github.com/X-Scale-AI/GRITS) | Open-source AI agent security framework. Score, harden, and govern your AI agents. Built on DoD/DISA zero-trust princ... | 14 | +0 / +0 | `Research / Benchmark` | `Unknown` | `NOASSERTION` | 49 |
-| 🆕 🧠 [nukIeer/AI-Prompt-Injection-Cheatsheet](https://github.com/nukIeer/AI-Prompt-Injection-Cheatsheet) | AI hacking snippets for prompt injection, jailbreaking LLMs, and bypassing AI filters. Ideal for ethical hackers and ... | 152 | +0 / +0 | `Tool / Framework` | `Unknown` | `Unknown` | 48 |
+| 🆕 🧠 [nukIeer/AI-Prompt-Injection-Cheatsheet](https://github.com/nukIeer/AI-Prompt-Injection-Cheatsheet) | AI hacking snippets for prompt injection, jailbreaking LLMs, and bypassing AI filters. Ideal for ethical hackers and ... | 153 | +0 / +0 | `Tool / Framework` | `Unknown` | `Unknown` | 48 |
 | 🆕 🧠 [anshug/claude-mythos](https://github.com/anshug/claude-mythos) | Prompt framework that makes LLMs discover real, exploitable vulnerabilities. Six specialized agents covering recon, h... | 63 | +0 / +0 | `Research / Benchmark` | `Unknown` | `CC-BY-4.0` | 45 |
 | 🆕 🧠 [yeasy/ai_security_guide](https://github.com/yeasy/ai_security_guide) | 从原理到实践，全面掌握大语言模型安全攻防之道 \| Latest security techniques with LLM and AI Agent | 133 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 38 |
 | 🆕 [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) | No description. | 60 | +0 / +0 | `Tool / Framework` | `TypeScript` | `Unknown` | 17 |
@@ -691,7 +692,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 🏆 💎 [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) | Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | 7,771 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 52 |
+| 🆕 🏆 💎 [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) | Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | 7,772 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 52 |
 | 🆕 🧠 [didvc/ai-bwrap](https://github.com/didvc/ai-bwrap) | Better agentic security inside a sandbox; one wrapper, any agent. | 34 | +0 / +0 | `Tool / Framework` | `Shell` | `MIT` | 45 |
 | 🆕 🧠 [digitranslab/allama](https://github.com/digitranslab/allama) | 🔥🔥🔥 AI security automation platform. Build visual workflows, deploy autonomous agents, and automate threat detection ... | 205 | +0 / +0 | `Tool / Framework` | `Python` | `AGPL-3.0` | 44 |
 | 🆕 🧠 [controlplaneio/sandbox-probe](https://github.com/controlplaneio/sandbox-probe) | Agentic sandbox enumeration: find security issues, and seed escape automation. | 27 | +0 / +0 | `Tool / Framework` | `Go` | `Apache-2.0` | 43 |
@@ -724,7 +725,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 **Repositories:** 105  
 **Labs:** 8  
-**Stars:** 24,371  
+**Stars:** 24,375  
 **7-day growth:** +0
 
 ### Benchmarks / Eval
@@ -745,8 +746,8 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 [usail-hkust/JailTrickBench](https://github.com/usail-hkust/JailTrickBench) | Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs. Empirical tricks for LLM Jailbreaking. (NeurIPS 2024) | 167 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 27 |
 | 🆕 [Dormant-Neurons/llm-pitfalls](https://github.com/Dormant-Neurons/llm-pitfalls) | Artifacts for the NDSS'26 paper "Chasing Shadows: Pitfalls in LLM Security Research" | 17 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 26 |
 | 🆕 [Sizhe-Chen/StruQ](https://github.com/Sizhe-Chen/StruQ) | official implementation of [USENIX Sec'25] StruQ: Defending Against Prompt Injection with Structured Queries | 82 | +0 / +0 | `Research / Benchmark` | `Python` | `NOASSERTION` | 24 |
-| 🆕 [listen0425/Safety-Layers](https://github.com/listen0425/Safety-Layers) | code space of paper "Safety Layers in Aligned Large Language Models: The Key to LLM Security" (ICLR 2025) | 27 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 22 |
 | 🆕 [SproutNan/GuidedBench](https://github.com/SproutNan/GuidedBench) | The official repository for guided jailbreak benchmark | 34 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 19 |
+| 🆕 [listen0425/Safety-Layers](https://github.com/listen0425/Safety-Layers) | code space of paper "Safety Layers in Aligned Large Language Models: The Key to LLM Security" (ICLR 2025) | 27 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 19 |
 | 🆕 [Norrrrrrr-lyn/WAInjectBench](https://github.com/Norrrrrrr-lyn/WAInjectBench) | Benchmarking prompt injection detections for web agents. | 23 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 18 |
 | 🆕 [yihedeng9/DuoGuard](https://github.com/yihedeng9/DuoGuard) | DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails | 34 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 17 |
 | 🆕 [theshi-1128/jailbreak-bench](https://github.com/theshi-1128/jailbreak-bench) | The most comprehensive and accurate LLM jailbreak attack benchmark by far | 22 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 17 |
@@ -762,8 +763,8 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 💎 🧠 [genia-dev/vibraniumdome](https://github.com/genia-dev/vibraniumdome) | LLM Security Platform. | 30 | +0 / +0 | `Research / Benchmark` | `Python` | `GPL-3.0` | 54 |
 | 🆕 💎 🧠 [arekusandr/last_layer](https://github.com/arekusandr/last_layer) | Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️ | 140 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 53 |
+| 🆕 💎 🧠 [genia-dev/vibraniumdome](https://github.com/genia-dev/vibraniumdome) | LLM Security Platform. | 30 | +0 / +0 | `Research / Benchmark` | `Python` | `GPL-3.0` | 51 |
 | 🆕 💎 🧠 [atliq/guardex-ai](https://github.com/atliq/guardex-ai) | Python SDK for LLM guardrails with safety classification, PII detection, prompt injection defense, and grounding chec... | 29 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 51 |
 | 🆕 🧠 [MaxMLang/pytector](https://github.com/MaxMLang/pytector) | Easy to use LLM Prompt Injection Detection and Prompt Input Sanitization / Detector Python Package with support for l... | 45 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 40 |
 | 🆕 🧠 [navyavelicheti10/LLM_Firewall](https://github.com/navyavelicheti10/LLM_Firewall) | A safety layer between your application and any LLM API — input/output firewalling, PII redaction, jailbreak detectio... | 10 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 35 |
@@ -775,7 +776,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 [PIsberg/vibetags](https://github.com/PIsberg/vibetags) | VibeTags is a Java annotation processor that acts as AI guardrails for code generation tools like Cursor, Claude, Gem... | 25 | +0 / +0 | `Tool / Framework` | `Java` | `MIT` | 27 |
 | 🆕 [mehmandarov/llm-security-and-predictability](https://github.com/mehmandarov/llm-security-and-predictability) | Demo code and examples for the talk "Taming the Chaos". It demonstrates practical patterns for building secure, predi... | 10 | +0 / +0 | `Project` | `Java` | `GPL-3.0` | 26 |
 | 🆕 [Shubeeksh-K/Secure-AI-Guardrails](https://github.com/Shubeeksh-K/Secure-AI-Guardrails) | No description. | 64 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 24 |
-| 🆕 [mattolson/agent-sandbox](https://github.com/mattolson/agent-sandbox) | Secure local dev environment for collaboration with AI coding agents | 214 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 23 |
+| 🆕 [mattolson/agent-sandbox](https://github.com/mattolson/agent-sandbox) | Secure local dev environment for collaboration with AI coding agents | 215 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 23 |
 
 ### Jailbreak Testing
 
@@ -785,7 +786,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [Ratila1/JGuardrails](https://github.com/Ratila1/JGuardrails) | 🛡️ Programmable Guardrails for LLM Applications in Java. A framework-agnostic toolkit for input/output validation, PI... | 17 | +0 / +0 | `Tool / Framework` | `Java` | `NOASSERTION` | 52 |
 | 🆕 💎 🧠 [praetorian-inc/augustus](https://github.com/praetorian-inc/augustus) | LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 ... | 326 | +0 / +0 | `Research / Benchmark` | `Go` | `Apache-2.0` | 52 |
 | 🆕 [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) | LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking | 866 | +0 / +0 | `Awesome List` | `Unknown` | `Apache-2.0` | 39 |
-| 🆕 [agencyenterprise/PromptInject](https://github.com/agencyenterprise/PromptInject) | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the rob... | 529 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 37 |
+| 🆕 [agencyenterprise/PromptInject](https://github.com/agencyenterprise/PromptInject) | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the rob... | 530 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 37 |
 | 🆕 🧠 [mirseo/string-formatter](https://github.com/mirseo/string-formatter) | A high-performance string formatter written in Rust. This project detects and blocks LLM prompt injection and jailbre... | 10 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 35 |
 | 🆕 [NeuralTrust/echo-chamber](https://github.com/NeuralTrust/echo-chamber) | Code and examples for Echo Chamber LLM Jailbreak. | 11 | +0 / +0 | `Research / Benchmark` | `Jupyter Notebook` | `MIT` | 33 |
 | 🆕 [bcdannyboy/PromptMatryoshka](https://github.com/bcdannyboy/PromptMatryoshka) | Multi-Provider LLM Jailbreak Research Framework | 12 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 29 |
@@ -823,10 +824,10 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 💎 🧠 [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) | AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.m... | 451 | +0 / +0 | `Guide / Standard` | `Unknown` | `Unknown` | 56 |
+| 🆕 💎 🧠 [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) | AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.m... | 454 | +0 / +0 | `Guide / Standard` | `Unknown` | `Unknown` | 56 |
 | 🆕 💎 🧠 [toby-bridges/api-relay-audit](https://github.com/toby-bridges/api-relay-audit) | Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewri... | 925 | +0 / +0 | `Research / Benchmark` | `Python` | `AGPL-3.0` | 53 |
-| 🆕 💎 [greshake/llm-security](https://github.com/greshake/llm-security) | New ways of breaking app-integrated LLMs | 2,153 | +0 / +0 | `Research / Benchmark` | `Jupyter Notebook` | `MIT` | 53 |
-| 🆕 🏆 💎 [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. | 10,864 | +0 / +0 | `Guide / Standard` | `HTML` | `MIT` | 51 |
+| 🆕 💎 [greshake/llm-security](https://github.com/greshake/llm-security) | New ways of breaking app-integrated LLMs | 2,154 | +0 / +0 | `Research / Benchmark` | `Jupyter Notebook` | `MIT` | 53 |
+| 🆕 🏆 💎 [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. | 10,862 | +0 / +0 | `Guide / Standard` | `HTML` | `MIT` | 51 |
 | 🆕 🧠 [mdombrov-33/go-promptguard](https://github.com/mdombrov-33/go-promptguard) | LLM prompt injection detection for Go applications | 15 | +0 / +0 | `Research / Benchmark` | `Go` | `MIT` | 46 |
 | 🆕 🧠 [dropbox/llm-security](https://github.com/dropbox/llm-security) | Dropbox LLM Security research code and results | 259 | +0 / +0 | `Guide / Standard` | `Python` | `Apache-2.0` | 42 |
 | 🆕 ✅ [trailofbits/anamorpher](https://github.com/trailofbits/anamorpher) | image scaling attacks for multi-modal prompt injection | 1,079 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 42 |
@@ -858,7 +859,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 🧠 [mirzayasirabdullahbaig07/PromptGuard-AI](https://github.com/mirzayasirabdullahbaig07/PromptGuard-AI) | PromptGuard is a single-file AI security platform that scans user prompts in real-time and classifies them as SAFE, S... | 42 | +0 / +0 | `Tool / Framework` | `HTML` | `Unknown` | 47 |
-| 🆕 🧠 [mastepanoski/claude-skills](https://github.com/mastepanoski/claude-skills) | UX/UI evaluation, AI governance, and AI security skills for AI coding assistants. Audit interfaces with Nielsen heuri... | 75 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 44 |
+| 🆕 🧠 [mastepanoski/claude-skills](https://github.com/mastepanoski/claude-skills) | UX/UI evaluation, AI governance, and AI security skills for AI coding assistants. Audit interfaces with Nielsen heuri... | 74 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 44 |
 | 🆕 🧠 [Phantom8420/Aegis](https://github.com/Phantom8420/Aegis) | Production-grade LLM security firewall with bidirectional enforcement, adversarial input scanning, and real-time oper... | 31 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 44 |
 | 🆕 [jthack/PIPE](https://github.com/jthack/PIPE) | Prompt Injection Primer for Engineers | 614 | +0 / +0 | `Guide / Standard` | `Unknown` | `Unknown` | 36 |
 | 🆕 [bountyyfi/invisible-prompt-injection](https://github.com/bountyyfi/invisible-prompt-injection) | No description. | 114 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 33 |
@@ -873,7 +874,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 🧠 [UseAI-pro/openclaw-skills-security](https://github.com/UseAI-pro/openclaw-skills-security) | Curated, security-first OpenClaw skills (Markdown-based). Security audit skills - detect prompt injection, supply cha... | 75 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 40 |
-| 🆕 [multikernel/sandlock](https://github.com/multikernel/sandlock) | The lightest sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection | 625 | +0 / +0 | `Research / Benchmark` | `Rust` | `Apache-2.0` | 31 |
+| 🆕 [multikernel/sandlock](https://github.com/multikernel/sandlock) | The lightest sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection | 626 | +0 / +0 | `Research / Benchmark` | `Rust` | `Apache-2.0` | 31 |
 
 ### Tool / Function Calling
 
@@ -910,22 +911,22 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 ## 🧩 MCP Security
 
-**Repositories:** 212  
-**Labs:** 23  
-**Stars:** 102,431  
+**Repositories:** 214  
+**Labs:** 24  
+**Stars:** 102,729  
 **7-day growth:** +0
 
 ### Benchmarks / Eval
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 🏆 💎 🧠 ✅ [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and ... | 7,604 | +0 / +0 | `Awesome List` | `Python` | `Apache-2.0` | 120 |
-| 🆕 🏆 💎 🧠 ✅ [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, d... | 27,145 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 87 |
+| 🆕 🏆 💎 🧠 ✅ [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and ... | 7,610 | +0 / +0 | `Awesome List` | `Python` | `Apache-2.0` | 120 |
+| 🆕 🏆 💎 🧠 ✅ [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, d... | 27,264 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 87 |
 | 🆕 💎 🧠 [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) | Curated resources, research, and tools for securing AI systems | 917 | +0 / +0 | `Awesome List` | `Unknown` | `MIT` | 83 |
 | 🆕 💎 🧠 [beyefendi/awesome-llm-security](https://github.com/beyefendi/awesome-llm-security) | Agentic security, LLM security tools, research, and documents | 49 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 81 |
 | 🆕 💎 🧠 [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit) | Static security scanner for LLM agents — prompt injection, MCP config auditing, taint analysis. 51 rules mapped to OW... | 249 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 67 |
 | 🆕 💎 🧠 [HayatoFujihara/awesome-ai-red-teaming-jp](https://github.com/HayatoFujihara/awesome-ai-red-teaming-jp) | AI Red Teaming / AI Safety に関する日本語リソースのキュレーションリスト | 13 | +0 / +0 | `Awesome List` | `Python` | `CC0-1.0` | 60 |
-| 🆕 🧠 [avivgerz-hue/vibe-shield](https://github.com/avivgerz-hue/vibe-shield) | 92-rule static security scanner (SAST), secret detector, Supabase RLS auditor & SKILL.md prompt-injection guard for A... | 75 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 36 |
+| 🆕 🧠 [avivgerz-hue/vibe-shield](https://github.com/avivgerz-hue/vibe-shield) | 92-rule static security scanner (SAST), secret detector, Supabase RLS auditor & SKILL.md prompt-injection guard for A... | 78 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 36 |
 
 ### Dashboard / Platform
 
@@ -934,7 +935,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [secureagentics/Adrian](https://github.com/secureagentics/Adrian) | Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt inj... | 597 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 67 |
 | 🆕 💎 🧠 [mythos-agent/mythos-agent](https://github.com/mythos-agent/mythos-agent) | The AI security agent guards your code. | 49 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 60 |
 | 🆕 💎 🧠 [Coff0xc/LLM-Security-Assessment-Framework](https://github.com/Coff0xc/LLM-Security-Assessment-Framework) | FORGEDAN — An Evolutionary Framework for LLM Security Assessment \| 6 Attack Methods \| 18 Model Adapters \| Vue 3 Da... | 25 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 60 |
-| 🆕 [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) | Open-source agentic security automation platform. | 3,908 | +0 / +0 | `Guide / Standard` | `Python` | `AGPL-3.0` | 49 |
+| 🆕 [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) | Open-source agentic security automation platform. | 3,909 | +0 / +0 | `Guide / Standard` | `Python` | `AGPL-3.0` | 49 |
 | 🆕 [mikeprivette/ai-security-shared-responsibility](https://github.com/mikeprivette/ai-security-shared-responsibility) | AI Security Shared Responsibility Model | 94 | +0 / +0 | `Tool / Framework` | `Unknown` | `MIT` | 28 |
 | 🆕 [MikkoParkkola/nab](https://github.com/MikkoParkkola/nab) | Token-lean web microfetch for LLM agents: any URL → clean markdown via CLI, MCP server, and Claude Code plugin. Real ... | 18 | +0 / +0 | `Tool / Framework` | `Rust` | `MIT` | 27 |
 
@@ -957,7 +958,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [akto-api-security/akto](https://github.com/akto-api-security/akto) | Akto is the fastest growing AI Security platform for your teams to secure AI agents, MCPs, LLMs, Agent skills, Gen AI... | 1,550 | +0 / +0 | `Tool / Framework` | `Java` | `MIT` | 87 |
 | 🆕 🏆 💎 🧠 [superagent-ai/superagent](https://github.com/superagent-ai/superagent) | Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety dir... | 6,885 | +0 / +0 | `Tool / Framework` | `TypeScript` | `MIT` | 73 |
 | 🆕 💎 🧠 [myProjectsRavi/sentinel-protocol](https://github.com/myProjectsRavi/sentinel-protocol) | Open-source AI security firewall. 81 engines for PII detection, prompt injection defense, MCP security, and egress cl... | 20 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 67 |
-| 🆕 💎 🧠 [PrismorSec/prismor](https://github.com/PrismorSec/prismor) | Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes... | 585 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 64 |
+| 🆕 💎 🧠 [PrismorSec/prismor](https://github.com/PrismorSec/prismor) | Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes... | 587 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 64 |
 | 🆕 💎 🧠 [votal-ai-hq/ai-red-teaming](https://github.com/votal-ai-hq/ai-red-teaming) | Whitebox & Blackbox AI red-teaming framework for LLMs & Agentic AI apps. It analyzes your app's source code to discov... | 41 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 62 |
 | 🆕 💎 🧠 [NuGuardAI/nuguard](https://github.com/NuGuardAI/nuguard) | AI red-teaming tool and LLM security framework to evaluate agentic AI applications. Tests prompt injections, handles ... | 72 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 61 |
 | 🆕 💎 🧠 [akanthed/SecureAI-Scan](https://github.com/akanthed/SecureAI-Scan) | Find AI/LLM security vulnerabilities in your code before attackers do — covers prompt injection, MCP tool poisoning, ... | 25 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 60 |
@@ -977,7 +978,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [getagentseal/agentseal](https://github.com/getagentseal/agentseal) | Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain atta... | 385 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 70 |
 | 🆕 💎 🧠 [fevziegeyurtsevenler/LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye) | Türkçe yapay zeka güvenliği için açık kaynak çatı: rehber serisi, uygulamalı akademi, araştırma & deneyler, 23+ araç ... | 13 | +0 / +0 | `Research / Benchmark` | `Unknown` | `CC-BY-4.0` | 68 |
 | 🆕 💎 🧠 [hardw00t/ai-security-arsenal](https://github.com/hardw00t/ai-security-arsenal) | A collection of skills, agents, commands, and workflows for security researchers. Compatible with Claude Code, Claude... | 109 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 57 |
-| 🆕 💎 🧠 [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) | AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities | 746 | +0 / +0 | `Tool / Framework` | `TypeScript` | `NOASSERTION` | 56 |
+| 🆕 💎 🧠 [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks) | AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities | 747 | +0 / +0 | `Tool / Framework` | `TypeScript` | `NOASSERTION` | 56 |
 | 🆕 💎 🧠 [akashrpatil/awesome-offensive-security-skills](https://github.com/akashrpatil/awesome-offensive-security-skills) | 🔥 191+ battle-tested cybersecurity skills for AI coding agents \| Bug Bounty • Pentesting • Red Team • AI Red Teaming... | 22 | +0 / +0 | `Awesome List` | `Unknown` | `Apache-2.0` | 55 |
 | 🆕 🧠 [seojoonkim/prompt-guard](https://github.com/seojoonkim/prompt-guard) | Advanced prompt injection defense system for AI agents. Multi-language detection, severity scoring, and security audi... | 181 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 43 |
 | 🆕 🧠 [TheAntitech/Anticells_Red_MCP](https://github.com/TheAntitech/Anticells_Red_MCP) | Open-source MCP server for AI red teaming. Fingerprint models and agents, test jailbreaks and prompt injections, anal... | 20 | +0 / +0 | `Research / Benchmark` | `Python` | `Apache-2.0` | 41 |
@@ -991,29 +992,30 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 💎 🧠 🧪 [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | A collection of awesome resources related AI security | 1,622 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 115 |
+| 🆕 💎 🧠 🧪 [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | A collection of awesome resources related AI security | 1,623 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 115 |
 | 🆕 💎 🧠 🧪 [AISecurityConsortium/AIGoat](https://github.com/AISecurityConsortium/AIGoat) | AIGoat - Open-source AI security playground for hands-on LLM red teaming. Explore prompt injection, RAG poisoning, AI... | 311 | +0 / +0 | `Lab` | `Python` | `Apache-2.0` | 104 |
 | 🆕 💎 🧠 🧪 [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) | A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autot... | 1,767 | +0 / +0 | `Lab` | `Python` | `NOASSERTION` | 104 |
 | 🆕 💎 🧠 🧪 [sonuoffsec/AI-Security-Hub](https://github.com/sonuoffsec/AI-Security-Hub) | Payloads, cheat sheets, labs, tools and CTFs for AI, LLM, RAG, MCP and agent security | 19 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 98 |
 | 🆕 💎 🧠 🧪 [brinhosa/awesome-ai-security](https://github.com/brinhosa/awesome-ai-security) | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources. | 41 | +0 / +0 | `Lab` | `Unknown` | `CC0-1.0` | 90 |
 | 🆕 💎 🧠 🧪 [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security) | A living map of the AI agent security ecosystem. | 81 | +0 / +0 | `Lab` | `Unknown` | `NOASSERTION` | 87 |
 | 🆕 💎 🧠 🧪 [anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection) | AI/ML Pentesting Roadmap for Beginners | 828 | +0 / +0 | `Lab` | `Unknown` | `Unknown` | 85 |
-| 🆕 💎 🧠 🧪 [ppradyoth/prompt-injection-ctf](https://github.com/ppradyoth/prompt-injection-ctf) | Free prompt injection CTF: 16 LLM security missions plus a 30-mission Agentic Security Lab (OWASP Agentic Top 10), de... | 13 | +0 / +0 | `Lab` | `HTML` | `MIT` | 84 |
+| 🆕 💎 🧠 🧪 [ppradyoth/prompt-injection-ctf](https://github.com/ppradyoth/prompt-injection-ctf) | Free prompt injection CTF: 16 LLM security missions plus a 30-mission Agentic Security Lab (OWASP Agentic Top 10), de... | 14 | +0 / +0 | `Lab` | `HTML` | `MIT` | 84 |
 | 🆕 💎 🧠 🧪 [gmh5225/awesome-ai-security](https://github.com/gmh5225/awesome-ai-security) | A curated list of AI Security materials and resources for Pentesters, Bug Hunters, and Security Researchers. | 67 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 79 |
 | 🆕 💎 🧠 🧪 [pwnedlabs/ai-security-labs](https://github.com/pwnedlabs/ai-security-labs) | AI security training: hands-on labs, tools and courses for LLM, RAG and agent security. Maintained by Pwned Labs. | 30 | +0 / +0 | `Lab` | `Unknown` | `CC-BY-4.0` | 76 |
-| 🆕 💎 🧠 🧪 [Joe-B-Security/awesome-prompt-injection](https://github.com/Joe-B-Security/awesome-prompt-injection) | Learn about a type of vulnerability that specifically targets machine learning models | 730 | +0 / +0 | `Lab` | `Unknown` | `CC0-1.0` | 74 |
+| 🆕 💎 🧠 🧪 [Joe-B-Security/awesome-prompt-injection](https://github.com/Joe-B-Security/awesome-prompt-injection) | Learn about a type of vulnerability that specifically targets machine learning models | 733 | +0 / +0 | `Lab` | `Unknown` | `CC0-1.0` | 74 |
 | 🆕 💎 🧠 🧪 [fevziegeyurtsevenler/awesome-ai-security-tr](https://github.com/fevziegeyurtsevenler/awesome-ai-security-tr) | Türkçe yapay zeka güvenliği kaynakları — prompt injection, jailbreak, red teaming, guardrail, ajan/MCP ve RAG güvenli... | 15 | +0 / +0 | `Lab` | `Python` | `CC-BY-4.0` | 73 |
-| 🆕 💎 🧠 🧪 [Arcanum-Sec/ai-sec-resources](https://github.com/Arcanum-Sec/ai-sec-resources) | AI Security Resources Hub | 538 | +0 / +0 | `Lab` | `HTML` | `Unknown` | 62 |
+| 🆕 💎 🧠 🧪 [Arcanum-Sec/ai-sec-resources](https://github.com/Arcanum-Sec/ai-sec-resources) | AI Security Resources Hub | 539 | +0 / +0 | `Lab` | `HTML` | `Unknown` | 62 |
 | 🆕 💎 🧠 🧪 [Threekiii/Awesome-AI-Redteam](https://github.com/Threekiii/Awesome-AI-Redteam) | 一个 AI 攻防知识库。A knowledge base for AI security. | 67 | +0 / +0 | `Lab` | `Unknown` | `Unknown` | 60 |
 | 🆕 💎 🧠 🧪 [hi-unc1e/Auto_JB_APE](https://github.com/hi-unc1e/Auto_JB_APE) | 引擎就一条回路：侦察 → 规划 → 提交 → 判定 → 变异。纯标准库，零框架依赖。内置裁判打 S/A/B/C，canary 或正则命中才算赢，没坐实的不提交。334 个测试离线全绿。CLI、Python API、MCP。One lo... | 15 | +0 / +0 | `Lab` | `Python` | `MIT` | 56 |
 | 🆕 💎 🧠 🧪 [AgentLatch/agent-latch](https://github.com/AgentLatch/agent-latch) | Local-first AI agent security scanner and MCP traffic monitor. Finds prompt injection, over-privileged tools, and sec... | 12 | +0 / +0 | `Lab` | `Python` | `MIT` | 56 |
 | 🆕 💎 🧠 🧪 [EvanThomasLuke/Awesome-AI-Security-Skills](https://github.com/EvanThomasLuke/Awesome-AI-Security-Skills) | A list of AI security skills | 119 | +0 / +0 | `Lab` | `Unknown` | `Unknown` | 50 |
 | 🆕 🧠 🧪 [mcp-security-project/awesome-agentic-mcp-security](https://github.com/mcp-security-project/awesome-agentic-mcp-security) | Awesome Agentic MCP Security List | 26 | +0 / +0 | `Lab` | `Unknown` | `CC0-1.0` | 48 |
-| 🆕 🧠 🧪 [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) | This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (interna... | 501 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 48 |
+| 🆕 🧠 🧪 [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) | This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (interna... | 504 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 48 |
 | 🆕 🧠 🧪 [smartdevil09/AI-Security-Professional-Roadmap](https://github.com/smartdevil09/AI-Security-Professional-Roadmap) | No description. | 35 | +0 / +0 | `Lab` | `Unknown` | `Unknown` | 40 |
-| 🆕 🧠 🧪 [dwarvesf/claude-guardrails](https://github.com/dwarvesf/claude-guardrails) | Hardened security configuration for Claude Code; permission deny rules, shell hooks, and prompt injection defense in ... | 46 | +0 / +0 | `Lab` | `Shell` | `MIT` | 38 |
+| 🆕 🧠 🧪 [dwarvesf/claude-guardrails](https://github.com/dwarvesf/claude-guardrails) | Hardened security configuration for Claude Code; permission deny rules, shell hooks, and prompt injection defense in ... | 47 | +0 / +0 | `Lab` | `Shell` | `MIT` | 38 |
 | 🆕 🧪 [PawelKozy/mcp-breach-to-fix-labs](https://github.com/PawelKozy/mcp-breach-to-fix-labs) | Hands-on MCP security lab: 10 real incidents reproduced with vulnerable/secure MCP servers, pytest regressions, and C... | 91 | +0 / +0 | `Lab` | `Python` | `Unknown` | 28 |
 | 🆕 🧪 [MWDLH/ai-security-expert](https://github.com/MWDLH/ai-security-expert) | AI 全栈安全攻防矩阵 v1.0 — 面向 AI Agent 的全栈安全攻防知识库。覆盖基础设施、LLM 应用、供应链投毒与 Agent 安全 6 个层面共 21 个攻击面，每个面提供可执行 PoC、加固方案和应急响应闭环。 | 39 | +0 / +0 | `Lab` | `Shell` | `Apache-2.0` | 28 |
+| 🆕 🧪 [FLIAZ/SpiritScout](https://github.com/FLIAZ/SpiritScout) | 灵枢（SpiritScout）｜基于 LLM 的多智能体安全测试系统，通过动态任务规划与专项智能体协作，支持 SRC 漏洞挖掘、CTF 解题与自动化渗透测试。An LLM-powered multi-agent security te... | 30 | +0 / +0 | `Lab` | `Python` | `Apache-2.0` | 28 |
 
 ### Model Scanning
 
@@ -1026,7 +1028,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 💎 🧠 [muellerberndt/awesome-ai-security](https://github.com/muellerberndt/awesome-ai-security) | An AI security awesome list / learning journey | 139 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 86 |
-| 🆕 💎 🧠 [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | AI Safety HOT: daily AI safety news, papers and incidents in one place — jailbreaks, prompt injection, alignment, eva... | 2,077 | +0 / +0 | `Research / Benchmark` | `TeX` | `NOASSERTION` | 70 |
+| 🆕 💎 🧠 [wuyoscar/AISafetyHot](https://github.com/wuyoscar/AISafetyHot) | AI Safety HOT: daily AI safety news, papers and incidents in one place — jailbreaks, prompt injection, alignment, eva... | 2,076 | +0 / +0 | `Research / Benchmark` | `TeX` | `NOASSERTION` | 74 |
 | 🆕 💎 🧠 [lasso-security/claude-hooks](https://github.com/lasso-security/claude-hooks) | Lasso security integrations for Claude Code, including prompt-injection defenses | 273 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 50 |
 | 🆕 🧠 [fubak/ferret-scan](https://github.com/fubak/ferret-scan) | Security scanner for LLM CLI (Claude Code, Codex, Gemini, Droid, Opencode, etc) configurations and MD files - detect ... | 83 | +0 / +0 | `Tool / Framework` | `TypeScript` | `MIT` | 45 |
 | 🆕 🧠 [xamitgupta/ipi-scanner](https://github.com/xamitgupta/ipi-scanner) | Detect Indirect Prompt Injection attacks before your LLM reads them | 15 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 40 |
@@ -1058,7 +1060,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 ✅ [Azure/kars](https://github.com/Azure/kars) | Agent Reference Stack for Kubernetes (kars) - an open source stack from Microsoft for running AI agents safely on Kub... | 46 | +0 / +0 | `Tool / Framework` | `Rust` | `MIT` | 44 |
 | 🆕 🧠 [Gach0ng/AgentStalker](https://github.com/Gach0ng/AgentStalker) | A standardized agent vulnerability benchmark, formal taint tracking proofs, and a cross-language unified AST model, i... | 132 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 35 |
 | 🆕 [schmitthub/clawker](https://github.com/schmitthub/clawker) | AI coding agent sandbox platform | 59 | +0 / +0 | `Tool / Framework` | `Go` | `MIT` | 34 |
-| 🆕 [kstenerud/yoloai](https://github.com/kstenerud/yoloai) | Your agent is a security risk, so treat it like one. yoloAI does AI agent sandboxing right. | 257 | +0 / +0 | `Tool / Framework` | `Go` | `MIT` | 31 |
+| 🆕 [kstenerud/yoloai](https://github.com/kstenerud/yoloai) | Your agent is a security risk, so treat it like one. yoloAI does AI agent sandboxing right. | 258 | +0 / +0 | `Tool / Framework` | `Go` | `MIT` | 31 |
 | 🆕 🧠 [h9-tec/agentic-rag-security-lab](https://github.com/h9-tec/agentic-rag-security-lab) | No description. | 16 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 30 |
 | 🆕 [fishman/awesome-agent-sandbox](https://github.com/fishman/awesome-agent-sandbox) | Portable, self-contained sandboxes for AI coding agents - microVMs, containers, isolation harnesses. | 25 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 29 |
 | 🆕 [arjan/awesome-agent-sandboxes](https://github.com/arjan/awesome-agent-sandboxes) | A curated list of code-execution sandboxing solutions for AI/LLM agents | 59 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 28 |
@@ -1076,21 +1078,21 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) | 🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️ | 750 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 67 |
 | 🆕 💎 🧠 [martinholovsky/awesome-llm-attacks](https://github.com/martinholovsky/awesome-llm-attacks) | A curated, framework-mapped catalog of attack techniques against LLM and GenAI systems — cross-referenced to OWASP LL... | 10 | +0 / +0 | `Awesome List` | `Unknown` | `CC-BY-4.0` | 66 |
 | 🆕 💎 🧠 [sinewaveai/agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) | Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ p... | 124 | +0 / +0 | `Tool / Framework` | `JavaScript` | `MIT` | 65 |
-| 🆕 💎 🧠 [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) | Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable, testable rule... | 440 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 65 |
+| 🆕 💎 🧠 [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) | Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable, testable rule... | 442 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 65 |
 | 🆕 💎 🧠 [webpro255/awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks) | A curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). Every entry source... | 92 | +0 / +0 | `Awesome List` | `Unknown` | `MIT` | 64 |
 | 🆕 💎 🧠 [anwarj03/LLMRed](https://github.com/anwarj03/LLMRed) | Evidence-driven AI red teaming platform for LLM, RAG, and agentic applications. | 10 | +0 / +0 | `Tool / Framework` | `Python` | `Unknown` | 64 |
 | 🆕 💎 🧠 [ARUNAGIRINATHAN-K/awesome-llmsecops](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops) | ✨LLM Security Operations for securing AI systems throughout their lifecycle. | 12 | +0 / +0 | `Awesome List` | `Unknown` | `MIT` | 63 |
 | 🆕 💎 🧠 [SyedAnas01/mcp-safeguard](https://github.com/SyedAnas01/mcp-safeguard) | 🛡️ Security scanner for MCP (Model Context Protocol) servers — prompt injection, credential exposure, SSRF, tool pois... | 11 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 63 |
-| 🆕 💎 🧠 [guardana/guardana](https://github.com/guardana/guardana) | Open-source AI security verification for model artifacts, live endpoints, MCP servers, and recorded agent traces. Rep... | 223 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 63 |
-| 🆕 💎 🧠 [affaan-m/agentshield](https://github.com/affaan-m/agentshield) | AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Availab... | 1,428 | +0 / +0 | `Tool / Framework` | `TypeScript` | `MIT` | 63 |
+| 🆕 💎 🧠 [guardana/guardana](https://github.com/guardana/guardana) | Open-source AI security verification for model artifacts, live endpoints, MCP servers, and recorded agent traces. Rep... | 224 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 63 |
+| 🆕 💎 🧠 [affaan-m/agentshield](https://github.com/affaan-m/agentshield) | AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Availab... | 1,433 | +0 / +0 | `Tool / Framework` | `TypeScript` | `MIT` | 63 |
 | 🆕 💎 🧠 [pipelab-org/pipelock](https://github.com/pipelab-org/pipelock) | Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic... | 1,014 | +0 / +0 | `Tool / Framework` | `Go` | `Apache-2.0` | 61 |
-| 🆕 💎 🧠 [secfoo-com/secfoo](https://github.com/secfoo-com/secfoo) | AI security review CLI: SAST, secret scanning, SCA, threat modeling and architecture review with Claude Code, Copilot... | 407 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 60 |
-| 🆕 💎 🧠 ✅ [OWASP/AISVS](https://github.com/OWASP/AISVS) | The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals... | 601 | +0 / +0 | `Tool / Framework` | `Unknown` | `CC-BY-SA-4.0` | 60 |
-| 🆕 🏆 💎 [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly ... | 13,425 | +0 / +0 | `Tool / Framework` | `TypeScript` | `MIT` | 60 |
-| 🆕 💎 🧠 [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kuberne... | 1,280 | +0 / +0 | `Research / Benchmark` | `Python` | `AGPL-3.0` | 59 |
-| 🆕 💎 🧠 [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) | Open-source antivirus and firewall for AI agents: block risky tools, secret access, prompt injection, malicious packa... | 1,118 | +0 / +0 | `Tool / Framework` | `Rust` | `Apache-2.0` | 59 |
-| 🆕 💎 🧠 [0sec-labs/0security](https://github.com/0sec-labs/0security) | Open-source cybersecurity harness to build and deploy sovereign, persistent AI security agents (sentinels) that conti... | 1,553 | +0 / +0 | `Tool / Framework` | `TypeScript` | `Apache-2.0` | 58 |
-| 🆕 🏆 💎 [nolabs-ai/nono](https://github.com/nolabs-ai/nono) | agent runtime security - zero trust, zero setup, zero latency agent sandboxing | 5,061 | +0 / +0 | `Tool / Framework` | `Rust` | `Apache-2.0` | 56 |
+| 🆕 💎 🧠 [secfoo-com/secfoo](https://github.com/secfoo-com/secfoo) | AI security review CLI: SAST, secret scanning, SCA, threat modeling and architecture review with Claude Code, Copilot... | 417 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 60 |
+| 🆕 💎 🧠 [0sec-labs/0security](https://github.com/0sec-labs/0security) | Open-source cybersecurity harness to build and deploy sovereign, persistent AI security agents (sentinels) that conti... | 1,578 | +0 / +0 | `Tool / Framework` | `TypeScript` | `Apache-2.0` | 60 |
+| 🆕 💎 🧠 ✅ [OWASP/AISVS](https://github.com/OWASP/AISVS) | The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals... | 603 | +0 / +0 | `Tool / Framework` | `Unknown` | `CC-BY-SA-4.0` | 60 |
+| 🆕 🏆 💎 [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly ... | 13,428 | +0 / +0 | `Tool / Framework` | `TypeScript` | `MIT` | 60 |
+| 🆕 💎 🧠 [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kuberne... | 1,287 | +0 / +0 | `Research / Benchmark` | `Python` | `AGPL-3.0` | 59 |
+| 🆕 💎 🧠 [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) | Open-source antivirus and firewall for AI agents: block risky tools, secret access, prompt injection, malicious packa... | 1,120 | +0 / +0 | `Tool / Framework` | `Rust` | `Apache-2.0` | 59 |
+| 🆕 🏆 💎 [nolabs-ai/nono](https://github.com/nolabs-ai/nono) | agent runtime security - zero trust, zero setup, zero latency agent sandboxing | 5,072 | +0 / +0 | `Tool / Framework` | `Rust` | `Apache-2.0` | 56 |
 | 🆕 💎 🧠 [shinthink/blitzstrike](https://github.com/shinthink/blitzstrike) | Blitz Strike — a universal MCP security-audit toolbelt. Reconnaissance at speed. Analysis in depth. Validation before... | 523 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 55 |
 | 🆕 💎 🧠 [sahiloj/MCPScan](https://github.com/sahiloj/MCPScan) | Offensive MCP server auditor: detects tool poisoning, credential leaks, RCE vectors, SSRF, session hijacking, and sup... | 25 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `MIT` | 54 |
 | 🆕 💎 🧠 ✅ [google/mcp-security](https://github.com/google/mcp-security) | No description. | 546 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 53 |
@@ -1102,13 +1104,13 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 💎 🧠 [Helixar-AI/mcp-security-checklist](https://github.com/Helixar-AI/mcp-security-checklist) | MCP is being adopted rapidly. Security guidance is lagging behind. This checklist gives security engineers, platform ... | 22 | +0 / +0 | `Guide / Standard` | `Unknown` | `MIT` | 50 |
 | 🆕 💎 🧠 [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) | A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems. | 834 | +0 / +0 | `Guide / Standard` | `Unknown` | `MIT` | 50 |
 | 🆕 💎 🧠 ✅ [Azure-Samples/sherpa](https://github.com/Azure-Samples/sherpa) | A guided lab for MCP security and best practices | 30 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 50 |
-| 🆕 🧠 [cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit) | Static security auditor for AI-agent configuration: Claude Code, MCP servers, Cursor, Codex, Copilot, Gemini CLI and ... | 28 | +0 / +0 | `Tool / Framework` | `Go` | `Apache-2.0` | 48 |
+| 🆕 🧠 [cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit) | Static security auditor for AI-agent configuration: Claude Code, MCP servers, Cursor, Codex, Copilot, Gemini CLI and ... | 29 | +0 / +0 | `Tool / Framework` | `Go` | `Apache-2.0` | 48 |
 | 🆕 🧠 [GenAI-Security-Project/GenAI-Security-Advisor](https://github.com/GenAI-Security-Project/GenAI-Security-Advisor) | AI agent/skill grounded in the OWASP GenAI Security Project's published research (LLM Top 10, Agentic Top 10, Data Se... | 14 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 48 |
 | 🆕 🧠 [thomasunise/argus](https://github.com/thomasunise/argus) | Open-source agentic security operations platform: | 152 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 48 |
 | 🆕 🧠 [Helixar-AI/sentinel](https://github.com/Helixar-AI/sentinel) | MCP security scanner by Helixar | 10 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 47 |
 | 🆕 🧠 [AIM-Intelligence/awesome-mcp-security](https://github.com/AIM-Intelligence/awesome-mcp-security) | Security Threats related with MCP (Model Context Protocol), MCP Servers and more | 53 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 45 |
 | 🆕 🧠 [hackersatyamrastogi/pentesting-cyber-mcp](https://github.com/hackersatyamrastogi/pentesting-cyber-mcp) | 🔐 50+ MCP Security Servers for AI-Powered Pentesting \| Integrate Nmap, Burp Suite, Nuclei, Shodan, BloodHound, Semgr... | 37 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `MIT` | 45 |
-| 🆕 🧠 [obielin/skillshield](https://github.com/obielin/skillshield) | Security scanner for AI agent skills. Flags known prompt-injection, data-exfiltration and malicious-payload patterns ... | 71 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 45 |
+| 🆕 🧠 [obielin/skillshield](https://github.com/obielin/skillshield) | Security scanner for AI agent skills. Flags known prompt-injection, data-exfiltration and malicious-payload patterns ... | 72 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 45 |
 | 🆕 🧠 [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) | Runtime security for AI apps and agents: prompt injection detection, tool-call authorization, sensitive-data redactio... | 700 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `Apache-2.0` | 45 |
 | 🆕 🧠 [aminrj-labs/mcp-attack-labs](https://github.com/aminrj-labs/mcp-attack-labs) | Hands-on offensive-security labs for AI agents — MCP tool poisoning, cross-server shadowing, RAG injection, agentic m... | 21 | +0 / +0 | `Tool / Framework` | `Python` | `NOASSERTION` | 44 |
 | 🆕 🧠 [purpleroc/mcp-security-inspector](https://github.com/purpleroc/mcp-security-inspector) | 一个用于检测Model Context Protocol (MCP)安全性的Chrome扩展工具。 | 37 | +0 / +0 | `Tool / Framework` | `TypeScript` | `Unknown` | 44 |
@@ -1139,6 +1141,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 🧠 [rsfl/splunk-mcp-llm-siemulator](https://github.com/rsfl/splunk-mcp-llm-siemulator) | A Docker lab integrating Splunk SIEM with Ollama LLM via MCP for AI security operations. Features Promptfoo OWASP eva... | 36 | +0 / +0 | `Research / Benchmark` | `PowerShell` | `MIT` | 36 |
 | 🆕 🧠 [arcjet/arcjet-py](https://github.com/arcjet/arcjet-py) | Runtime security for AI apps and agents: prompt injection detection, tool-call authorization, sensitive-data redactio... | 33 | +0 / +0 | `Tool / Framework` | `Python` | `Apache-2.0` | 36 |
 | 🆕 🧠 [ismailkho/awesome-mcp-servers-security](https://github.com/ismailkho/awesome-mcp-servers-security) | A curated list of Model Context Protocol (MCP) servers with real-time security scores and cloud skills. | 11 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 36 |
+| 🆕 🧠 [bex-co/bex-security](https://github.com/bex-co/bex-security) | Open-source AI security scanner for Codex, Claude Code, and ACP-compatible coding agents—kept current with OpenAI Cod... | 54 | +0 / +0 | `Tool / Framework` | `TypeScript` | `Apache-2.0` | 35 |
 | 🆕 🧠 [Synvoya/codeinspectus](https://github.com/Synvoya/codeinspectus) | Local-first MCP security scanner for AI-generated apps: four open-source engines plus the Synvoya engine. Scan → fix ... | 51 | +0 / +0 | `Research / Benchmark` | `TypeScript` | `Apache-2.0` | 35 |
 | 🆕 [leepokai/jev-guard](https://github.com/leepokai/jev-guard) | Auto mode for every coding agent, built on Jev: risk-scores every tool call with session context (deny / ask / allow)... | 154 | +0 / +0 | `Tool / Framework` | `JavaScript` | `MIT` | 34 |
 | 🆕 [BIGPPWONG/EdgeBox](https://github.com/BIGPPWONG/EdgeBox) | A fully-featured, GUI-powered local LLM Agent sandbox with complete MCP protocol support. Features both CLI and full ... | 211 | +0 / +0 | `Tool / Framework` | `TypeScript` | `GPL-3.0` | 34 |
@@ -1166,7 +1169,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | 🆕 [ChuprinaDaria/Vibecode-Cleaner-Fartrun](https://github.com/ChuprinaDaria/Vibecode-Cleaner-Fartrun) | Not another AI reviewing AI. Rust-powered code scanner that actually reads your codebase — zero extra tokens consumed... | 141 | +0 / +0 | `Awesome List` | `Python` | `NOASSERTION` | 27 |
 | 🆕 [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | Self-hosted model routing gateway and agent control plane for OpenAI, Anthropic, Gemini and A2A agents behind one Ope... | 10 | +0 / +0 | `Research / Benchmark` | `JavaScript` | `Apache-2.0` | 26 |
 | 🆕 [onsails/right-agent](https://github.com/onsails/right-agent) | agents that run on your claude subscription. multi-agent, sandboxed by default. polished telegram UI. | 36 | +0 / +0 | `Guide / Standard` | `Rust` | `Apache-2.0` | 25 |
-| 🆕 [khendzel/skills-janitor](https://github.com/khendzel/skills-janitor) | Tinder for your Claude Code skills, subagents and MCP servers. Swipe away what wastes context, scan for prompt inject... | 139 | +0 / +0 | `Tool / Framework` | `Shell` | `MIT` | 25 |
+| 🆕 [khendzel/skills-janitor](https://github.com/khendzel/skills-janitor) | Tinder for your Claude Code skills, subagents and MCP servers. Swipe away what wastes context, scan for prompt inject... | 141 | +0 / +0 | `Tool / Framework` | `Shell` | `MIT` | 25 |
 | 🆕 [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit) | A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Bui... | 58 | +0 / +0 | `Tool / Framework` | `TypeScript` | `MIT` | 23 |
 | 🆕 [speedydivid/TokenForge](https://github.com/speedydivid/TokenForge) | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via ... | 18 | +0 / +0 | `Tool / Framework` | `JavaScript` | `Unknown` | 23 |
 | 🆕 [spring-ai-community/mcp-security](https://github.com/spring-ai-community/mcp-security) | Spring Security Configuration for MCP | 124 | +0 / +0 | `Tool / Framework` | `Java` | `Apache-2.0` | 23 |
@@ -1192,7 +1195,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 **Repositories:** 61  
 **Labs:** 15  
-**Stars:** 22,199  
+**Stars:** 22,209  
 **7-day growth:** +0
 
 ### Benchmarks / Eval
@@ -1200,7 +1203,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 💎 🧠 [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) | A curation of awesome tools, documents and projects about LLM Security. | 1,722 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 80 |
-| 🆕 💎 🧠 [CryptoAILab/Awesome-LM-SSP](https://github.com/CryptoAILab/Awesome-LM-SSP) | A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.). | 2,106 | +0 / +0 | `Awesome List` | `Unknown` | `Apache-2.0` | 75 |
+| 🆕 💎 🧠 [CryptoAILab/Awesome-LM-SSP](https://github.com/CryptoAILab/Awesome-LM-SSP) | A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.). | 2,107 | +0 / +0 | `Awesome List` | `Unknown` | `Apache-2.0` | 75 |
 | 🆕 🧠 [unica-mlsec/mlsec](https://github.com/unica-mlsec/mlsec) | PhD/MSc course on Machine Learning Security (Univ. Cagliari) | 234 | +0 / +0 | `Research / Benchmark` | `Jupyter Notebook` | `Unknown` | 37 |
 | 🆕 🧠 [byerose/Awesome-Foundation-Model-Security](https://github.com/byerose/Awesome-Foundation-Model-Security) | A curated list of trustworthy Generative AI papers. Daily updating... | 77 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 31 |
 | 🆕 [ylhz/Adversarial_Attacks_and_Defense_NeurIPS2022](https://github.com/ylhz/Adversarial_Attacks_and_Defense_NeurIPS2022) | A list of papers in NeurIPS 2022 related to adversarial attack and defense / AI security. | 78 | +0 / +0 | `Research / Benchmark` | `Unknown` | `Unknown` | 31 |
@@ -1222,8 +1225,8 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 🏆 💎 🧠 [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction,... | 6,323 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 66 |
-| 🆕 💎 🧠 [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | :file_folder: #AISecurity | 1,708 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 61 |
+| 🆕 🏆 💎 🧠 [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction,... | 6,326 | +0 / +0 | `Tool / Framework` | `Python` | `MIT` | 66 |
+| 🆕 💎 🧠 [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | :file_folder: #AISecurity | 1,709 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 61 |
 | 🆕 [AnchoretY/AI_Security_Library](https://github.com/AnchoretY/AI_Security_Library) | Ai与Web安全相关资料的总结库，包括认为写的比较好的一些博客、项目、数据等 | 83 | +0 / +0 | `Research / Benchmark` | `Unknown` | `Unknown` | 23 |
 | 🆕 [drmhrehman/trustfed](https://github.com/drmhrehman/trustfed) | This repository presents a blockchain-based framework, TrustFed, for Cross-Device Federated Learning systems to detec... | 13 | +0 / +0 | `Tool / Framework` | `Jupyter Notebook` | `GPL-3.0` | 11 |
 
@@ -1253,20 +1256,20 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 💎 🧠 🧪 [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) | AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversa... | 317 | +0 / +0 | `Lab` | `Unknown` | `Unknown` | 85 |
+| 🆕 💎 🧠 🧪 [Mr-Infect/AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) | AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversa... | 318 | +0 / +0 | `Lab` | `Unknown` | `Unknown` | 85 |
 | 🆕 💎 🧠 🧪 [regaan/basilisk](https://github.com/regaan/basilisk) | Basilisk — Open-source AI red teaming framework with genetic prompt evolution. Automated LLM security testing for GPT... | 88 | +0 / +0 | `Lab` | `Python` | `NOASSERTION` | 84 |
 | 🆕 💎 🧠 🧪 [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) | An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent... | 360 | +0 / +0 | `Lab` | `Python` | `MIT` | 82 |
 | 🆕 💎 🧠 🧪 ✅ [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) | AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure. | 2,134 | +0 / +0 | `Lab` | `TypeScript` | `MIT` | 81 |
 | 🆕 💎 🧠 🧪 [Panda1847/ai-security-lab](https://github.com/Panda1847/ai-security-lab) | 🤖 Advanced AI/LLM Security Testing Framework. Includes 50+ jailbreak techniques, prompt injection tools, and automate... | 13 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 80 |
 | 🆕 💎 🧠 🧪 [schwartz1375/genai-security-training](https://github.com/schwartz1375/genai-security-training) | No description. | 467 | +0 / +0 | `Lab` | `Jupyter Notebook` | `NOASSERTION` | 76 |
-| 🆕 💎 🧠 🧪 [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 22 production-quality Claude Code Skills for cybersecurity professionals , covering offensive security, defensive ope... | 591 | +0 / +0 | `Lab` | `Python` | `NOASSERTION` | 66 |
+| 🆕 💎 🧠 🧪 [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) | 22 production-quality Claude Code Skills for cybersecurity professionals , covering offensive security, defensive ope... | 594 | +0 / +0 | `Lab` | `Python` | `NOASSERTION` | 66 |
 | 🆕 💎 🧠 🧪 [0xSojalSec/Awesome-AI-Security](https://github.com/0xSojalSec/Awesome-AI-Security) | Resources, research, and tools for securing AI systems | 31 | +0 / +0 | `Lab` | `Unknown` | `Unknown` | 65 |
 | 🆕 💎 🧠 🧪 [ivolake/awesome-ai-security-tg](https://github.com/ivolake/awesome-ai-security-tg) | Curated list of Telegram channels and chats on AI Security, AI/MLSecOps, LLM Security | 10 | +0 / +0 | `Lab` | `Unknown` | `MIT` | 61 |
 | 🆕 💎 🧠 🧪 [ErdemOzgen/RedAiRange](https://github.com/ErdemOzgen/RedAiRange) | A professional AI security range for red teaming, vulnerability research, defensive validation, and hands-on AI/ML se... | 132 | +0 / +0 | `Lab` | `Jupyter Notebook` | `MIT` | 60 |
 | 🆕 🧠 🧪 [aligorithm/Zero-Health](https://github.com/aligorithm/Zero-Health) | Zero trust. Zero security. Total exposure. A deliberately vulnerable health tech platform with AI Chatbot for learnin... | 49 | +0 / +0 | `Lab` | `JavaScript` | `MIT` | 49 |
 | 🆕 🧠 🧪 [ine-labs/LLMGoat](https://github.com/ine-labs/LLMGoat) | LLMGoat: Offensive LLM Security Environment | 28 | +0 / +0 | `Lab` | `HTML` | `MIT` | 46 |
 | 🆕 🧠 🧪 [0x4D31/airt](https://github.com/0x4D31/airt) | AIRT — A free, open-source AI Red Teaming course with 8 modules and hands-on Docker labs. Built with Perplexity Compu... | 269 | +0 / +0 | `Lab` | `HTML` | `Unknown` | 45 |
-| 🆕 🧠 🧪 [HumanCompatibleAI/tensor-trust](https://github.com/HumanCompatibleAI/tensor-trust) | A prompt injection game to collect data for robust ML research | 82 | +0 / +0 | `Lab` | `Python` | `BSD-2-Clause` | 42 |
+| 🆕 🧠 🧪 [HumanCompatibleAI/tensor-trust](https://github.com/HumanCompatibleAI/tensor-trust) | A prompt injection game to collect data for robust ML research | 83 | +0 / +0 | `Lab` | `Python` | `BSD-2-Clause` | 42 |
 
 ### ML Labs
 
@@ -1326,7 +1329,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 **Repositories:** 6  
 **Labs:** 0  
-**Stars:** 2,353  
+**Stars:** 2,354  
 **7-day growth:** +0
 
 ### Benchmarks / Eval
@@ -1346,7 +1349,7 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
-| 🆕 💎 ✅ [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) | OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project) | 1,504 | +0 / +0 | `Project` | `Python` | `NOASSERTION` | 59 |
+| 🆕 💎 ✅ [OWASP/www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) | OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project) | 1,505 | +0 / +0 | `Project` | `Python` | `NOASSERTION` | 59 |
 
 ### Jailbreak Testing
 
@@ -1368,9 +1371,9 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 
 ## 📚 RAG Security
 
-**Repositories:** 12  
-**Labs:** 3  
-**Stars:** 944  
+**Repositories:** 11  
+**Labs:** 2  
+**Stars:** 936  
 **7-day growth:** +0
 
 ### Benchmarks / Eval
@@ -1392,15 +1395,14 @@ Securing LLM's Against Top 10 OWASP Large Language Model Vulnerabilities 2024
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 💎 🧠 🧪 [airtasystems/DVAIA-Damn-Vulnerable-AI-Application](https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application) | Damn Vulnerable AI Application - For LLM Red Team Training. LLM testing, RAG testing, Multimodal testing, Agent testi... | 50 | +0 / +0 | `Lab` | `Python` | `Unknown` | 67 |
 | 🆕 🧠 🧪 [wearetyomsmnv/Awesome-LLM-agent-Security](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) | All about llm-agents security,attack,vulnerabilities and how to do them for cybersecurity. | 59 | +0 / +0 | `Lab` | `Unknown` | `Unlicense` | 44 |
-| 🆕 🧠 🧪 [r00tb3/RAG-Poisoning-Lab](https://github.com/r00tb3/RAG-Poisoning-Lab) | RAG Poisoning Lab — Educational AI Security Exercise | 10 | +0 / +0 | `Lab` | `Python` | `Unknown` | 41 |
 
 ### RAG Poisoning
 
 | Repo | Description | Stars | Growth | Type | Language | License | Quality |
 |---|---|---:|---:|---|---|---|---:|
 | 🆕 🧠 [prompt-security/RAG_Poisoning_POC](https://github.com/prompt-security/RAG_Poisoning_POC) | Stealthy Prompt Injection and Poisoning in RAG Systems via Vector Database Embeddings | 37 | +0 / +0 | `Tool / Framework` | `Python` | `AGPL-3.0` | 49 |
-| 🆕 🧠 [TreeAI-Lab/Awesome-RAG-Security](https://github.com/TreeAI-Lab/Awesome-RAG-Security) | No description. | 10 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 48 |
-| 🆕 🧠 [Yuning-J/CVE-KGRAG](https://github.com/Yuning-J/CVE-KGRAG) | Hybrid Knowledge Graph + RAG security intelligence platform for CVE analytics and semantic search. Llama3 integrated. | 22 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 39 |
+| 🆕 🧠 [TreeAI-Lab/Awesome-RAG-Security](https://github.com/TreeAI-Lab/Awesome-RAG-Security) | No description. | 11 | +0 / +0 | `Awesome List` | `Unknown` | `Unknown` | 48 |
+| 🆕 🧠 [Yuning-J/CVE-KGRAG](https://github.com/Yuning-J/CVE-KGRAG) | Hybrid Knowledge Graph + RAG security intelligence platform for CVE analytics and semantic search. Llama3 integrated. | 23 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 39 |
 | 🆕 [Mixture-of-RAGs-Security-Experts/MoRSE](https://github.com/Mixture-of-RAGs-Security-Experts/MoRSE) | MoRSE (Mixture of RAGs Security Experts), the first specialised AI chatbot for cybersecurity. MoRSE aims to provide c... | 17 | +0 / +0 | `Research / Benchmark` | `Python` | `Unknown` | 30 |
 | 🆕 [SchwinnL/LLM_Embedding_Attack](https://github.com/SchwinnL/LLM_Embedding_Attack) | Code to conduct an embedding attack on LLMs | 35 | +0 / +0 | `Research / Benchmark` | `Python` | `MIT` | 17 |
 | 🆕 [anshumanbh/cyber-safari](https://github.com/anshumanbh/cyber-safari) | A fun POC that is built to understand AI security agents. | 36 | +0 / +0 | `Project` | `Python` | `MIT` | 14 |
